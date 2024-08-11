@@ -1,0 +1,7697 @@
+{
+  "data": [
+    {
+      "id": 5,
+      "name": "United States - Utica - Utica N Railway",
+      "code": "ZUA",
+      "country": "United States",
+      "code_city": "UCA"
+    },
+    {
+      "id": 14,
+      "name": "United States - Houston - Westchase Hilton Heliport",
+      "code": "JWH",
+      "country": "United States",
+      "code_city": "HOU"
+    },
+    {
+      "id": 30,
+      "name": "Argentina - Jujuy - El Cadillal Airport",
+      "code": "JUJ",
+      "country": "Argentina",
+      "code_city": "JUJ"
+    },
+    {
+      "id": 40,
+      "name": "United States - Columbus - Columbus Municipal",
+      "code": "CLU",
+      "country": "United States",
+      "code_city": "CLU"
+    },
+    {
+      "id": 45,
+      "name": "Australia - Aurukun Mission - Aurukun Mission",
+      "code": "AUU",
+      "country": "Australia",
+      "code_city": "AUU"
+    },
+    {
+      "id": 73,
+      "name": "New Zealand - Mansion House - Mansion House",
+      "code": "KWU",
+      "country": "New Zealand",
+      "code_city": "KWU"
+    },
+    {
+      "id": 77,
+      "name": "Kazakhstan - Usharal - Usharal",
+      "code": "USJ",
+      "country": "Kazakhstan",
+      "code_city": "USJ"
+    },
+    {
+      "id": 83,
+      "name": "Laos - Attopeu - Attopeu",
+      "code": "AOU",
+      "country": "Laos",
+      "code_city": "AOU"
+    },
+    {
+      "id": 89,
+      "name": "Chile - Punta Arenas - Pres Ibanez Airport",
+      "code": "PUQ",
+      "country": "Chile",
+      "code_city": "PUQ"
+    },
+    {
+      "id": 120,
+      "name": "United States - Washington - Washington Union Railway Station",
+      "code": "ZWU",
+      "country": "United States",
+      "code_city": "WAS"
+    },
+    {
+      "id": 136,
+      "name": "United States - Butler - Butler",
+      "code": "BUM",
+      "country": "United States",
+      "code_city": "BUM"
+    },
+    {
+      "id": 137,
+      "name": "China - Fuoshan - Fuoshan Airport",
+      "code": "FUO",
+      "country": "China",
+      "code_city": "FUO"
+    },
+    {
+      "id": 147,
+      "name": "South Africa - Queenstown - Queenstown",
+      "code": "UTW",
+      "country": "South Africa",
+      "code_city": "UTW"
+    },
+    {
+      "id": 157,
+      "name": "Iran - Shahrud - Shahrud",
+      "code": "RUD",
+      "country": "Iran",
+      "code_city": "RUD"
+    },
+    {
+      "id": 158,
+      "name": "Canada - Montreal - Montreal-Pierre Elliott Trudeau International Airport",
+      "code": "YUL",
+      "country": "Canada",
+      "code_city": "YMQ"
+    },
+    {
+      "id": 168,
+      "name": "United Kingdom - Chichester - Goodwood",
+      "code": "QUG",
+      "country": "United Kingdom",
+      "code_city": "QUG"
+    },
+    {
+      "id": 180,
+      "name": "Australia - Humbert River - Humbert River",
+      "code": "HUB",
+      "country": "Australia",
+      "code_city": "HUB"
+    },
+    {
+      "id": 194,
+      "name": "Japan - Yakushima - Yakushima Airport",
+      "code": "KUM",
+      "country": "Japan",
+      "code_city": "KUM"
+    },
+    {
+      "id": 201,
+      "name": "Republic of the Congo - Mouyondzi - Mouyondzi",
+      "code": "MUY",
+      "country": "Republic of the Congo",
+      "code_city": "MUY"
+    },
+    {
+      "id": 216,
+      "name": "Australia - Muttaburra - Muttaburra",
+      "code": "UTB",
+      "country": "Australia",
+      "code_city": "UTB"
+    },
+    {
+      "id": 239,
+      "name": "Russia - Usinsk - Usinsk Airport",
+      "code": "USK",
+      "country": "Russia",
+      "code_city": "USK"
+    },
+    {
+      "id": 242,
+      "name": "Kazakhstan - Atyrau - Atyrau Airport",
+      "code": "GUW",
+      "country": "Kazakhstan",
+      "code_city": "GUW"
+    },
+    {
+      "id": 255,
+      "name": "Germany - Ulm - Ulm Hbf Railway Station",
+      "code": "QUL",
+      "country": "Germany",
+      "code_city": "QUL"
+    },
+    {
+      "id": 269,
+      "name": "United States - Paimiut - SPB",
+      "code": "PMU",
+      "country": "United States",
+      "code_city": "PMU"
+    },
+    {
+      "id": 290,
+      "name": "Solomon Islands - Avu Avu - Avu Avu",
+      "code": "AVU",
+      "country": "Solomon Islands",
+      "code_city": "AVU"
+    },
+    {
+      "id": 292,
+      "name": "United States - Umiat - Umiat",
+      "code": "UMT",
+      "country": "United States",
+      "code_city": "UMT"
+    },
+    {
+      "id": 295,
+      "name": "Greece - Skiros - Skiros Airport",
+      "code": "SKU",
+      "country": "Greece",
+      "code_city": "SKU"
+    },
+    {
+      "id": 300,
+      "name": "Mongolia - Bulgan (Khovd) - Bulgan, Hovd",
+      "code": "HBU",
+      "country": "Mongolia",
+      "code_city": "HBU"
+    },
+    {
+      "id": 303,
+      "name": "Croatia - Split - Split Airport",
+      "code": "SPU",
+      "country": "Croatia",
+      "code_city": "SPU"
+    },
+    {
+      "id": 311,
+      "name": "Papua New Guinea - Fulleborn - Fulleborn",
+      "code": "FUB",
+      "country": "Papua New Guinea",
+      "code_city": "FUB"
+    },
+    {
+      "id": 320,
+      "name": "Brazil - Blumenau - Blumenau",
+      "code": "BNU",
+      "country": "Brazil",
+      "code_city": "BNU"
+    },
+    {
+      "id": 326,
+      "name": "Saudi Arabia - Gurayat - Gurayat Airport",
+      "code": "URY",
+      "country": "Saudi Arabia",
+      "code_city": "URY"
+    },
+    {
+      "id": 353,
+      "name": "United States - Provo - Provo Airport",
+      "code": "PVU",
+      "country": "United States",
+      "code_city": "PVU"
+    },
+    {
+      "id": 367,
+      "name": "Honduras - Copan - Copan",
+      "code": "RUY",
+      "country": "Honduras",
+      "code_city": "RUY"
+    },
+    {
+      "id": 387,
+      "name": "South Africa - Dukuduku - Dukuduk",
+      "code": "DUK",
+      "country": "South Africa",
+      "code_city": "DUK"
+    },
+    {
+      "id": 388,
+      "name": "Cook Islands - Mauke Island - Mauke Island",
+      "code": "MUK",
+      "country": "Cook Islands",
+      "code_city": "MUK"
+    },
+    {
+      "id": 399,
+      "name": "Gabon - Fougamou - Fougamou",
+      "code": "FOU",
+      "country": "Gabon",
+      "code_city": "FOU"
+    },
+    {
+      "id": 413,
+      "name": "Saint Lucia - Saint Lucia - George F. L. Charles Airport",
+      "code": "SLU",
+      "country": "Saint Lucia",
+      "code_city": "SLU"
+    },
+    {
+      "id": 421,
+      "name": "Peru - Jauja - Jauja Airport",
+      "code": "JAU",
+      "country": "Peru",
+      "code_city": "JAU"
+    },
+    {
+      "id": 444,
+      "name": "United States - Columbus - Municipal",
+      "code": "CUS",
+      "country": "United States",
+      "code_city": "CUS"
+    },
+    {
+      "id": 446,
+      "name": "Peru - Juliaca - Juliaca Airport",
+      "code": "JUL",
+      "country": "Peru",
+      "code_city": "JUL"
+    },
+    {
+      "id": 448,
+      "name": "United States - Kelly Bar - Kelly Bar",
+      "code": "KEU",
+      "country": "United States",
+      "code_city": "KEU"
+    },
+    {
+      "id": 460,
+      "name": "Mexico - Pochutla - Pochutla",
+      "code": "PUH",
+      "country": "Mexico",
+      "code_city": "PUH"
+    },
+    {
+      "id": 464,
+      "name": "Mongolia - Uliastai - Uliastai",
+      "code": "ULZ",
+      "country": "Mongolia",
+      "code_city": "ULZ"
+    },
+    {
+      "id": 469,
+      "name": "United States - Goodnews Bay - Goodnews Bay",
+      "code": "GNU",
+      "country": "United States",
+      "code_city": "GNU"
+    },
+    {
+      "id": 496,
+      "name": "Portugal - Corvo Island (Azores) - Corvo Island (Azores) Airport",
+      "code": "CVU",
+      "country": "Portugal",
+      "code_city": "CVU"
+    },
+    {
+      "id": 499,
+      "name": "Brazil - Uruguaiana - Ruben Berta Airport",
+      "code": "URG",
+      "country": "Brazil",
+      "code_city": "URG"
+    },
+    {
+      "id": 514,
+      "name": "Netherlands - Utrecht - Utrecht Centraal Railway Station",
+      "code": "ZYU",
+      "country": "Netherlands",
+      "code_city": "UTC"
+    },
+    {
+      "id": 535,
+      "name": "Papua New Guinea - Witu - Witu",
+      "code": "WIU",
+      "country": "Papua New Guinea",
+      "code_city": "WIU"
+    },
+    {
+      "id": 539,
+      "name": "Honduras - Tegucigalpa - Toncontin Airport",
+      "code": "TGU",
+      "country": "Honduras",
+      "code_city": "TGU"
+    },
+    {
+      "id": 557,
+      "name": "Saudi Arabia - Al Ula - Prince Abdul Majeed bin Abdulaziz Airport",
+      "code": "ULH",
+      "country": "Saudi Arabia",
+      "code_city": "ULH"
+    },
+    {
+      "id": 574,
+      "name": "French Polynesia - Ua Pou - Ua Pou",
+      "code": "UAP",
+      "country": "French Polynesia",
+      "code_city": "UAP"
+    },
+    {
+      "id": 583,
+      "name": "Brazil - Nanuque - Nanuque",
+      "code": "NNU",
+      "country": "Brazil",
+      "code_city": "NNU"
+    },
+    {
+      "id": 593,
+      "name": "South Africa - Durban - Virginia",
+      "code": "VIR",
+      "country": "South Africa",
+      "code_city": "DUR"
+    },
+    {
+      "id": 615,
+      "name": "Sweden - Solvesborg - Solvesborg",
+      "code": "XYU",
+      "country": "Sweden",
+      "code_city": "XYU"
+    },
+    {
+      "id": 621,
+      "name": "Russia - Uraj - Uraj Airport",
+      "code": "URJ",
+      "country": "Russia",
+      "code_city": "URJ"
+    },
+    {
+      "id": 625,
+      "name": "China - Bengbu - Bengbu",
+      "code": "BFU",
+      "country": "China",
+      "code_city": "BFU"
+    },
+    {
+      "id": 635,
+      "name": "Gabon - Ouanga - Ouanga",
+      "code": "OUU",
+      "country": "Gabon",
+      "code_city": "OUU"
+    },
+    {
+      "id": 659,
+      "name": "Pakistan - Multan - Multan Airport",
+      "code": "MUX",
+      "country": "Pakistan",
+      "code_city": "MUX"
+    },
+    {
+      "id": 666,
+      "name": "United States - Ware - Ware",
+      "code": "UWA",
+      "country": "United States",
+      "code_city": "UWA"
+    },
+    {
+      "id": 669,
+      "name": "United States - Mountain Home - Mountain Home AFB",
+      "code": "MUO",
+      "country": "United States",
+      "code_city": "MUO"
+    },
+    {
+      "id": 671,
+      "name": "Brazil - Umuarama - Ernesto Geisel",
+      "code": "UMU",
+      "country": "Brazil",
+      "code_city": "UMU"
+    },
+    {
+      "id": 676,
+      "name": "United States - Du Bois - Du Bois-Jefferson County",
+      "code": "DUJ",
+      "country": "United States",
+      "code_city": "DUJ"
+    },
+    {
+      "id": 695,
+      "name": "United States - Poughkeepsie - Dutchess County",
+      "code": "POU",
+      "country": "United States",
+      "code_city": "POU"
+    },
+    {
+      "id": 697,
+      "name": "Belgium - Brussels - Brussels Airport",
+      "code": "BRU",
+      "country": "Belgium",
+      "code_city": "BRU"
+    },
+    {
+      "id": 703,
+      "name": "United States - Fort Yukon - Fort Yukon Airport",
+      "code": "FYU",
+      "country": "United States",
+      "code_city": "FYU"
+    },
+    {
+      "id": 709,
+      "name": "Pakistan - Skardu - Skardu Airport",
+      "code": "KDU",
+      "country": "Pakistan",
+      "code_city": "KDU"
+    },
+    {
+      "id": 726,
+      "name": "India - Udaipur - Maharana Pratap Airport",
+      "code": "UDR",
+      "country": "India",
+      "code_city": "UDR"
+    },
+    {
+      "id": 730,
+      "name": "China - Jiamusi - Jiamusi Airport",
+      "code": "JMU",
+      "country": "China",
+      "code_city": "JMU"
+    },
+    {
+      "id": 735,
+      "name": "United States - Tucson - Davis Monthan AFB",
+      "code": "DMA",
+      "country": "United States",
+      "code_city": "TUS"
+    },
+    {
+      "id": 742,
+      "name": "Myanmar - Putao - Putao",
+      "code": "PBU",
+      "country": "Myanmar",
+      "code_city": "PBU"
+    },
+    {
+      "id": 765,
+      "name": "Sudan - Gedaref - Gedaref",
+      "code": "GSU",
+      "country": "Sudan",
+      "code_city": "GSU"
+    },
+    {
+      "id": 768,
+      "name": "Japan - Kume-jima - Kume-jima Airport",
+      "code": "UEO",
+      "country": "Japan",
+      "code_city": "UEO"
+    },
+    {
+      "id": 775,
+      "name": "United States - Waukon - Waukon Municipal Airport",
+      "code": "UKN",
+      "country": "United States",
+      "code_city": "UKN"
+    },
+    {
+      "id": 777,
+      "name": "United States - Humboldt - Humboldt",
+      "code": "HUD",
+      "country": "United States",
+      "code_city": "HUD"
+    },
+    {
+      "id": 779,
+      "name": "Iran - Nojeh - Nojeh",
+      "code": "NUJ",
+      "country": "Iran",
+      "code_city": "NUJ"
+    },
+    {
+      "id": 783,
+      "name": "Switzerland - Sila - Sursee Railway Station",
+      "code": "ZKU",
+      "country": "Switzerland",
+      "code_city": "ZKU"
+    },
+    {
+      "id": 796,
+      "name": "Italy - Cuneo - Levaldigi Airport",
+      "code": "CUF",
+      "country": "Italy",
+      "code_city": "CUF"
+    },
+    {
+      "id": 803,
+      "name": "Russia - Yuzhno-Sakhalinsk - Yuzhno-Sakhalinsk Airport",
+      "code": "UUS",
+      "country": "Russia",
+      "code_city": "UUS"
+    },
+    {
+      "id": 823,
+      "name": "United States - Los Angeles - Universal City Heliport",
+      "code": "JUC",
+      "country": "United States",
+      "code_city": "LAX"
+    },
+    {
+      "id": 826,
+      "name": "Nauru - Nauru Island - Nauru International",
+      "code": "INU",
+      "country": "Nauru",
+      "code_city": "INU"
+    },
+    {
+      "id": 832,
+      "name": "Iraq - Sulaimaniyah - Sulaimaniyah International Airport",
+      "code": "ISU",
+      "country": "Iraq",
+      "code_city": "ISU"
+    },
+    {
+      "id": 835,
+      "name": "Thailand - Uttaradit - Uttaradit",
+      "code": "UTR",
+      "country": "Thailand",
+      "code_city": "UTR"
+    },
+    {
+      "id": 841,
+      "name": "Papua New Guinea - Pureni - Pureni",
+      "code": "PUI",
+      "country": "Papua New Guinea",
+      "code_city": "PUI"
+    },
+    {
+      "id": 842,
+      "name": "Democratic Republic of the Congo - Bunia - Bunia",
+      "code": "BUX",
+      "country": "Democratic Republic of the Congo",
+      "code_city": "BUX"
+    },
+    {
+      "id": 843,
+      "name": "Malaysia - Ranau - Ranau",
+      "code": "RNU",
+      "country": "Malaysia",
+      "code_city": "RNU"
+    },
+    {
+      "id": 845,
+      "name": "Indonesia - Dumai - Pinang Kampai",
+      "code": "DUM",
+      "country": "Indonesia",
+      "code_city": "DUM"
+    },
+    {
+      "id": 848,
+      "name": "United States - Yuma - Laguna AAF",
+      "code": "LGF",
+      "country": "United States",
+      "code_city": "YUM"
+    },
+    {
+      "id": 889,
+      "name": "United States - Pueblo - Pueblo Memorial Airport",
+      "code": "PUB",
+      "country": "United States",
+      "code_city": "PUB"
+    },
+    {
+      "id": 891,
+      "name": "New Caledonia - Ile Ouen - Ile Ouen",
+      "code": "IOU",
+      "country": "New Caledonia",
+      "code_city": "IOU"
+    },
+    {
+      "id": 899,
+      "name": "Germany - Cottbus - Cottbus",
+      "code": "CBU",
+      "country": "Germany",
+      "code_city": "CBU"
+    },
+    {
+      "id": 907,
+      "name": "Greenland - Pituffik - Pituffik Airport",
+      "code": "THU",
+      "country": "Greenland",
+      "code_city": "THU"
+    },
+    {
+      "id": 919,
+      "name": "Germany - Nuremberg - Nuremberg Hbf Railway Station",
+      "code": "ZAQ",
+      "country": "Germany",
+      "code_city": "NUE"
+    },
+    {
+      "id": 920,
+      "name": "Ethiopia - Humera - Humera Airport",
+      "code": "HUE",
+      "country": "Ethiopia",
+      "code_city": "HUE"
+    },
+    {
+      "id": 943,
+      "name": "Germany - Ludwigslust - Ludwigslust Railway Station",
+      "code": "ZLU",
+      "country": "Germany",
+      "code_city": "ZLU"
+    },
+    {
+      "id": 944,
+      "name": "Australia - Cudal - Cudal",
+      "code": "CUG",
+      "country": "Australia",
+      "code_city": "CUG"
+    },
+    {
+      "id": 946,
+      "name": "United States - Kamuela - Kamuela",
+      "code": "MUE",
+      "country": "United States",
+      "code_city": "MUE"
+    },
+    {
+      "id": 950,
+      "name": "United Kingdom - Unst Shetland Island - Baltasound",
+      "code": "UNT",
+      "country": "United Kingdom",
+      "code_city": "UNT"
+    },
+    {
+      "id": 957,
+      "name": "Venezuela - Guanare - Guanare",
+      "code": "GUQ",
+      "country": "Venezuela",
+      "code_city": "GUQ"
+    },
+    {
+      "id": 963,
+      "name": "United States - Houston - David Wayne Hooks",
+      "code": "DWH",
+      "country": "United States",
+      "code_city": "HOU"
+    },
+    {
+      "id": 997,
+      "name": "Papua New Guinea - Agaun - Agaun",
+      "code": "AUP",
+      "country": "Papua New Guinea",
+      "code_city": "AUP"
+    },
+    {
+      "id": 1008,
+      "name": "Australia - Sydney - Sydney Bankstown",
+      "code": "BWU",
+      "country": "Australia",
+      "code_city": "SYD"
+    },
+    {
+      "id": 1030,
+      "name": "Australia - Cue - Cue",
+      "code": "CUY",
+      "country": "Australia",
+      "code_city": "CUY"
+    },
+    {
+      "id": 1033,
+      "name": "Kenya - Kiunga - Kiunga",
+      "code": "KIU",
+      "country": "Kenya",
+      "code_city": "KIU"
+    },
+    {
+      "id": 1037,
+      "name": "Papua New Guinea - Mount Hagen - Mount Hagen Airport",
+      "code": "HGU",
+      "country": "Papua New Guinea",
+      "code_city": "HGU"
+    },
+    {
+      "id": 1042,
+      "name": "Oman - Mukhaizna - Mukhaizna",
+      "code": "UKH",
+      "country": "Oman",
+      "code_city": "UKH"
+    },
+    {
+      "id": 1049,
+      "name": "United States - Austin - Austin-Bergstrom International Airport",
+      "code": "AUS",
+      "country": "United States",
+      "code_city": "AUS"
+    },
+    {
+      "id": 1061,
+      "name": "Brazil - Santa Cruz Do Sul - Santa Cruz Do Sul",
+      "code": "CSU",
+      "country": "Brazil",
+      "code_city": "CSU"
+    },
+    {
+      "id": 1068,
+      "name": "Australia - Yuendumu - Yuendumu",
+      "code": "YUE",
+      "country": "Australia",
+      "code_city": "YUE"
+    },
+    {
+      "id": 1071,
+      "name": "Argentina - San Luis - San Luis Airport",
+      "code": "LUQ",
+      "country": "Argentina",
+      "code_city": "LUQ"
+    },
+    {
+      "id": 1082,
+      "name": "United States - Cordova - City",
+      "code": "CKU",
+      "country": "United States",
+      "code_city": "CDV"
+    },
+    {
+      "id": 1096,
+      "name": "Argentina - Puerto Deseado - Puerto Deseado",
+      "code": "PUD",
+      "country": "Argentina",
+      "code_city": "PUD"
+    },
+    {
+      "id": 1105,
+      "name": "Azerbaijan - Zaqatala - Zaqatala",
+      "code": "ZTU",
+      "country": "Azerbaijan",
+      "code_city": "ZTU"
+    },
+    {
+      "id": 1112,
+      "name": "India - Guwahati - Lokpriya Gopinath Bordoloi International Airport",
+      "code": "GAU",
+      "country": "India",
+      "code_city": "GAU"
+    },
+    {
+      "id": 1131,
+      "name": "Brazil - Tucurui - Tucurui",
+      "code": "TUR",
+      "country": "Brazil",
+      "code_city": "TUR"
+    },
+    {
+      "id": 1156,
+      "name": "Germany - Guetersloh - Guetersloh",
+      "code": "GUT",
+      "country": "Germany",
+      "code_city": "GUT"
+    },
+    {
+      "id": 1158,
+      "name": "United States - Decatur - Pyor",
+      "code": "DCU",
+      "country": "United States",
+      "code_city": "DCU"
+    },
+    {
+      "id": 1162,
+      "name": "Papua New Guinea - Balimo - Balimo",
+      "code": "OPU",
+      "country": "Papua New Guinea",
+      "code_city": "OPU"
+    },
+    {
+      "id": 1167,
+      "name": "Australia - Mullewa - Mullewa",
+      "code": "MXU",
+      "country": "Australia",
+      "code_city": "MXU"
+    },
+    {
+      "id": 1198,
+      "name": "Brazil - Uberlandia - Uberlandia-Ten. Cel. Av. Cesar Bombonato Airport",
+      "code": "UDI",
+      "country": "Brazil",
+      "code_city": "UDI"
+    },
+    {
+      "id": 1211,
+      "name": "Germany - Wiesbaden - Wiesbaden Hbf Railway Station",
+      "code": "UWE",
+      "country": "Germany",
+      "code_city": "WIE"
+    },
+    {
+      "id": 1228,
+      "name": "Greenland - Alluitsup Paa - Alluitsup Paa",
+      "code": "LLU",
+      "country": "Greenland",
+      "code_city": "LLU"
+    },
+    {
+      "id": 1263,
+      "name": "Papua New Guinea - Aumo - Aumo",
+      "code": "AUV",
+      "country": "Papua New Guinea",
+      "code_city": "AUV"
+    },
+    {
+      "id": 1281,
+      "name": "Switzerland - Lugano - Lugano Airport",
+      "code": "LUG",
+      "country": "Switzerland",
+      "code_city": "LUG"
+    },
+    {
+      "id": 1284,
+      "name": "Germany - Wuerzburg - Wuerzburg Hbf Railway Station",
+      "code": "QWU",
+      "country": "Germany",
+      "code_city": "QWU"
+    },
+    {
+      "id": 1285,
+      "name": "Germany - Erfurt - Erfurt Hbf Railway Station",
+      "code": "XIU",
+      "country": "Germany",
+      "code_city": "ERF"
+    },
+    {
+      "id": 1296,
+      "name": "Chad - Oum Hadjer - Oum Hadjer",
+      "code": "OUM",
+      "country": "Chad",
+      "code_city": "OUM"
+    },
+    {
+      "id": 1298,
+      "name": "Australia - Gunnedah - Gunnedah",
+      "code": "GUH",
+      "country": "Australia",
+      "code_city": "GUH"
+    },
+    {
+      "id": 1306,
+      "name": "Canada - Chisasibi - Chisasibi",
+      "code": "YKU",
+      "country": "Canada",
+      "code_city": "YKU"
+    },
+    {
+      "id": 1310,
+      "name": "Papua New Guinea - Mount Aue - Mount Aue",
+      "code": "UAE",
+      "country": "Papua New Guinea",
+      "code_city": "UAE"
+    },
+    {
+      "id": 1320,
+      "name": "New Caledonia - Noumea - Noumea Magenta Airport",
+      "code": "GEA",
+      "country": "New Caledonia",
+      "code_city": "NOU"
+    },
+    {
+      "id": 1322,
+      "name": "Sri Lanka - Hatton - Castlereigh Reservoir Waterdrome",
+      "code": "NUF",
+      "country": "Sri Lanka",
+      "code_city": "NUF"
+    },
+    {
+      "id": 1334,
+      "name": "China - Zhuhai - Jiuzhou Ferry Port",
+      "code": "ZUI",
+      "country": "China",
+      "code_city": "ZUH"
+    },
+    {
+      "id": 1336,
+      "name": "Vietnam - Hue - Phu Bai International Airport",
+      "code": "HUI",
+      "country": "Vietnam",
+      "code_city": "HUI"
+    },
+    {
+      "id": 1341,
+      "name": "United States - Columbus - Lowndes County",
+      "code": "UBS",
+      "country": "United States",
+      "code_city": "UBS"
+    },
+    {
+      "id": 1364,
+      "name": "Norway - Nesbyen - Nesbyen Railway Station",
+      "code": "XUL",
+      "country": "Norway",
+      "code_city": "XUL"
+    },
+    {
+      "id": 1377,
+      "name": "French Polynesia - Rurutu - Rurutu",
+      "code": "RUR",
+      "country": "French Polynesia",
+      "code_city": "RUR"
+    },
+    {
+      "id": 1379,
+      "name": "China - Yulin - Yulin Yuyang Airport",
+      "code": "UYN",
+      "country": "China",
+      "code_city": "UYN"
+    },
+    {
+      "id": 1383,
+      "name": "United States - Laurel - Hesler-Noble Field",
+      "code": "LUL",
+      "country": "United States",
+      "code_city": "LUL"
+    },
+    {
+      "id": 1384,
+      "name": "Spain - Burgos - Burgos Bus Station",
+      "code": "XJU",
+      "country": "Spain",
+      "code_city": "RGS"
+    },
+    {
+      "id": 1412,
+      "name": "Germany - Dessau - Dessau Railway",
+      "code": "ZSU",
+      "country": "Germany",
+      "code_city": "ZSU"
+    },
+    {
+      "id": 1416,
+      "name": "China - Chizhou - Chizhou Jiuhuashan Airport",
+      "code": "JUH",
+      "country": "China",
+      "code_city": "JUH"
+    },
+    {
+      "id": 1422,
+      "name": "United States - Poulsbo - Poulsbo",
+      "code": "PUL",
+      "country": "United States",
+      "code_city": "PUL"
+    },
+    {
+      "id": 1428,
+      "name": "Russia - Batagay-Alyta - Sakkyryr Airport",
+      "code": "SUK",
+      "country": "Russia",
+      "code_city": "SUK"
+    },
+    {
+      "id": 1431,
+      "name": "United States - Oxford - University-Oxford",
+      "code": "UOX",
+      "country": "United States",
+      "code_city": "UOX"
+    },
+    {
+      "id": 1434,
+      "name": "United States - Auburn - Auburn",
+      "code": "AUN",
+      "country": "United States",
+      "code_city": "AUN"
+    },
+    {
+      "id": 1438,
+      "name": "Russia - Velikiye Luki - Velikiye Luki",
+      "code": "VLU",
+      "country": "Russia",
+      "code_city": "VLU"
+    },
+    {
+      "id": 1447,
+      "name": "United States - Mount Union - Mount Union",
+      "code": "MUU",
+      "country": "United States",
+      "code_city": "MUU"
+    },
+    {
+      "id": 1449,
+      "name": "Germany - Guetersloh - Guetersloh Hbf Railway Station",
+      "code": "ZEX",
+      "country": "Germany",
+      "code_city": "GUT"
+    },
+    {
+      "id": 1453,
+      "name": "Kenya - Ukunda - Ukunda Airport",
+      "code": "UKA",
+      "country": "Kenya",
+      "code_city": "UKA"
+    },
+    {
+      "id": 1455,
+      "name": "Thailand - Udon Thani - Udon Thani International Airport",
+      "code": "UTH",
+      "country": "Thailand",
+      "code_city": "UTH"
+    },
+    {
+      "id": 1458,
+      "name": "United States - Greenville - Greenville Downtown",
+      "code": "GMU",
+      "country": "United States",
+      "code_city": "GSP"
+    },
+    {
+      "id": 1468,
+      "name": "Cuba - Santiago - Antonio Maceo Airport",
+      "code": "SCU",
+      "country": "Cuba",
+      "code_city": "SCU"
+    },
+    {
+      "id": 1477,
+      "name": "Canada - Hope Bay - Doris Lake",
+      "code": "JOJ",
+      "country": "Canada",
+      "code_city": "UZM"
+    },
+    {
+      "id": 1480,
+      "name": "United Kingdom - Upavon - Upavon",
+      "code": "UPV",
+      "country": "United Kingdom",
+      "code_city": "UPV"
+    },
+    {
+      "id": 1494,
+      "name": "New Caledonia - Touho - Touho",
+      "code": "TOU",
+      "country": "New Caledonia",
+      "code_city": "TOU"
+    },
+    {
+      "id": 1500,
+      "name": "Botswana - Hukuntsi - Hukuntsi",
+      "code": "HUK",
+      "country": "Botswana",
+      "code_city": "HUK"
+    },
+    {
+      "id": 1508,
+      "name": "Zambia - Lusaka - Kenneth Kaunda International Airport",
+      "code": "LUN",
+      "country": "Zambia",
+      "code_city": "LUN"
+    },
+    {
+      "id": 1517,
+      "name": "Papua New Guinea - Iaura - Iaura",
+      "code": "IAU",
+      "country": "Papua New Guinea",
+      "code_city": "IAU"
+    },
+    {
+      "id": 1518,
+      "name": "United States - Fairfield - Travis AFB",
+      "code": "SUU",
+      "country": "United States",
+      "code_city": "SUU"
+    },
+    {
+      "id": 1519,
+      "name": "Germany - Nuremberg - Nuremberg Airport",
+      "code": "NUE",
+      "country": "Germany",
+      "code_city": "NUE"
+    },
+    {
+      "id": 1522,
+      "name": "Canada - Namu - Namu",
+      "code": "ZNU",
+      "country": "Canada",
+      "code_city": "ZNU"
+    },
+    {
+      "id": 1529,
+      "name": "Grenada - Carriacou Island - Carriacou Island",
+      "code": "CRU",
+      "country": "Grenada",
+      "code_city": "CRU"
+    },
+    {
+      "id": 1559,
+      "name": "Argentina - Cutral - Cutral",
+      "code": "CUT",
+      "country": "Argentina",
+      "code_city": "CUT"
+    },
+    {
+      "id": 1564,
+      "name": "France - Tours - Tours Railway Station",
+      "code": "XJT",
+      "country": "France",
+      "code_city": "TUF"
+    },
+    {
+      "id": 1569,
+      "name": "United States - Houston - Central Bus. District",
+      "code": "JDX",
+      "country": "United States",
+      "code_city": "HOU"
+    },
+    {
+      "id": 1582,
+      "name": "Kenya - Samburu - Samburu",
+      "code": "UAS",
+      "country": "Kenya",
+      "code_city": "UAS"
+    },
+    {
+      "id": 1593,
+      "name": "Colombia - Tolu - Tolu",
+      "code": "TLU",
+      "country": "Colombia",
+      "code_city": "TLU"
+    },
+    {
+      "id": 1598,
+      "name": "Japan - Kushimoto - Kushimoto",
+      "code": "KUJ",
+      "country": "Japan",
+      "code_city": "KUJ"
+    },
+    {
+      "id": 1624,
+      "name": "Malaysia - Kuala Lumpur - Sentral Railway Station",
+      "code": "XKL",
+      "country": "Malaysia",
+      "code_city": "KUL"
+    },
+    {
+      "id": 1631,
+      "name": "South Korea - Ulsan - Ulsan Airport",
+      "code": "USN",
+      "country": "South Korea",
+      "code_city": "USN"
+    },
+    {
+      "id": 1632,
+      "name": "Argentina - Rio Cuarto - Rio Cuarto",
+      "code": "RCU",
+      "country": "Argentina",
+      "code_city": "RCU"
+    },
+    {
+      "id": 1637,
+      "name": "Japan - Fukue - Fukue Airport",
+      "code": "FUJ",
+      "country": "Japan",
+      "code_city": "FUJ"
+    },
+    {
+      "id": 1661,
+      "name": "Russia - Samara - Kurumoch International Airport",
+      "code": "KUF",
+      "country": "Russia",
+      "code_city": "KUF"
+    },
+    {
+      "id": 1665,
+      "name": "Sweden - Madurai - Tierp Railway Station",
+      "code": "XFU",
+      "country": "Sweden",
+      "code_city": "XFU"
+    },
+    {
+      "id": 1673,
+      "name": "Papua New Guinea - Guriaso - Guriaso",
+      "code": "GUE",
+      "country": "Papua New Guinea",
+      "code_city": "GUE"
+    },
+    {
+      "id": 1686,
+      "name": "Colombia - Tauramena - Tauramena",
+      "code": "TAU",
+      "country": "Colombia",
+      "code_city": "TAU"
+    },
+    {
+      "id": 1703,
+      "name": "Kenya - Kilaguni - Kilaguni",
+      "code": "ILU",
+      "country": "Kenya",
+      "code_city": "ILU"
+    },
+    {
+      "id": 1708,
+      "name": "United States - Kalaupapa - Kalaupapa",
+      "code": "LUP",
+      "country": "United States",
+      "code_city": "LUP"
+    },
+    {
+      "id": 1721,
+      "name": "China - Jiujiang - Jiujiang",
+      "code": "JIU",
+      "country": "China",
+      "code_city": "JIU"
+    },
+    {
+      "id": 1742,
+      "name": "United States - Houston - Transco Twr Galleria",
+      "code": "JGQ",
+      "country": "United States",
+      "code_city": "HOU"
+    },
+    {
+      "id": 1747,
+      "name": "Australia - Hopetoun - Hopetoun",
+      "code": "HTU",
+      "country": "Australia",
+      "code_city": "HTU"
+    },
+    {
+      "id": 1753,
+      "name": "Kazakhstan - Uralsk - Uralsk Airport",
+      "code": "URA",
+      "country": "Kazakhstan",
+      "code_city": "URA"
+    },
+    {
+      "id": 1758,
+      "name": "United Kingdom - Humberside - Humberside Airport",
+      "code": "HUY",
+      "country": "United Kingdom",
+      "code_city": "HUY"
+    },
+    {
+      "id": 1763,
+      "name": "United States - Attu Island - Casco Cove",
+      "code": "ATU",
+      "country": "United States",
+      "code_city": "ATU"
+    },
+    {
+      "id": 1773,
+      "name": "Spain - Huesca - Huesca Railway Station",
+      "code": "XUA",
+      "country": "Spain",
+      "code_city": "HSK"
+    },
+    {
+      "id": 1790,
+      "name": "Ecuador - Tulcan - Tulcan",
+      "code": "TUA",
+      "country": "Ecuador",
+      "code_city": "TUA"
+    },
+    {
+      "id": 1800,
+      "name": "Uruguay - Paysandu - Paysandu",
+      "code": "PDU",
+      "country": "Uruguay",
+      "code_city": "PDU"
+    },
+    {
+      "id": 1810,
+      "name": "French Polynesia - Huahine - Huahine Airport",
+      "code": "HUH",
+      "country": "French Polynesia",
+      "code_city": "HUH"
+    },
+    {
+      "id": 1811,
+      "name": "Russia - Velikij Ustyug - Velikij Ustyug Airport",
+      "code": "VUS",
+      "country": "Russia",
+      "code_city": "VUS"
+    },
+    {
+      "id": 1830,
+      "name": "United States - Wausau - Municipal",
+      "code": "AUW",
+      "country": "United States",
+      "code_city": "AUW"
+    },
+    {
+      "id": 1836,
+      "name": "Lithuania - Kaunas - Kaunas Airport",
+      "code": "KUN",
+      "country": "Lithuania",
+      "code_city": "KUN"
+    },
+    {
+      "id": 1840,
+      "name": "Central African Republic - Bangassou - Bangassou",
+      "code": "BGU",
+      "country": "Central African Republic",
+      "code_city": "BGU"
+    },
+    {
+      "id": 1845,
+      "name": "Canada - Hope Bay - Hope Bay",
+      "code": "UZM",
+      "country": "Canada",
+      "code_city": "UZM"
+    },
+    {
+      "id": 1848,
+      "name": "Marshall Islands - Namu - Namu",
+      "code": "NMU",
+      "country": "Marshall Islands",
+      "code_city": "NMU"
+    },
+    {
+      "id": 1864,
+      "name": "Guyana - Mabaruma - Mabaruma",
+      "code": "USI",
+      "country": "Guyana",
+      "code_city": "USI"
+    },
+    {
+      "id": 1869,
+      "name": "Mongolia - Underkhaan - Underkhaan",
+      "code": "UNR",
+      "country": "Mongolia",
+      "code_city": "UNR"
+    },
+    {
+      "id": 1870,
+      "name": "United States - Beluga - Beluga",
+      "code": "BVU",
+      "country": "United States",
+      "code_city": "BVU"
+    },
+    {
+      "id": 1880,
+      "name": "Colombia - Currillo - Currillo",
+      "code": "CUI",
+      "country": "Colombia",
+      "code_city": "CUI"
+    },
+    {
+      "id": 1881,
+      "name": "Egypt - Abu Rudeis - Abu Rudeis",
+      "code": "AUE",
+      "country": "Egypt",
+      "code_city": "AUE"
+    },
+    {
+      "id": 1912,
+      "name": "Brazil - Caruaru - Caruaru",
+      "code": "CAU",
+      "country": "Brazil",
+      "code_city": "CAU"
+    },
+    {
+      "id": 1915,
+      "name": "Nepal - Jumla - Jumla",
+      "code": "JUM",
+      "country": "Nepal",
+      "code_city": "JUM"
+    },
+    {
+      "id": 1920,
+      "name": "Cuba - Punta De Maisi - Punta De Maisi",
+      "code": "UMA",
+      "country": "Cuba",
+      "code_city": "UMA"
+    },
+    {
+      "id": 1925,
+      "name": "France - Pau - The Pau-Pyrenees International Airport",
+      "code": "PUF",
+      "country": "France",
+      "code_city": "PUF"
+    },
+    {
+      "id": 1934,
+      "name": "Curaçao - Curacao - Curacao International Airport",
+      "code": "CUR",
+      "country": "Curaçao",
+      "code_city": "CUR"
+    },
+    {
+      "id": 1958,
+      "name": "India - Aurangabad - Chikkalthana Airport",
+      "code": "IXU",
+      "country": "India",
+      "code_city": "IXU"
+    },
+    {
+      "id": 1964,
+      "name": "Romania - Bucharest - Baneasa",
+      "code": "BBU",
+      "country": "Romania",
+      "code_city": "BUH"
+    },
+    {
+      "id": 1982,
+      "name": "Argentina - San Juan - San Juan Airport",
+      "code": "UAQ",
+      "country": "Argentina",
+      "code_city": "UAQ"
+    },
+    {
+      "id": 1983,
+      "name": "Germany - Munich - Munich Hbf Railway Station",
+      "code": "ZMU",
+      "country": "Germany",
+      "code_city": "MUC"
+    },
+    {
+      "id": 1987,
+      "name": "Papua New Guinea - Wasum - Wasum",
+      "code": "WUM",
+      "country": "Papua New Guinea",
+      "code_city": "WUM"
+    },
+    {
+      "id": 1989,
+      "name": "Thailand - Ranong - Ranong Airport",
+      "code": "UNN",
+      "country": "Thailand",
+      "code_city": "UNN"
+    },
+    {
+      "id": 1995,
+      "name": "Vanuatu - Ulei - Ulei",
+      "code": "ULB",
+      "country": "Vanuatu",
+      "code_city": "ULB"
+    },
+    {
+      "id": 2001,
+      "name": "Ecuador - Cuenca - Mariscal Lamar International Airport",
+      "code": "CUE",
+      "country": "Ecuador",
+      "code_city": "CUE"
+    },
+    {
+      "id": 2009,
+      "name": "Mexico - Mexico City - Santa Lucia",
+      "code": "NLU",
+      "country": "Mexico",
+      "code_city": "MEX"
+    },
+    {
+      "id": 2015,
+      "name": "Canada - Ignace - Ignace",
+      "code": "ZUC",
+      "country": "Canada",
+      "code_city": "ZUC"
+    },
+    {
+      "id": 2031,
+      "name": "Greenland - Dundas - Dundas",
+      "code": "DUN",
+      "country": "Greenland",
+      "code_city": "DUN"
+    },
+    {
+      "id": 2039,
+      "name": "Italy - Udine - Airfield",
+      "code": "UDN",
+      "country": "Italy",
+      "code_city": "UDN"
+    },
+    {
+      "id": 2041,
+      "name": "United States - Buffalo - Exchangest Railway",
+      "code": "ZXS",
+      "country": "United States",
+      "code_city": "BUF"
+    },
+    {
+      "id": 2046,
+      "name": "United States - New Ulm - New Ulm",
+      "code": "ULM",
+      "country": "United States",
+      "code_city": "ULM"
+    },
+    {
+      "id": 2054,
+      "name": "Saudi Arabia - Tabuk - Tabuk Regional Airport",
+      "code": "TUU",
+      "country": "Saudi Arabia",
+      "code_city": "TUU"
+    },
+    {
+      "id": 2055,
+      "name": "United States - Tulsa - Tulsa International Airport",
+      "code": "TUL",
+      "country": "United States",
+      "code_city": "TUL"
+    },
+    {
+      "id": 2076,
+      "name": "Spain - Puertollano - Puertollano",
+      "code": "UER",
+      "country": "Spain",
+      "code_city": "UER"
+    },
+    {
+      "id": 2084,
+      "name": "United States - Summit - Summit",
+      "code": "UMM",
+      "country": "United States",
+      "code_city": "UMM"
+    },
+    {
+      "id": 2085,
+      "name": "Sudan - En Nahud - En Nahud",
+      "code": "NUD",
+      "country": "Sudan",
+      "code_city": "NUD"
+    },
+    {
+      "id": 2092,
+      "name": "Argentina - Ushuaia - Malvinas Argentinas International Airport",
+      "code": "USH",
+      "country": "Argentina",
+      "code_city": "USH"
+    },
+    {
+      "id": 2095,
+      "name": "China - Fuoshan - CZ Bus Station",
+      "code": "FSA",
+      "country": "China",
+      "code_city": "FUO"
+    },
+    {
+      "id": 2099,
+      "name": "Bolivia - Oruro - Oruro",
+      "code": "ORU",
+      "country": "Bolivia",
+      "code_city": "ORU"
+    },
+    {
+      "id": 2108,
+      "name": "Zambia - Lukulu - Lukulu",
+      "code": "LXU",
+      "country": "Zambia",
+      "code_city": "LXU"
+    },
+    {
+      "id": 2153,
+      "name": "Kenya - Nakuru - Nakuru",
+      "code": "NUU",
+      "country": "Kenya",
+      "code_city": "NUU"
+    },
+    {
+      "id": 2155,
+      "name": "Indonesia - Yuruf - Yuruf",
+      "code": "RUF",
+      "country": "Indonesia",
+      "code_city": "RUF"
+    },
+    {
+      "id": 2158,
+      "name": "Colombia - Cucuta - Camilo Daza International Airport",
+      "code": "CUC",
+      "country": "Colombia",
+      "code_city": "CUC"
+    },
+    {
+      "id": 2165,
+      "name": "Fiji - Vatukoula - Vatukoula",
+      "code": "VAU",
+      "country": "Fiji",
+      "code_city": "VAU"
+    },
+    {
+      "id": 2181,
+      "name": "United States - Houston - West Houston",
+      "code": "IWS",
+      "country": "United States",
+      "code_city": "HOU"
+    },
+    {
+      "id": 2184,
+      "name": "Indonesia - Putussibau - Putussibau Airport",
+      "code": "PSU",
+      "country": "Indonesia",
+      "code_city": "PSU"
+    },
+    {
+      "id": 2204,
+      "name": "Afghanistan - Kunduz - Kunduz",
+      "code": "UND",
+      "country": "Afghanistan",
+      "code_city": "UND"
+    },
+    {
+      "id": 2205,
+      "name": "Cuba - Punta Alegre - Punta Alegre",
+      "code": "UPA",
+      "country": "Cuba",
+      "code_city": "UPA"
+    },
+    {
+      "id": 2219,
+      "name": "Papua New Guinea - Mendi - Mendi Airport",
+      "code": "MDU",
+      "country": "Papua New Guinea",
+      "code_city": "MDU"
+    },
+    {
+      "id": 2231,
+      "name": "United Kingdom - Cachoeira - Huntingdon Railway Station",
+      "code": "XHU",
+      "country": "United Kingdom",
+      "code_city": "XHU"
+    },
+    {
+      "id": 2239,
+      "name": "Burkina Faso - Dedougou - Dedougou",
+      "code": "DGU",
+      "country": "Burkina Faso",
+      "code_city": "DGU"
+    },
+    {
+      "id": 2256,
+      "name": "Egypt - Mersa Matruh - Mersa Matruh",
+      "code": "MUH",
+      "country": "Egypt",
+      "code_city": "MUH"
+    },
+    {
+      "id": 2257,
+      "name": "Estonia - Parnu - Parnu",
+      "code": "EPU",
+      "country": "Estonia",
+      "code_city": "EPU"
+    },
+    {
+      "id": 2265,
+      "name": "French Polynesia - Fangatau - Fangatau",
+      "code": "FGU",
+      "country": "French Polynesia",
+      "code_city": "FGU"
+    },
+    {
+      "id": 2269,
+      "name": "United States - Columbus - Golden Triangle Regional Airport",
+      "code": "GTR",
+      "country": "United States",
+      "code_city": "UBS"
+    },
+    {
+      "id": 2272,
+      "name": "India - Kulu - Bhuntar Airport",
+      "code": "KUU",
+      "country": "India",
+      "code_city": "KUU"
+    },
+    {
+      "id": 2274,
+      "name": "United States - West Kuparuk - West Kuparuk",
+      "code": "XPU",
+      "country": "United States",
+      "code_city": "XPU"
+    },
+    {
+      "id": 2278,
+      "name": "Burkina Faso - Nouna - Nouna",
+      "code": "XNU",
+      "country": "Burkina Faso",
+      "code_city": "XNU"
+    },
+    {
+      "id": 2286,
+      "name": "Democratic Republic of the Congo - Punia - Punia",
+      "code": "PUN",
+      "country": "Democratic Republic of the Congo",
+      "code_city": "PUN"
+    },
+    {
+      "id": 2312,
+      "name": "Colombia - Caruru - Caruru",
+      "code": "CUO",
+      "country": "Colombia",
+      "code_city": "CUO"
+    },
+    {
+      "id": 2317,
+      "name": "Chile - Futaleufu - Futaleufu",
+      "code": "FFU",
+      "country": "Chile",
+      "code_city": "FFU"
+    },
+    {
+      "id": 2324,
+      "name": "Iceland - Bildudalur - Bildudalur",
+      "code": "BIU",
+      "country": "Iceland",
+      "code_city": "BIU"
+    },
+    {
+      "id": 2328,
+      "name": "Venezuela - Ciudad Guayana - Ciudad Guayana",
+      "code": "CGU",
+      "country": "Venezuela",
+      "code_city": "CGU"
+    },
+    {
+      "id": 2332,
+      "name": "Saudi Arabia - Unayzah - Unayzah",
+      "code": "UZH",
+      "country": "Saudi Arabia",
+      "code_city": "UZH"
+    },
+    {
+      "id": 2346,
+      "name": "Canada - Rouyn - Rouyn-Noranda Airport",
+      "code": "YUY",
+      "country": "Canada",
+      "code_city": "YUY"
+    },
+    {
+      "id": 2349,
+      "name": "Brazil - Dourados - Dourados Airport",
+      "code": "DOU",
+      "country": "Brazil",
+      "code_city": "DOU"
+    },
+    {
+      "id": 2351,
+      "name": "China - Fuoshan - Foshan Ferry",
+      "code": "ZCP",
+      "country": "China",
+      "code_city": "FUO"
+    },
+    {
+      "id": 2356,
+      "name": "United States - Nulato - Nulato Airport",
+      "code": "NUL",
+      "country": "United States",
+      "code_city": "NUL"
+    },
+    {
+      "id": 2367,
+      "name": "United States - Gunnison - Gunnison Airport",
+      "code": "GUC",
+      "country": "United States",
+      "code_city": "GUC"
+    },
+    {
+      "id": 2373,
+      "name": "Germany - Goettingen - Goettingen Railway Station",
+      "code": "ZEU",
+      "country": "Germany",
+      "code_city": "ZEU"
+    },
+    {
+      "id": 2374,
+      "name": "Brazil - Rio De Janeiro - Santos Dumont Airport",
+      "code": "SDU",
+      "country": "Brazil",
+      "code_city": "RIO"
+    },
+    {
+      "id": 2381,
+      "name": "Hungary - Budapest - Budapest Ferenc Liszt International Airport",
+      "code": "BUD",
+      "country": "Hungary",
+      "code_city": "BUD"
+    },
+    {
+      "id": 2392,
+      "name": "Australia - Kalumburu - Kalumburu",
+      "code": "UBU",
+      "country": "Australia",
+      "code_city": "UBU"
+    },
+    {
+      "id": 2403,
+      "name": "Angola - Dundo - Dundo",
+      "code": "DUE",
+      "country": "Angola",
+      "code_city": "DUE"
+    },
+    {
+      "id": 2411,
+      "name": "United Kingdom - Wyton - Wyton RAF Station",
+      "code": "QUY",
+      "country": "United Kingdom",
+      "code_city": "QUY"
+    },
+    {
+      "id": 2413,
+      "name": "China - Dali City - Dali Airport",
+      "code": "DLU",
+      "country": "China",
+      "code_city": "DLU"
+    },
+    {
+      "id": 2421,
+      "name": "Tanzania - Musoma - Musoma Airport",
+      "code": "MUZ",
+      "country": "Tanzania",
+      "code_city": "MUZ"
+    },
+    {
+      "id": 2441,
+      "name": "United States - Sewanee - Franklin County",
+      "code": "UOS",
+      "country": "United States",
+      "code_city": "UOS"
+    },
+    {
+      "id": 2454,
+      "name": "Colombia - Jurado - Jurado",
+      "code": "JUO",
+      "country": "Colombia",
+      "code_city": "JUO"
+    },
+    {
+      "id": 2460,
+      "name": "Spain - Leon - Leon Railway Station",
+      "code": "EEU",
+      "country": "Spain",
+      "code_city": "LEN"
+    },
+    {
+      "id": 2481,
+      "name": "Mexico - Ciudad Constitucion - Ciudad Constitucion",
+      "code": "CUA",
+      "country": "Mexico",
+      "code_city": "CUA"
+    },
+    {
+      "id": 2498,
+      "name": "Mongolia - Ulgii - Ulgit",
+      "code": "ULG",
+      "country": "Mongolia",
+      "code_city": "ULG"
+    },
+    {
+      "id": 2499,
+      "name": "United States - Whidbey Island - Whidbey Island NAS (Ault Field)",
+      "code": "NUW",
+      "country": "United States",
+      "code_city": "NUW"
+    },
+    {
+      "id": 2535,
+      "name": "Germany - Burg Feuerstein - Burg Feuerstein",
+      "code": "URD",
+      "country": "Germany",
+      "code_city": "URD"
+    },
+    {
+      "id": 2550,
+      "name": "United States - Guymon - Guymon",
+      "code": "GUY",
+      "country": "United States",
+      "code_city": "GUY"
+    },
+    {
+      "id": 2559,
+      "name": "Guatemala - Uaxactun - Uaxactun",
+      "code": "UAX",
+      "country": "Guatemala",
+      "code_city": "UAX"
+    },
+    {
+      "id": 2579,
+      "name": "New Caledonia - Poum - Poum",
+      "code": "PUV",
+      "country": "New Caledonia",
+      "code_city": "PUV"
+    },
+    {
+      "id": 2593,
+      "name": "Switzerland - Mandalay - Olten Railway Station",
+      "code": "ZJU",
+      "country": "Switzerland",
+      "code_city": "ZJU"
+    },
+    {
+      "id": 2597,
+      "name": "Namibia - Mokuti Lodge - Mokuti Lodge",
+      "code": "OKU",
+      "country": "Namibia",
+      "code_city": "OKU"
+    },
+    {
+      "id": 2609,
+      "name": "Solomon Islands - Munda - Munda Airport",
+      "code": "MUA",
+      "country": "Solomon Islands",
+      "code_city": "MUA"
+    },
+    {
+      "id": 2611,
+      "name": "Japan - Marcus Island - Marcus Island",
+      "code": "MUS",
+      "country": "Japan",
+      "code_city": "MUS"
+    },
+    {
+      "id": 2613,
+      "name": "Greenland - Akunnaaq - Heliport",
+      "code": "QCU",
+      "country": "Greenland",
+      "code_city": "QCU"
+    },
+    {
+      "id": 2622,
+      "name": "South Africa - Springbok - Springbok",
+      "code": "SBU",
+      "country": "South Africa",
+      "code_city": "SBU"
+    },
+    {
+      "id": 2623,
+      "name": "United Arab Emirates - Dubai - Hyatt Rgncy EY Bus Station",
+      "code": "XEU",
+      "country": "United Arab Emirates",
+      "code_city": "DXB"
+    },
+    {
+      "id": 2631,
+      "name": "United States - Las Cruces - Municipal",
+      "code": "LRU",
+      "country": "United States",
+      "code_city": "LRU"
+    },
+    {
+      "id": 2648,
+      "name": "Honduras - La Union - La Union",
+      "code": "LUI",
+      "country": "Honduras",
+      "code_city": "LUI"
+    },
+    {
+      "id": 2649,
+      "name": "Angola - Luena - Luena",
+      "code": "LUO",
+      "country": "Angola",
+      "code_city": "LUO"
+    },
+    {
+      "id": 2658,
+      "name": "Canada - Kapuskasing - Kapuskasing Airport",
+      "code": "YYU",
+      "country": "Canada",
+      "code_city": "YYU"
+    },
+    {
+      "id": 2661,
+      "name": "Norway - Asker - Asker Railway Station",
+      "code": "XGU",
+      "country": "Norway",
+      "code_city": "XGU"
+    },
+    {
+      "id": 2665,
+      "name": "Myanmar - Maulmyine - Maulmyine",
+      "code": "MNU",
+      "country": "Myanmar",
+      "code_city": "MNU"
+    },
+    {
+      "id": 2667,
+      "name": "United States - Lawrenceville - Gwinnett County Airport",
+      "code": "LZU",
+      "country": "United States",
+      "code_city": "LZU"
+    },
+    {
+      "id": 2669,
+      "name": "Venezuela - Uriman - Uriman",
+      "code": "URM",
+      "country": "Venezuela",
+      "code_city": "URM"
+    },
+    {
+      "id": 2670,
+      "name": "Australia - Jundah - Jundah",
+      "code": "JUN",
+      "country": "Australia",
+      "code_city": "JUN"
+    },
+    {
+      "id": 2680,
+      "name": "United States - Ugashik - Ugashik",
+      "code": "UGS",
+      "country": "United States",
+      "code_city": "UGS"
+    },
+    {
+      "id": 2687,
+      "name": "United States - Muscatine - Muscatine",
+      "code": "MUT",
+      "country": "United States",
+      "code_city": "MUT"
+    },
+    {
+      "id": 2697,
+      "name": "New Zealand - Te Anau - Manapouri",
+      "code": "TEU",
+      "country": "New Zealand",
+      "code_city": "TEU"
+    },
+    {
+      "id": 2698,
+      "name": "United States - Bornite - Bornite Upper",
+      "code": "RLU",
+      "country": "United States",
+      "code_city": "RLU"
+    },
+    {
+      "id": 2707,
+      "name": "Nepal - Rukumkot - Rukumkot",
+      "code": "RUK",
+      "country": "Nepal",
+      "code_city": "RUK"
+    },
+    {
+      "id": 2710,
+      "name": "Spain - Segovia - ‪Segovia Guiomar Railway Station‬",
+      "code": "XOU",
+      "country": "Spain",
+      "code_city": "XOU"
+    },
+    {
+      "id": 2723,
+      "name": "Mexico - Culiacan - Culiacan International Airport",
+      "code": "CUL",
+      "country": "Mexico",
+      "code_city": "CUL"
+    },
+    {
+      "id": 2730,
+      "name": "Brazil - Uberaba - Uberaba Airport",
+      "code": "UBA",
+      "country": "Brazil",
+      "code_city": "UBA"
+    },
+    {
+      "id": 2735,
+      "name": "Spain - Seo de Urgel - Seo de Urgel",
+      "code": "LEU",
+      "country": "Spain",
+      "code_city": "LEU"
+    },
+    {
+      "id": 2738,
+      "name": "Cook Islands - Atiu Island - Atiu Island",
+      "code": "AIU",
+      "country": "Cook Islands",
+      "code_city": "AIU"
+    },
+    {
+      "id": 2749,
+      "name": "Germany - Juist - Juist",
+      "code": "JUI",
+      "country": "Germany",
+      "code_city": "JUI"
+    },
+    {
+      "id": 2752,
+      "name": "Papua New Guinea - Uroubi - Uroubi",
+      "code": "URU",
+      "country": "Papua New Guinea",
+      "code_city": "URU"
+    },
+    {
+      "id": 2774,
+      "name": "Australia - Nullarbor - Nullarbor",
+      "code": "NUR",
+      "country": "Australia",
+      "code_city": "NUR"
+    },
+    {
+      "id": 2777,
+      "name": "Georgia - Batumi - Batumi Airport",
+      "code": "BUS",
+      "country": "Georgia",
+      "code_city": "BUS"
+    },
+    {
+      "id": 2783,
+      "name": "India - Bhatinda - Bhatinda Airport",
+      "code": "BUP",
+      "country": "India",
+      "code_city": "BUP"
+    },
+    {
+      "id": 2812,
+      "name": "Japan - Fukuoka - Fukuoka Airport",
+      "code": "FUK",
+      "country": "Japan",
+      "code_city": "FUK"
+    },
+    {
+      "id": 2823,
+      "name": "United States - Oceana - NAS",
+      "code": "NTU",
+      "country": "United States",
+      "code_city": "NTU"
+    },
+    {
+      "id": 2837,
+      "name": "Colombia - Valledupar - Valledupar Airport",
+      "code": "VUP",
+      "country": "Colombia",
+      "code_city": "VUP"
+    },
+    {
+      "id": 2838,
+      "name": "Vanuatu - Aneityum - Aneityum",
+      "code": "AUY",
+      "country": "Vanuatu",
+      "code_city": "AUY"
+    },
+    {
+      "id": 2843,
+      "name": "French Polynesia - Pukarua - Pukarua",
+      "code": "PUK",
+      "country": "French Polynesia",
+      "code_city": "PUK"
+    },
+    {
+      "id": 2847,
+      "name": "Yemen - Mukeiras - Mukeiras",
+      "code": "UKR",
+      "country": "Yemen",
+      "code_city": "UKR"
+    },
+    {
+      "id": 2848,
+      "name": "Papua New Guinea - Umba - Umba",
+      "code": "UMC",
+      "country": "Papua New Guinea",
+      "code_city": "UMC"
+    },
+    {
+      "id": 2849,
+      "name": "New Zealand - Taupo - Taupo Airport",
+      "code": "TUO",
+      "country": "New Zealand",
+      "code_city": "TUO"
+    },
+    {
+      "id": 2856,
+      "name": "Indonesia - Ilu - Ilu",
+      "code": "IUL",
+      "country": "Indonesia",
+      "code_city": "IUL"
+    },
+    {
+      "id": 2863,
+      "name": "United Kingdom - Southampton - Southampton Airport",
+      "code": "SOU",
+      "country": "United Kingdom",
+      "code_city": "SOU"
+    },
+    {
+      "id": 2877,
+      "name": "United States - Waukesha - Waukesha",
+      "code": "UES",
+      "country": "United States",
+      "code_city": "UES"
+    },
+    {
+      "id": 2883,
+      "name": "United States - Boulder - Boulder Bus Station",
+      "code": "XHH",
+      "country": "United States",
+      "code_city": "WBU"
+    },
+    {
+      "id": 2899,
+      "name": "United States - Sheep Mountain - Sheep Mountain",
+      "code": "SMU",
+      "country": "United States",
+      "code_city": "SMU"
+    },
+    {
+      "id": 2900,
+      "name": "Brazil - Aruja - Aruja",
+      "code": "ZFU",
+      "country": "Brazil",
+      "code_city": "ZFU"
+    },
+    {
+      "id": 2909,
+      "name": "Norway - Holmestrand - Holmestrand Railway Station",
+      "code": "XUG",
+      "country": "Norway",
+      "code_city": "XUG"
+    },
+    {
+      "id": 2912,
+      "name": "Iran - Ala'Marvdasht - Ala'Marvdasht Airport",
+      "code": "PGU",
+      "country": "Iran",
+      "code_city": "PGU"
+    },
+    {
+      "id": 2926,
+      "name": "Ethiopia - Axum - Axum Airport",
+      "code": "AXU",
+      "country": "Ethiopia",
+      "code_city": "AXU"
+    },
+    {
+      "id": 2933,
+      "name": "United States - Kasigluk - Kasigluk Airport",
+      "code": "KUK",
+      "country": "United States",
+      "code_city": "KUK"
+    },
+    {
+      "id": 2945,
+      "name": "Uganda - Gulu - Gulu",
+      "code": "ULU",
+      "country": "Uganda",
+      "code_city": "ULU"
+    },
+    {
+      "id": 2946,
+      "name": "United States - Raleigh/Durham - Raleigh-Durham International Airport",
+      "code": "RDU",
+      "country": "United States",
+      "code_city": "RDU"
+    },
+    {
+      "id": 2949,
+      "name": "Australia - Goulburn - Goulburn",
+      "code": "GUL",
+      "country": "Australia",
+      "code_city": "GUL"
+    },
+    {
+      "id": 2952,
+      "name": "Papua New Guinea - Wuvulu Island - Wuvulu Island",
+      "code": "WUV",
+      "country": "Papua New Guinea",
+      "code_city": "WUV"
+    },
+    {
+      "id": 2954,
+      "name": "Papua New Guinea - Buin - Buin",
+      "code": "UBI",
+      "country": "Papua New Guinea",
+      "code_city": "UBI"
+    },
+    {
+      "id": 2955,
+      "name": "Kazakhstan - Ust-Kamenogorsk - Ust-Kamenogorsk Airport",
+      "code": "UKK",
+      "country": "Kazakhstan",
+      "code_city": "UKK"
+    },
+    {
+      "id": 2969,
+      "name": "Canada - London - London Railway Station",
+      "code": "XDQ",
+      "country": "Canada",
+      "code_city": "YXU"
+    },
+    {
+      "id": 2999,
+      "name": "Ethiopia - Soddu - Soddu",
+      "code": "SXU",
+      "country": "Ethiopia",
+      "code_city": "SXU"
+    },
+    {
+      "id": 3018,
+      "name": "Australia - Eucla - Eucla",
+      "code": "EUC",
+      "country": "Australia",
+      "code_city": "EUC"
+    },
+    {
+      "id": 3031,
+      "name": "South Korea - Jeju - Seogwipo Heliport",
+      "code": "JSP",
+      "country": "South Korea",
+      "code_city": "CJU"
+    },
+    {
+      "id": 3045,
+      "name": "Papua New Guinea - Nuguria - Nuguria",
+      "code": "NUG",
+      "country": "Papua New Guinea",
+      "code_city": "NUG"
+    },
+    {
+      "id": 3046,
+      "name": "Angola - Luau - Luau",
+      "code": "UAL",
+      "country": "Angola",
+      "code_city": "UAL"
+    },
+    {
+      "id": 3048,
+      "name": "United States - Boston - Boston RT128 Railway",
+      "code": "ZRU",
+      "country": "United States",
+      "code_city": "BOS"
+    },
+    {
+      "id": 3073,
+      "name": "Greenland - Kulusuk - Kulusuk Airport",
+      "code": "KUS",
+      "country": "Greenland",
+      "code_city": "KUS"
+    },
+    {
+      "id": 3081,
+      "name": "United States - Stroud - Stroud",
+      "code": "SUD",
+      "country": "United States",
+      "code_city": "SUD"
+    },
+    {
+      "id": 3085,
+      "name": "Canada - Kasba Lake - Kasba Lake",
+      "code": "YDU",
+      "country": "Canada",
+      "code_city": "YDU"
+    },
+    {
+      "id": 3092,
+      "name": "Costa Rica - Upala - Upala",
+      "code": "UPL",
+      "country": "Costa Rica",
+      "code_city": "UPL"
+    },
+    {
+      "id": 3103,
+      "name": "Papua New Guinea - Wagau - Wagau",
+      "code": "WGU",
+      "country": "Papua New Guinea",
+      "code_city": "WGU"
+    },
+    {
+      "id": 3106,
+      "name": "Algeria - Boussaada - Ain Eddis",
+      "code": "BUJ",
+      "country": "Algeria",
+      "code_city": "BUJ"
+    },
+    {
+      "id": 3118,
+      "name": "Brazil - Una - Una",
+      "code": "UNA",
+      "country": "Brazil",
+      "code_city": "UNA"
+    },
+    {
+      "id": 3131,
+      "name": "Australia - Nutwood Downs - Nutwood Downs",
+      "code": "UTD",
+      "country": "Australia",
+      "code_city": "UTD"
+    },
+    {
+      "id": 3137,
+      "name": "Netherlands - Saint Eustatius - F D Roosevelt Airport",
+      "code": "EUX",
+      "country": "Netherlands",
+      "code_city": "EUX"
+    },
+    {
+      "id": 3160,
+      "name": "Puerto Rico - San Juan - Luis Munoz Marin International Airport",
+      "code": "SJU",
+      "country": "Puerto Rico",
+      "code_city": "SJU"
+    },
+    {
+      "id": 3188,
+      "name": "Russia - Ust-Maya - Ust-Maya",
+      "code": "UMS",
+      "country": "Russia",
+      "code_city": "UMS"
+    },
+    {
+      "id": 3195,
+      "name": "Nicaragua - Puerto Cabezas - Puerto Cabezas",
+      "code": "PUZ",
+      "country": "Nicaragua",
+      "code_city": "PUZ"
+    },
+    {
+      "id": 3201,
+      "name": "United States - Montgomery - Gunter AFB",
+      "code": "GUN",
+      "country": "United States",
+      "code_city": "MGM"
+    },
+    {
+      "id": 3216,
+      "name": "Venezuela - Cumana - Cumana",
+      "code": "CUM",
+      "country": "Venezuela",
+      "code_city": "CUM"
+    },
+    {
+      "id": 3238,
+      "name": "Malawi - Mzuzu - Mzuzu",
+      "code": "ZZU",
+      "country": "Malawi",
+      "code_city": "ZZU"
+    },
+    {
+      "id": 3243,
+      "name": "United Kingdom - Durham Tees Valley - Durham Railway Station",
+      "code": "XVU",
+      "country": "United Kingdom",
+      "code_city": "MME"
+    },
+    {
+      "id": 3248,
+      "name": "Liberia - Buchanan - Buchanan",
+      "code": "UCN",
+      "country": "Liberia",
+      "code_city": "UCN"
+    },
+    {
+      "id": 3249,
+      "name": "Germany - Duisburg - Duisburg Hbf Railway Station",
+      "code": "DUI",
+      "country": "Germany",
+      "code_city": "DUI"
+    },
+    {
+      "id": 3274,
+      "name": "Peru - Huanuco - Huanuco Airport",
+      "code": "HUU",
+      "country": "Peru",
+      "code_city": "HUU"
+    },
+    {
+      "id": 3287,
+      "name": "United States - Palm Springs - Bermuda Dunes",
+      "code": "UDD",
+      "country": "United States",
+      "code_city": "PSP"
+    },
+    {
+      "id": 3288,
+      "name": "Mozambique - Mueda - Mueda",
+      "code": "MUD",
+      "country": "Mozambique",
+      "code_city": "MUD"
+    },
+    {
+      "id": 3300,
+      "name": "Greenland - Uummannaq - Uummannaq",
+      "code": "UMD",
+      "country": "Greenland",
+      "code_city": "UMD"
+    },
+    {
+      "id": 3318,
+      "name": "Russia - Bugulma - Bugulma Airport",
+      "code": "UUA",
+      "country": "Russia",
+      "code_city": "UUA"
+    },
+    {
+      "id": 3319,
+      "name": "United States - Logan - Cache",
+      "code": "LGU",
+      "country": "United States",
+      "code_city": "LGU"
+    },
+    {
+      "id": 3321,
+      "name": "Australia - Numbulwar - Numbulwar",
+      "code": "NUB",
+      "country": "Australia",
+      "code_city": "NUB"
+    },
+    {
+      "id": 3329,
+      "name": "Papua New Guinea - Nutuve - Nutuve",
+      "code": "NUT",
+      "country": "Papua New Guinea",
+      "code_city": "NUT"
+    },
+    {
+      "id": 3350,
+      "name": "Puerto Rico - Humacao - Humacao Airport",
+      "code": "HUC",
+      "country": "Puerto Rico",
+      "code_city": "HUC"
+    },
+    {
+      "id": 3351,
+      "name": "Mexico - Uruapan - Licenciado y General Ignacio Lopez Rayon Airport",
+      "code": "UPN",
+      "country": "Mexico",
+      "code_city": "UPN"
+    },
+    {
+      "id": 3368,
+      "name": "Ethiopia - Mui - Mui",
+      "code": "MUJ",
+      "country": "Ethiopia",
+      "code_city": "MUJ"
+    },
+    {
+      "id": 3373,
+      "name": "United States - Nunapitchuk - Nunapitchuk",
+      "code": "NUP",
+      "country": "United States",
+      "code_city": "NUP"
+    },
+    {
+      "id": 3388,
+      "name": "Morocco - Bouarfa - Bouarfa",
+      "code": "UAR",
+      "country": "Morocco",
+      "code_city": "UAR"
+    },
+    {
+      "id": 3444,
+      "name": "Indonesia - Long Apung - Long Apung",
+      "code": "LPU",
+      "country": "Indonesia",
+      "code_city": "LPU"
+    },
+    {
+      "id": 3454,
+      "name": "United States - Durant - Eaker",
+      "code": "DUA",
+      "country": "United States",
+      "code_city": "DUA"
+    },
+    {
+      "id": 3460,
+      "name": "Australia - Camden - Camden",
+      "code": "CDU",
+      "country": "Australia",
+      "code_city": "CDU"
+    },
+    {
+      "id": 3466,
+      "name": "United States - Tulsa - R.Lloyd Jones",
+      "code": "RVS",
+      "country": "United States",
+      "code_city": "TUL"
+    },
+    {
+      "id": 3470,
+      "name": "Mexico - Tulum - Tulum",
+      "code": "TUY",
+      "country": "Mexico",
+      "code_city": "TUY"
+    },
+    {
+      "id": 3475,
+      "name": "Papua New Guinea - Guari - Guari",
+      "code": "GUG",
+      "country": "Papua New Guinea",
+      "code_city": "GUG"
+    },
+    {
+      "id": 3487,
+      "name": "India - Guna - Guna",
+      "code": "GUX",
+      "country": "India",
+      "code_city": "GUX"
+    },
+    {
+      "id": 3492,
+      "name": "Peru - Cuzco - Alejandro Velasco Astete International Airport",
+      "code": "CUZ",
+      "country": "Peru",
+      "code_city": "CUZ"
+    },
+    {
+      "id": 3496,
+      "name": "Fiji - Laucala Island - Laucala Island",
+      "code": "LUC",
+      "country": "Fiji",
+      "code_city": "LUC"
+    },
+    {
+      "id": 3502,
+      "name": "United States - Kobuk - Kobuk/Wien Airport",
+      "code": "OBU",
+      "country": "United States",
+      "code_city": "OBU"
+    },
+    {
+      "id": 3506,
+      "name": "South Africa - Upington - Upington Airport",
+      "code": "UTN",
+      "country": "South Africa",
+      "code_city": "UTN"
+    },
+    {
+      "id": 3511,
+      "name": "Chile - Puerto Varas - Puerto Varas",
+      "code": "PUX",
+      "country": "Chile",
+      "code_city": "PUX"
+    },
+    {
+      "id": 3512,
+      "name": "United States - Houston - Woodlawns",
+      "code": "JWL",
+      "country": "United States",
+      "code_city": "HOU"
+    },
+    {
+      "id": 3526,
+      "name": "Thailand - Ubon Ratchathani - Ubon Ratchathani International Airport",
+      "code": "UBP",
+      "country": "Thailand",
+      "code_city": "UBP"
+    },
+    {
+      "id": 3529,
+      "name": "Australia - Mount Hotham - Mount Hotham",
+      "code": "MHU",
+      "country": "Australia",
+      "code_city": "MHU"
+    },
+    {
+      "id": 3535,
+      "name": "Mongolia - Ulaanbaatar - Chinggis Khaan International Airport",
+      "code": "UBN",
+      "country": "Mongolia",
+      "code_city": "ULN"
+    },
+    {
+      "id": 3539,
+      "name": "Solomon Islands - Mbambanakira - Mbambanakira",
+      "code": "MBU",
+      "country": "Solomon Islands",
+      "code_city": "MBU"
+    },
+    {
+      "id": 3544,
+      "name": "United States - Utopia Creek - Indian Mountain AFS",
+      "code": "UTO",
+      "country": "United States",
+      "code_city": "UTO"
+    },
+    {
+      "id": 3551,
+      "name": "Brazil - Guaratingueta - Guaratingueta",
+      "code": "GUJ",
+      "country": "Brazil",
+      "code_city": "GUJ"
+    },
+    {
+      "id": 3564,
+      "name": "Indonesia - Bokondini - Bokondini",
+      "code": "BUI",
+      "country": "Indonesia",
+      "code_city": "BUI"
+    },
+    {
+      "id": 3571,
+      "name": "Somalia - Burao - Burao",
+      "code": "BUO",
+      "country": "Somalia",
+      "code_city": "BUO"
+    },
+    {
+      "id": 3581,
+      "name": "Democratic Republic of the Congo - Buta - Buta",
+      "code": "BZU",
+      "country": "Democratic Republic of the Congo",
+      "code_city": "BZU"
+    },
+    {
+      "id": 3584,
+      "name": "United States - Moultrie - Spence",
+      "code": "MUL",
+      "country": "United States",
+      "code_city": "MGR"
+    },
+    {
+      "id": 3588,
+      "name": "Norway - Quincy - Rygge Railway Station",
+      "code": "ZXU",
+      "country": "Norway",
+      "code_city": "ZXU"
+    },
+    {
+      "id": 3591,
+      "name": "Spain - Reus - Reus Railway Station",
+      "code": "EER",
+      "country": "Spain",
+      "code_city": "REU"
+    },
+    {
+      "id": 3600,
+      "name": "United States - Buffalo - Buffalo Niagara International Airport",
+      "code": "BUF",
+      "country": "United States",
+      "code_city": "BUF"
+    },
+    {
+      "id": 3631,
+      "name": "Colombia - Tulua - Farfan",
+      "code": "ULQ",
+      "country": "Colombia",
+      "code_city": "ULQ"
+    },
+    {
+      "id": 3647,
+      "name": "Morocco - Tetuan - Sania Ramel",
+      "code": "TTU",
+      "country": "Morocco",
+      "code_city": "TTU"
+    },
+    {
+      "id": 3659,
+      "name": "Australia - Coen - Coen",
+      "code": "CUQ",
+      "country": "Australia",
+      "code_city": "CUQ"
+    },
+    {
+      "id": 3663,
+      "name": "Sudan - Khashm El Girba - Khashm El Girba",
+      "code": "GBU",
+      "country": "Sudan",
+      "code_city": "GBU"
+    },
+    {
+      "id": 3665,
+      "name": "Philippines - Butuan - Butuan Airport",
+      "code": "BXU",
+      "country": "Philippines",
+      "code_city": "BXU"
+    },
+    {
+      "id": 3667,
+      "name": "East Timor - Suai - Suai",
+      "code": "UAI",
+      "country": "East Timor",
+      "code_city": "UAI"
+    },
+    {
+      "id": 3672,
+      "name": "Cuba - Sancti Spiritus - Sancti Spiritus",
+      "code": "USS",
+      "country": "Cuba",
+      "code_city": "USS"
+    },
+    {
+      "id": 3674,
+      "name": "Canada - Summit Lake - Summit Lake",
+      "code": "IUM",
+      "country": "Canada",
+      "code_city": "IUM"
+    },
+    {
+      "id": 3679,
+      "name": "Mexico - Cancun - Cancun International Airport",
+      "code": "CUN",
+      "country": "Mexico",
+      "code_city": "CUN"
+    },
+    {
+      "id": 3705,
+      "name": "Laos - Muong Sai - Muong Sai",
+      "code": "UON",
+      "country": "Laos",
+      "code_city": "UON"
+    },
+    {
+      "id": 3706,
+      "name": "Indonesia - Luwuk - Bubung Airport",
+      "code": "LUW",
+      "country": "Indonesia",
+      "code_city": "LUW"
+    },
+    {
+      "id": 3711,
+      "name": "United States - Kugururok River - Kugururok River",
+      "code": "KUW",
+      "country": "United States",
+      "code_city": "KUW"
+    },
+    {
+      "id": 3714,
+      "name": "Japan - Kyoto - Kyoto",
+      "code": "UKY",
+      "country": "Japan",
+      "code_city": "UKY"
+    },
+    {
+      "id": 3720,
+      "name": "South Africa - Ulundi - Ulundi",
+      "code": "ULD",
+      "country": "South Africa",
+      "code_city": "ULD"
+    },
+    {
+      "id": 3732,
+      "name": "United States - Koyukuk - Koyukuk Airport",
+      "code": "KYU",
+      "country": "United States",
+      "code_city": "KYU"
+    },
+    {
+      "id": 3756,
+      "name": "South Africa - Umtata - Umtata Airport",
+      "code": "UTT",
+      "country": "South Africa",
+      "code_city": "UTT"
+    },
+    {
+      "id": 3769,
+      "name": "United Kingdom - Mull - Mull",
+      "code": "ULL",
+      "country": "United Kingdom",
+      "code_city": "ULL"
+    },
+    {
+      "id": 3779,
+      "name": "Slovenia - Ljubljana - Ljubljana Joze Pucnik Airport",
+      "code": "LJU",
+      "country": "Slovenia",
+      "code_city": "LJU"
+    },
+    {
+      "id": 3794,
+      "name": "Taiwan - Hualien - Hualien Airport",
+      "code": "HUN",
+      "country": "Taiwan",
+      "code_city": "HUN"
+    },
+    {
+      "id": 3797,
+      "name": "United States - Umnak Island - Umnak",
+      "code": "UNS",
+      "country": "United States",
+      "code_city": "UMB"
+    },
+    {
+      "id": 3806,
+      "name": "Germany - Husum - Husum",
+      "code": "QHU",
+      "country": "Germany",
+      "code_city": "QHU"
+    },
+    {
+      "id": 3824,
+      "name": "Lesotho - Qachas Nek - Qachas Nek",
+      "code": "UNE",
+      "country": "Lesotho",
+      "code_city": "UNE"
+    },
+    {
+      "id": 3827,
+      "name": "Papua New Guinea - Mapua - Mapua",
+      "code": "MPU",
+      "country": "Papua New Guinea",
+      "code_city": "MPU"
+    },
+    {
+      "id": 3845,
+      "name": "Russia - Kursk - Kursk Vostochny Airport",
+      "code": "URS",
+      "country": "Russia",
+      "code_city": "URS"
+    },
+    {
+      "id": 3847,
+      "name": "Russia - Ust-Kuiga - Ust-Kuiga",
+      "code": "UKG",
+      "country": "Russia",
+      "code_city": "UKG"
+    },
+    {
+      "id": 3849,
+      "name": "Cuba - Las Tunas - Las Tunas",
+      "code": "VTU",
+      "country": "Cuba",
+      "code_city": "VTU"
+    },
+    {
+      "id": 3911,
+      "name": "American Samoa - Vaoto - Airstrip",
+      "code": "OFU",
+      "country": "American Samoa",
+      "code_city": "OFU"
+    },
+    {
+      "id": 3933,
+      "name": "Papua New Guinea - Kundiawa - Chimbu",
+      "code": "CMU",
+      "country": "Papua New Guinea",
+      "code_city": "CMU"
+    },
+    {
+      "id": 3938,
+      "name": "United States - Augusta - Augusta Airport",
+      "code": "AUG",
+      "country": "United States",
+      "code_city": "AUG"
+    },
+    {
+      "id": 3947,
+      "name": "China - Wuxi - Sunan Shuofang International Airport",
+      "code": "WUX",
+      "country": "China",
+      "code_city": "WUX"
+    },
+    {
+      "id": 3966,
+      "name": "Saint Lucia - Saint Lucia - Hewanorra Airport",
+      "code": "UVF",
+      "country": "Saint Lucia",
+      "code_city": "SLU"
+    },
+    {
+      "id": 3969,
+      "name": "Australia - Caloundra - Caloundra",
+      "code": "CUD",
+      "country": "Australia",
+      "code_city": "CUD"
+    },
+    {
+      "id": 3974,
+      "name": "United States - Quillayute - Quillayute State",
+      "code": "UIL",
+      "country": "United States",
+      "code_city": "UIL"
+    },
+    {
+      "id": 3975,
+      "name": "Tanzania - Sumbawanga - Sumbawanga",
+      "code": "SUT",
+      "country": "Tanzania",
+      "code_city": "SUT"
+    },
+    {
+      "id": 3984,
+      "name": "Argentina - Tucuman - Benj Matienzo",
+      "code": "TUC",
+      "country": "Argentina",
+      "code_city": "TUC"
+    },
+    {
+      "id": 3993,
+      "name": "United States - Columbia - Columbia Regional Airport",
+      "code": "COU",
+      "country": "United States",
+      "code_city": "COU"
+    },
+    {
+      "id": 4002,
+      "name": "China - Zhuhai - Railway",
+      "code": "ZIU",
+      "country": "China",
+      "code_city": "ZUH"
+    },
+    {
+      "id": 4015,
+      "name": "United States - Cincinnati - Cincinnati Municipal Lunken Airport",
+      "code": "LUK",
+      "country": "United States",
+      "code_city": "CVG"
+    },
+    {
+      "id": 4017,
+      "name": "Gabon - Koulamoutou - Koulamoutou",
+      "code": "KOU",
+      "country": "Gabon",
+      "code_city": "KOU"
+    },
+    {
+      "id": 4025,
+      "name": "Saudi Arabia - Riyadh - King Khaled International Airport",
+      "code": "RUH",
+      "country": "Saudi Arabia",
+      "code_city": "RUH"
+    },
+    {
+      "id": 4032,
+      "name": "Australia - Roebourne - Roebourne",
+      "code": "RBU",
+      "country": "Australia",
+      "code_city": "RBU"
+    },
+    {
+      "id": 4038,
+      "name": "Norway - Nefteyugansk - Heimdal Railway Station",
+      "code": "XUE",
+      "country": "Norway",
+      "code_city": "XUE"
+    },
+    {
+      "id": 4041,
+      "name": "United States - Mekoryuk - Ellis Field",
+      "code": "MYU",
+      "country": "United States",
+      "code_city": "MYU"
+    },
+    {
+      "id": 4053,
+      "name": "Australia - Augustus Downs - Augustus Downs",
+      "code": "AUD",
+      "country": "Australia",
+      "code_city": "AUD"
+    },
+    {
+      "id": 4056,
+      "name": "United States - Chanute - Martin Johnson",
+      "code": "CNU",
+      "country": "United States",
+      "code_city": "CNU"
+    },
+    {
+      "id": 4071,
+      "name": "Italy - Lamezia-Terme - Lamezia Terme International Airport",
+      "code": "SUF",
+      "country": "Italy",
+      "code_city": "SUF"
+    },
+    {
+      "id": 4074,
+      "name": "United States - Austin - Austin",
+      "code": "AUM",
+      "country": "United States",
+      "code_city": "AUM"
+    },
+    {
+      "id": 4080,
+      "name": "Spain - Puerto del Rosario - Fuerteventura Airport",
+      "code": "FUE",
+      "country": "Spain",
+      "code_city": "FUE"
+    },
+    {
+      "id": 4086,
+      "name": "United States - Columbus - Ohio State University",
+      "code": "OSU",
+      "country": "United States",
+      "code_city": "CMH"
+    },
+    {
+      "id": 4096,
+      "name": "Colombia - Paratebueno - Paratebueno",
+      "code": "EUO",
+      "country": "Colombia",
+      "code_city": "EUO"
+    },
+    {
+      "id": 4097,
+      "name": "United States - Austin - Camp Maybry AHP",
+      "code": "MMR",
+      "country": "United States",
+      "code_city": "AUS"
+    },
+    {
+      "id": 4103,
+      "name": "Solomon Islands - Kukundu - Kukundu",
+      "code": "KUE",
+      "country": "Solomon Islands",
+      "code_city": "KUE"
+    },
+    {
+      "id": 4118,
+      "name": "Myanmar - Nyaung-u - Nyaung U Airport",
+      "code": "NYU",
+      "country": "Myanmar",
+      "code_city": "NYU"
+    },
+    {
+      "id": 4123,
+      "name": "Vietnam - Phu Vinh - Phu Vinh",
+      "code": "PHU",
+      "country": "Vietnam",
+      "code_city": "PHU"
+    },
+    {
+      "id": 4125,
+      "name": "Angola - Benguela - Gen V Deslandes",
+      "code": "BUG",
+      "country": "Angola",
+      "code_city": "BUG"
+    },
+    {
+      "id": 4132,
+      "name": "Tonga - Nuku'alofa - Fua'amotu International Airport",
+      "code": "TBU",
+      "country": "Tonga",
+      "code_city": "TBU"
+    },
+    {
+      "id": 4145,
+      "name": "United States - Boulder - Hiltons Har H",
+      "code": "WHH",
+      "country": "United States",
+      "code_city": "WBU"
+    },
+    {
+      "id": 4152,
+      "name": "China - Wu Hai - Wuhai Airport",
+      "code": "WUA",
+      "country": "China",
+      "code_city": "WUA"
+    },
+    {
+      "id": 4154,
+      "name": "Finland - Turku - Turku Airport",
+      "code": "TKU",
+      "country": "Finland",
+      "code_city": "TKU"
+    },
+    {
+      "id": 4157,
+      "name": "Norway - Saga - Nordagutu Railway Station",
+      "code": "XUO",
+      "country": "Norway",
+      "code_city": "XUO"
+    },
+    {
+      "id": 4160,
+      "name": "Bermuda - Bermuda - Bermuda NAS",
+      "code": "NWU",
+      "country": "Bermuda",
+      "code_city": "BDA"
+    },
+    {
+      "id": 4170,
+      "name": "Mozambique - Montepuez - Montepuez",
+      "code": "MTU",
+      "country": "Mozambique",
+      "code_city": "MTU"
+    },
+    {
+      "id": 4175,
+      "name": "Lesotho - Maseru - Moshoeshoe International Airport",
+      "code": "MSU",
+      "country": "Lesotho",
+      "code_city": "MSU"
+    },
+    {
+      "id": 4181,
+      "name": "China - Wuzhou - Changzhoudao",
+      "code": "WUZ",
+      "country": "China",
+      "code_city": "WUZ"
+    },
+    {
+      "id": 4186,
+      "name": "United Arab Emirates - Abu Dhabi - Bateen",
+      "code": "AZI",
+      "country": "United Arab Emirates",
+      "code_city": "AUH"
+    },
+    {
+      "id": 4194,
+      "name": "Norway - Kristiansund - Kristiansand Railway Station",
+      "code": "XKR",
+      "country": "Norway",
+      "code_city": "KSU"
+    },
+    {
+      "id": 4206,
+      "name": "Madagascar - Fort Dauphin - Marillac Airport",
+      "code": "FTU",
+      "country": "Madagascar",
+      "code_city": "FTU"
+    },
+    {
+      "id": 4219,
+      "name": "Aruba - Aruba - Reina Beatrix International Airport",
+      "code": "AUA",
+      "country": "Aruba",
+      "code_city": "AUA"
+    },
+    {
+      "id": 4228,
+      "name": "Indonesia - Bima - Sultan Muhammad Salahuddin Airport",
+      "code": "BMU",
+      "country": "Indonesia",
+      "code_city": "BMU"
+    },
+    {
+      "id": 4242,
+      "name": "Brazil - Humaita - Humaita",
+      "code": "HUW",
+      "country": "Brazil",
+      "code_city": "HUW"
+    },
+    {
+      "id": 4264,
+      "name": "South Sudan - Juba - Juba International Airport",
+      "code": "JUB",
+      "country": "South Sudan",
+      "code_city": "JUB"
+    },
+    {
+      "id": 4284,
+      "name": "Bolivia - Uyuni - Uyuni",
+      "code": "UYU",
+      "country": "Bolivia",
+      "code_city": "UYU"
+    },
+    {
+      "id": 4287,
+      "name": "Venezuela - Maturin - Jose Tadeo Monagas International Airport",
+      "code": "MUN",
+      "country": "Venezuela",
+      "code_city": "MUN"
+    },
+    {
+      "id": 4332,
+      "name": "United States - Sumter - Sumter Municipal Airport",
+      "code": "SUM",
+      "country": "United States",
+      "code_city": "SSC"
+    },
+    {
+      "id": 4344,
+      "name": "Algeria - El Oued - Guemar Airport",
+      "code": "ELU",
+      "country": "Algeria",
+      "code_city": "ELU"
+    },
+    {
+      "id": 4349,
+      "name": "Germany - Munich - Franz Josef Strauss Airport",
+      "code": "MUC",
+      "country": "Germany",
+      "code_city": "MUC"
+    },
+    {
+      "id": 4366,
+      "name": "Chile - Puerto Williams - Puerto Williams",
+      "code": "WPU",
+      "country": "Chile",
+      "code_city": "WPU"
+    },
+    {
+      "id": 4369,
+      "name": "Kazakhstan - Urzhar - Urzhar",
+      "code": "UZR",
+      "country": "Kazakhstan",
+      "code_city": "UZR"
+    },
+    {
+      "id": 4388,
+      "name": "Papua New Guinea - Erume - Erume",
+      "code": "ERU",
+      "country": "Papua New Guinea",
+      "code_city": "ERU"
+    },
+    {
+      "id": 4414,
+      "name": "Papua New Guinea - Kuri - Kuri",
+      "code": "KUQ",
+      "country": "Papua New Guinea",
+      "code_city": "KUQ"
+    },
+    {
+      "id": 4429,
+      "name": "Germany - Cologne - Messe/Deutz Rail Station",
+      "code": "QKU",
+      "country": "Germany",
+      "code_city": "CGN"
+    },
+    {
+      "id": 4431,
+      "name": "Ireland - Dublin - Dublin Airport",
+      "code": "DUB",
+      "country": "Ireland",
+      "code_city": "DUB"
+    },
+    {
+      "id": 4433,
+      "name": "Italy - Ponce - Fenosu",
+      "code": "FNU",
+      "country": "Italy",
+      "code_city": "FNU"
+    },
+    {
+      "id": 4461,
+      "name": "United States - Sturgeon Bay - Door County",
+      "code": "SUE",
+      "country": "United States",
+      "code_city": "SUE"
+    },
+    {
+      "id": 4466,
+      "name": "Chad - Bousso - Bousso",
+      "code": "OUT",
+      "country": "Chad",
+      "code_city": "OUT"
+    },
+    {
+      "id": 4471,
+      "name": "France - Bourges - Bourges",
+      "code": "BOU",
+      "country": "France",
+      "code_city": "BOU"
+    },
+    {
+      "id": 4472,
+      "name": "Papua New Guinea - Amanab - Amanab",
+      "code": "AMU",
+      "country": "Papua New Guinea",
+      "code_city": "AMU"
+    },
+    {
+      "id": 4479,
+      "name": "Canada - Hall Beach - Hall Beach",
+      "code": "YUX",
+      "country": "Canada",
+      "code_city": "YUX"
+    },
+    {
+      "id": 4492,
+      "name": "Belgium - Brussels - Midi Railway Station",
+      "code": "ZYR",
+      "country": "Belgium",
+      "code_city": "BRU"
+    },
+    {
+      "id": 4493,
+      "name": "Kenya - Lamu - Lamu",
+      "code": "LAU",
+      "country": "Kenya",
+      "code_city": "LAU"
+    },
+    {
+      "id": 4504,
+      "name": "Kiribati - Kuria - Kuria",
+      "code": "KUC",
+      "country": "Kiribati",
+      "code_city": "KUC"
+    },
+    {
+      "id": 4506,
+      "name": "France - Saint Etienne - Boutheon Airport",
+      "code": "EBU",
+      "country": "France",
+      "code_city": "EBU"
+    },
+    {
+      "id": 4507,
+      "name": "Nigeria - Bauchi - Bauchi",
+      "code": "BCU",
+      "country": "Nigeria",
+      "code_city": "BCU"
+    },
+    {
+      "id": 4514,
+      "name": "France - Tours - St-Pierre-Corps RailSt",
+      "code": "XSH",
+      "country": "France",
+      "code_city": "TUF"
+    },
+    {
+      "id": 4532,
+      "name": "United States - Pensacola - Saufley NAS",
+      "code": "NUN",
+      "country": "United States",
+      "code_city": "PNS"
+    },
+    {
+      "id": 4534,
+      "name": "United States - Tunica - Tunica Municipalcipal Airport",
+      "code": "UTM",
+      "country": "United States",
+      "code_city": "UTM"
+    },
+    {
+      "id": 4542,
+      "name": "Colombia - Corozal - Corozal Airport",
+      "code": "CZU",
+      "country": "Colombia",
+      "code_city": "CZU"
+    },
+    {
+      "id": 4554,
+      "name": "Malaysia - Lahad Datu - Lahad Datu Airport",
+      "code": "LDU",
+      "country": "Malaysia",
+      "code_city": "LDU"
+    },
+    {
+      "id": 4561,
+      "name": "Russia - Ulyanovsk - Baratayevka",
+      "code": "ULV",
+      "country": "Russia",
+      "code_city": "ULY"
+    },
+    {
+      "id": 4566,
+      "name": "Russia - Ust-Ilimsk - Ust-Ilimsk",
+      "code": "UIK",
+      "country": "Russia",
+      "code_city": "UIK"
+    },
+    {
+      "id": 4578,
+      "name": "Indonesia - Atambua - Haliwen Airport",
+      "code": "ABU",
+      "country": "Indonesia",
+      "code_city": "ABU"
+    },
+    {
+      "id": 4579,
+      "name": "Argentina - Gualeguaychu - Gualeguaychu",
+      "code": "GHU",
+      "country": "Argentina",
+      "code_city": "GHU"
+    },
+    {
+      "id": 4593,
+      "name": "Marshall Islands - Aur Island - Aur Island",
+      "code": "AUL",
+      "country": "Marshall Islands",
+      "code_city": "AUL"
+    },
+    {
+      "id": 4648,
+      "name": "United States - Queen - Queen",
+      "code": "UQE",
+      "country": "United States",
+      "code_city": "UQE"
+    },
+    {
+      "id": 4653,
+      "name": "France - Auxerre - Auxerre Branches",
+      "code": "AUF",
+      "country": "France",
+      "code_city": "AUF"
+    },
+    {
+      "id": 4675,
+      "name": "South Korea - Uljin - Uljin",
+      "code": "UJN",
+      "country": "South Korea",
+      "code_city": "UJN"
+    },
+    {
+      "id": 4676,
+      "name": "Libya - Ubari - Ubari",
+      "code": "QUB",
+      "country": "Libya",
+      "code_city": "QUB"
+    },
+    {
+      "id": 4683,
+      "name": "Luxembourg - Luxembourg - Luxembourg Airport",
+      "code": "LUX",
+      "country": "Luxembourg",
+      "code_city": "LUX"
+    },
+    {
+      "id": 4691,
+      "name": "Greenland - Maniitsoq - Heliport",
+      "code": "JSU",
+      "country": "Greenland",
+      "code_city": "JSU"
+    },
+    {
+      "id": 4694,
+      "name": "Colombia - San Pedro Uraba - San Pedro Uraba",
+      "code": "NPU",
+      "country": "Colombia",
+      "code_city": "NPU"
+    },
+    {
+      "id": 4709,
+      "name": "United States - Saint Louis - Spirit of St. Louis Airport",
+      "code": "SUS",
+      "country": "United States",
+      "code_city": "STL"
+    },
+    {
+      "id": 4715,
+      "name": "United States - Pilot Point - Ugashik Bay",
+      "code": "UGB",
+      "country": "United States",
+      "code_city": "PIP"
+    },
+    {
+      "id": 4723,
+      "name": "Sudan - Nyala - Nyala",
+      "code": "UYL",
+      "country": "Sudan",
+      "code_city": "UYL"
+    },
+    {
+      "id": 4725,
+      "name": "United States - Santa Cruz - Skypark",
+      "code": "SRU",
+      "country": "United States",
+      "code_city": "SRU"
+    },
+    {
+      "id": 4777,
+      "name": "Uganda - Masindi - Masindi",
+      "code": "KCU",
+      "country": "Uganda",
+      "code_city": "KCU"
+    },
+    {
+      "id": 4802,
+      "name": "Germany - Bayreuth - Bindlacher-Berg",
+      "code": "BYU",
+      "country": "Germany",
+      "code_city": "BYU"
+    },
+    {
+      "id": 4804,
+      "name": "United States - Drummond - Drummond",
+      "code": "DRU",
+      "country": "United States",
+      "code_city": "DRU"
+    },
+    {
+      "id": 4821,
+      "name": "India - Puttaparthi - Puttaprathe",
+      "code": "PUT",
+      "country": "India",
+      "code_city": "PUT"
+    },
+    {
+      "id": 4830,
+      "name": "Indonesia - Langgur - Langgur Airport",
+      "code": "LUV",
+      "country": "Indonesia",
+      "code_city": "LUV"
+    },
+    {
+      "id": 4833,
+      "name": "Mexico - Mulege - Mulege",
+      "code": "MUG",
+      "country": "Mexico",
+      "code_city": "MUG"
+    },
+    {
+      "id": 4845,
+      "name": "United States - Tucson - Avra Valley",
+      "code": "AVW",
+      "country": "United States",
+      "code_city": "TUS"
+    },
+    {
+      "id": 4860,
+      "name": "United States - Columbus - Columbus AFB",
+      "code": "CBM",
+      "country": "United States",
+      "code_city": "UBS"
+    },
+    {
+      "id": 4864,
+      "name": "Myanmar - Pauk - Pauk",
+      "code": "PAU",
+      "country": "Myanmar",
+      "code_city": "PAU"
+    },
+    {
+      "id": 4866,
+      "name": "Costa Rica - Tambor - Tambor Airport",
+      "code": "TMU",
+      "country": "Costa Rica",
+      "code_city": "TMU"
+    },
+    {
+      "id": 4877,
+      "name": "Philippines - Surigao - Surigao Airport",
+      "code": "SUG",
+      "country": "Philippines",
+      "code_city": "SUG"
+    },
+    {
+      "id": 4909,
+      "name": "Norway - Snartemo - Snartemo Railway Station",
+      "code": "XUS",
+      "country": "Norway",
+      "code_city": "XUS"
+    },
+    {
+      "id": 4911,
+      "name": "Poland - Swidnik - Lublin Airport",
+      "code": "LUZ",
+      "country": "Poland",
+      "code_city": "LUZ"
+    },
+    {
+      "id": 4919,
+      "name": "South Africa - Vryburg - Vryburg",
+      "code": "VRU",
+      "country": "South Africa",
+      "code_city": "VRU"
+    },
+    {
+      "id": 4920,
+      "name": "United States - Boulder - Broker Inn",
+      "code": "WBI",
+      "country": "United States",
+      "code_city": "WBU"
+    },
+    {
+      "id": 4921,
+      "name": "Estonia - Kuressaare - Kuressaare Airport",
+      "code": "URE",
+      "country": "Estonia",
+      "code_city": "URE"
+    },
+    {
+      "id": 4933,
+      "name": "Colombia - Puerto Asis - Puerto Asis Airport",
+      "code": "PUU",
+      "country": "Colombia",
+      "code_city": "PUU"
+    },
+    {
+      "id": 4937,
+      "name": "Fiji - Savusavu - Savusavu Airport",
+      "code": "SVU",
+      "country": "Fiji",
+      "code_city": "SVU"
+    },
+    {
+      "id": 4941,
+      "name": "United States - Ukiah - Ukiah",
+      "code": "UKI",
+      "country": "United States",
+      "code_city": "UKI"
+    },
+    {
+      "id": 4974,
+      "name": "United States - Upolu Point - Upolu Point",
+      "code": "UPP",
+      "country": "United States",
+      "code_city": "UPP"
+    },
+    {
+      "id": 4976,
+      "name": "Colombia - Unguia - Unguia",
+      "code": "UNC",
+      "country": "Colombia",
+      "code_city": "UNC"
+    },
+    {
+      "id": 4986,
+      "name": "Papua New Guinea - Ihu - Ihu",
+      "code": "IHU",
+      "country": "Papua New Guinea",
+      "code_city": "IHU"
+    },
+    {
+      "id": 5007,
+      "name": "United States - Fort Indiantown - Muir AAF",
+      "code": "MUI",
+      "country": "United States",
+      "code_city": "MUI"
+    },
+    {
+      "id": 5008,
+      "name": "Nicaragua - Siuna - Siuna",
+      "code": "SIU",
+      "country": "Nicaragua",
+      "code_city": "SIU"
+    },
+    {
+      "id": 5013,
+      "name": "United States - Burbank - Bob Hope Airport",
+      "code": "BUR",
+      "country": "United States",
+      "code_city": "BUR"
+    },
+    {
+      "id": 5023,
+      "name": "Samoa - Asau - Asau",
+      "code": "AAU",
+      "country": "Samoa",
+      "code_city": "AAU"
+    },
+    {
+      "id": 5025,
+      "name": "United States - Aurora - Municipal Airport",
+      "code": "AUZ",
+      "country": "United States",
+      "code_city": "AUZ"
+    },
+    {
+      "id": 5033,
+      "name": "Germany - Aue - Sachsen Railway",
+      "code": "ZAU",
+      "country": "Germany",
+      "code_city": "ZAU"
+    },
+    {
+      "id": 5037,
+      "name": "United States - Terre Haute - Hulman Field",
+      "code": "HUF",
+      "country": "United States",
+      "code_city": "HUF"
+    },
+    {
+      "id": 5043,
+      "name": "Republic of the Congo - Ouesso - Ouesso",
+      "code": "OUE",
+      "country": "Republic of the Congo",
+      "code_city": "OUE"
+    },
+    {
+      "id": 5045,
+      "name": "Malawi - Mvuu Camp - Mvuu Camp",
+      "code": "VUU",
+      "country": "Malawi",
+      "code_city": "VUU"
+    },
+    {
+      "id": 5055,
+      "name": "United States - Ruidoso - Ruidoso Sierra Blanca Regional Airport",
+      "code": "RUI",
+      "country": "United States",
+      "code_city": "RUI"
+    },
+    {
+      "id": 5062,
+      "name": "Sri Lanka - Nuwara Eliya - Gregory's Lake",
+      "code": "NUA",
+      "country": "Sri Lanka",
+      "code_city": "NUA"
+    },
+    {
+      "id": 5079,
+      "name": "Thailand - Koh Samui - Koh Samui Airport",
+      "code": "USM",
+      "country": "Thailand",
+      "code_city": "USM"
+    },
+    {
+      "id": 5083,
+      "name": "Greece - Kerkyra - Ioannis Kapodistrias Airport",
+      "code": "CFU",
+      "country": "Greece",
+      "code_city": "CFU"
+    },
+    {
+      "id": 5092,
+      "name": "China - Zhuhai - Zhuhai Jinwan Airport",
+      "code": "ZUH",
+      "country": "China",
+      "code_city": "ZUH"
+    },
+    {
+      "id": 5093,
+      "name": "Madagascar - Betioky - Betioky",
+      "code": "BKU",
+      "country": "Madagascar",
+      "code_city": "BKU"
+    },
+    {
+      "id": 5103,
+      "name": "Indonesia - Muting - Muting",
+      "code": "MUF",
+      "country": "Indonesia",
+      "code_city": "MUF"
+    },
+    {
+      "id": 5133,
+      "name": "Afghanistan - Kuran-Wa-Munjan - Kuran-O-Munjan",
+      "code": "KUR",
+      "country": "Afghanistan",
+      "code_city": "KUR"
+    },
+    {
+      "id": 5137,
+      "name": "Germany - Dusseldorf - Dusseldorf International Airport",
+      "code": "DUS",
+      "country": "Germany",
+      "code_city": "DUS"
+    },
+    {
+      "id": 5141,
+      "name": "Australia - Warraber - Warraber Island",
+      "code": "SYU",
+      "country": "Australia",
+      "code_city": "SYU"
+    },
+    {
+      "id": 5143,
+      "name": "Australia - Jurien Bay - Jurien Bay",
+      "code": "JUR",
+      "country": "Australia",
+      "code_city": "JUR"
+    },
+    {
+      "id": 5144,
+      "name": "Indonesia - Mamuju - Tampa Padang Airport",
+      "code": "MJU",
+      "country": "Indonesia",
+      "code_city": "MJU"
+    },
+    {
+      "id": 5159,
+      "name": "Finland - Valkeala - Utti",
+      "code": "UTI",
+      "country": "Finland",
+      "code_city": "UTI"
+    },
+    {
+      "id": 5161,
+      "name": "United States - Dutch Harbor - Unalaska Airport",
+      "code": "DUT",
+      "country": "United States",
+      "code_city": "DUT"
+    },
+    {
+      "id": 5179,
+      "name": "Greenland - Qaqortoq - Heliport",
+      "code": "JJU",
+      "country": "Greenland",
+      "code_city": "JJU"
+    },
+    {
+      "id": 5195,
+      "name": "Turkey - Usak - Usak",
+      "code": "USQ",
+      "country": "Turkey",
+      "code_city": "USQ"
+    },
+    {
+      "id": 5201,
+      "name": "Laos - Ban Houei - Ban Houei",
+      "code": "OUI",
+      "country": "Laos",
+      "code_city": "OUI"
+    },
+    {
+      "id": 5204,
+      "name": "Greenland - Upernavik - Heliport",
+      "code": "JUV",
+      "country": "Greenland",
+      "code_city": "JUV"
+    },
+    {
+      "id": 5213,
+      "name": "Argentina - Buenos Aires - Jorge Newbery Airport",
+      "code": "AEP",
+      "country": "Argentina",
+      "code_city": "BUE"
+    },
+    {
+      "id": 5223,
+      "name": "Brazil - Ijui - J. Batista Bos Filho Airport",
+      "code": "IJU",
+      "country": "Brazil",
+      "code_city": "IJU"
+    },
+    {
+      "id": 5234,
+      "name": "United States - Pullman - Moscow Regional Airport",
+      "code": "PUW",
+      "country": "United States",
+      "code_city": "PUW"
+    },
+    {
+      "id": 5245,
+      "name": "Serbia - Uzice - Uzice-Ponikve",
+      "code": "UZC",
+      "country": "Serbia",
+      "code_city": "UZC"
+    },
+    {
+      "id": 5253,
+      "name": "Indonesia - Pekanbaru - Sultan Syarif Kasim II International Airport",
+      "code": "PKU",
+      "country": "Indonesia",
+      "code_city": "PKU"
+    },
+    {
+      "id": 5256,
+      "name": "Burkina Faso - Tougan - Tougan",
+      "code": "TUQ",
+      "country": "Burkina Faso",
+      "code_city": "TUQ"
+    },
+    {
+      "id": 5272,
+      "name": "Morocco - Essaouira - Essaouira Airport",
+      "code": "ESU",
+      "country": "Morocco",
+      "code_city": "ESU"
+    },
+    {
+      "id": 5280,
+      "name": "Brazil - Araguaina - Araguaina Airport",
+      "code": "AUX",
+      "country": "Brazil",
+      "code_city": "AUX"
+    },
+    {
+      "id": 5283,
+      "name": "Georgia - Sukhumi - Babusheri",
+      "code": "SUI",
+      "country": "Georgia",
+      "code_city": "SUI"
+    },
+    {
+      "id": 5288,
+      "name": "Myanmar - Prome - Prome",
+      "code": "PRU",
+      "country": "Myanmar",
+      "code_city": "PRU"
+    },
+    {
+      "id": 5290,
+      "name": "Russia - Lensk - Lensk Airport",
+      "code": "ULK",
+      "country": "Russia",
+      "code_city": "ULK"
+    },
+    {
+      "id": 5293,
+      "name": "Uruguay - Bella Union - Bella Union",
+      "code": "BUV",
+      "country": "Uruguay",
+      "code_city": "BUV"
+    },
+    {
+      "id": 5294,
+      "name": "United States - Blue Canyon - Blue Canyon",
+      "code": "BLU",
+      "country": "United States",
+      "code_city": "BLU"
+    },
+    {
+      "id": 5313,
+      "name": "India - Kolkata - Netaji Subhas Chandra Bose Airport",
+      "code": "CCU",
+      "country": "India",
+      "code_city": "CCU"
+    },
+    {
+      "id": 5324,
+      "name": "United States - Utica - Berz-Macomb",
+      "code": "UIZ",
+      "country": "United States",
+      "code_city": "UIZ"
+    },
+    {
+      "id": 5329,
+      "name": "United States - Boulder - Boulder Municipal",
+      "code": "WBU",
+      "country": "United States",
+      "code_city": "WBU"
+    },
+    {
+      "id": 5333,
+      "name": "Australia - Useless Loop - Useless Loop",
+      "code": "USL",
+      "country": "Australia",
+      "code_city": "USL"
+    },
+    {
+      "id": 5339,
+      "name": "United States - Quakertown - Upper Bucks",
+      "code": "UKT",
+      "country": "United States",
+      "code_city": "UKT"
+    },
+    {
+      "id": 5349,
+      "name": "Mexico - Guerrero Negro - Guerrero Negro",
+      "code": "GUB",
+      "country": "Mexico",
+      "code_city": "GUB"
+    },
+    {
+      "id": 5351,
+      "name": "India - Muzaffarpur - Muzaffarpur",
+      "code": "MZU",
+      "country": "India",
+      "code_city": "MZU"
+    },
+    {
+      "id": 5405,
+      "name": "Canada - Montreal - St. Hubert Airport",
+      "code": "YHU",
+      "country": "Canada",
+      "code_city": "YMQ"
+    },
+    {
+      "id": 5432,
+      "name": "Indonesia - Kotabaru - Gusti Syamsir Alam Airport",
+      "code": "KBU",
+      "country": "Indonesia",
+      "code_city": "KBU"
+    },
+    {
+      "id": 5445,
+      "name": "United States - Unalakleet - Unalakleet Airport",
+      "code": "UNK",
+      "country": "United States",
+      "code_city": "UNK"
+    },
+    {
+      "id": 5447,
+      "name": "Papua New Guinea - Mougulu - Mougulu",
+      "code": "GUV",
+      "country": "Papua New Guinea",
+      "code_city": "GUV"
+    },
+    {
+      "id": 5450,
+      "name": "Iceland - Grundarfjordur - Grundarfjordur",
+      "code": "GUU",
+      "country": "Iceland",
+      "code_city": "GUU"
+    },
+    {
+      "id": 5451,
+      "name": "Malaysia - Long Sukang - Long Sukang",
+      "code": "LSU",
+      "country": "Malaysia",
+      "code_city": "LSU"
+    },
+    {
+      "id": 5453,
+      "name": "Belize - Caye Caulker - Caye Caulker",
+      "code": "CUK",
+      "country": "Belize",
+      "code_city": "CUK"
+    },
+    {
+      "id": 5464,
+      "name": "Pakistan - Dadu - Dadu",
+      "code": "DDU",
+      "country": "Pakistan",
+      "code_city": "DDU"
+    },
+    {
+      "id": 5476,
+      "name": "Papua New Guinea - Tauta - Tauta",
+      "code": "TUT",
+      "country": "Papua New Guinea",
+      "code_city": "TUT"
+    },
+    {
+      "id": 5482,
+      "name": "United States - Houlton - International",
+      "code": "HUL",
+      "country": "United States",
+      "code_city": "HUL"
+    },
+    {
+      "id": 5488,
+      "name": "French Polynesia - Maupiti - Maupiti",
+      "code": "MAU",
+      "country": "French Polynesia",
+      "code_city": "MAU"
+    },
+    {
+      "id": 5492,
+      "name": "United States - Houston - Ellington Field",
+      "code": "EFD",
+      "country": "United States",
+      "code_city": "HOU"
+    },
+    {
+      "id": 5504,
+      "name": "Namibia - Luderitz - Luderitz Airport",
+      "code": "LUD",
+      "country": "Namibia",
+      "code_city": "LUD"
+    },
+    {
+      "id": 5534,
+      "name": "Spain - Montilla - Montilla",
+      "code": "OZU",
+      "country": "Spain",
+      "code_city": "OZU"
+    },
+    {
+      "id": 5563,
+      "name": "Malaysia - Labuan - Labuan Airport",
+      "code": "LBU",
+      "country": "Malaysia",
+      "code_city": "LBU"
+    },
+    {
+      "id": 5564,
+      "name": "Yemen - Albuq - Albuq",
+      "code": "BUK",
+      "country": "Yemen",
+      "code_city": "BUK"
+    },
+    {
+      "id": 5575,
+      "name": "United States - Houston - Spaceland",
+      "code": "SPX",
+      "country": "United States",
+      "code_city": "HOU"
+    },
+    {
+      "id": 5583,
+      "name": "United States - Gallup - Senator Clark",
+      "code": "GUP",
+      "country": "United States",
+      "code_city": "GUP"
+    },
+    {
+      "id": 5590,
+      "name": "Canada - Tuktoyaktuk - Tuktoyaktuk",
+      "code": "YUB",
+      "country": "Canada",
+      "code_city": "YUB"
+    },
+    {
+      "id": 5596,
+      "name": "United States - Buffalo - Buffalo Depew Rr",
+      "code": "ZFZ",
+      "country": "United States",
+      "code_city": "BUF"
+    },
+    {
+      "id": 5604,
+      "name": "Greenland - Narsarsuaq - Narsarsuaq Airport",
+      "code": "UAK",
+      "country": "Greenland",
+      "code_city": "UAK"
+    },
+    {
+      "id": 5615,
+      "name": "Indonesia - Buol - Buol",
+      "code": "UOL",
+      "country": "Indonesia",
+      "code_city": "UOL"
+    },
+    {
+      "id": 5623,
+      "name": "Germany - Braunschweig - Wolfsburg Rail Station",
+      "code": "ZQU",
+      "country": "Germany",
+      "code_city": "BWE"
+    },
+    {
+      "id": 5638,
+      "name": "Canada - Whitecourt - Whitecourt",
+      "code": "YZU",
+      "country": "Canada",
+      "code_city": "YZU"
+    },
+    {
+      "id": 5650,
+      "name": "Philippines - Tuguegarao - Tuguegarao Airport",
+      "code": "TUG",
+      "country": "Philippines",
+      "code_city": "TUG"
+    },
+    {
+      "id": 5653,
+      "name": "United States - Cube Cove - Cube Cove",
+      "code": "CUW",
+      "country": "United States",
+      "code_city": "CUW"
+    },
+    {
+      "id": 5660,
+      "name": "South Africa - Oudtshoorn - Oudtshoorn",
+      "code": "OUH",
+      "country": "South Africa",
+      "code_city": "OUH"
+    },
+    {
+      "id": 5669,
+      "name": "United States - Umnak Island - North Shore",
+      "code": "UMB",
+      "country": "United States",
+      "code_city": "UMB"
+    },
+    {
+      "id": 5671,
+      "name": "Belgium - Brussels - Charleroi Brussels South Airport",
+      "code": "CRL",
+      "country": "Belgium",
+      "code_city": "BRU"
+    },
+    {
+      "id": 5678,
+      "name": "Russia - Ulan-Ude - Ulan-Ude Airport",
+      "code": "UUD",
+      "country": "Russia",
+      "code_city": "UUD"
+    },
+    {
+      "id": 5687,
+      "name": "Brazil - Ubatuba - Ubatuba",
+      "code": "UBT",
+      "country": "Brazil",
+      "code_city": "UBT"
+    },
+    {
+      "id": 5706,
+      "name": "Panama - Achutupo - Achutupo",
+      "code": "ACU",
+      "country": "Panama",
+      "code_city": "ACU"
+    },
+    {
+      "id": 5731,
+      "name": "United States - Burwell - Municipal",
+      "code": "BUB",
+      "country": "United States",
+      "code_city": "BUB"
+    },
+    {
+      "id": 5738,
+      "name": "United States - Corolla - Pine Island Airport",
+      "code": "DUF",
+      "country": "United States",
+      "code_city": "DUF"
+    },
+    {
+      "id": 5750,
+      "name": "United States - Monroe - Monroe Regional Airport",
+      "code": "MLU",
+      "country": "United States",
+      "code_city": "MLU"
+    },
+    {
+      "id": 5758,
+      "name": "Zimbabwe - Bulawayo - Bulawayo Airport",
+      "code": "BUQ",
+      "country": "Zimbabwe",
+      "code_city": "BUQ"
+    },
+    {
+      "id": 5763,
+      "name": "Canada - London - London International Airport",
+      "code": "YXU",
+      "country": "Canada",
+      "code_city": "YXU"
+    },
+    {
+      "id": 5780,
+      "name": "Spain - Torremolinos - Torremolinos",
+      "code": "UTL",
+      "country": "Spain",
+      "code_city": "UTL"
+    },
+    {
+      "id": 5782,
+      "name": "Uganda - Arua - Arua",
+      "code": "RUA",
+      "country": "Uganda",
+      "code_city": "RUA"
+    },
+    {
+      "id": 5793,
+      "name": "Papua New Guinea - Baimuru - Baimuru",
+      "code": "VMU",
+      "country": "Papua New Guinea",
+      "code_city": "VMU"
+    },
+    {
+      "id": 5795,
+      "name": "India - Diu - Diu Airport",
+      "code": "DIU",
+      "country": "India",
+      "code_city": "DIU"
+    },
+    {
+      "id": 5802,
+      "name": "United States - Peru - Grissom AFB",
+      "code": "GUS",
+      "country": "United States",
+      "code_city": "GUS"
+    },
+    {
+      "id": 5808,
+      "name": "Colombia - Quibdo - El Carano Airport",
+      "code": "UIB",
+      "country": "Colombia",
+      "code_city": "UIB"
+    },
+    {
+      "id": 5809,
+      "name": "United States - Douglas - Bisbee-Douglas International",
+      "code": "DUG",
+      "country": "United States",
+      "code_city": "DUG"
+    },
+    {
+      "id": 5812,
+      "name": "United States - Sioux City - Sioux Gateway Airport",
+      "code": "SUX",
+      "country": "United States",
+      "code_city": "SUX"
+    },
+    {
+      "id": 5838,
+      "name": "Democratic Republic of the Congo - Bandundu - Bandundu",
+      "code": "FDU",
+      "country": "Democratic Republic of the Congo",
+      "code_city": "FDU"
+    },
+    {
+      "id": 5860,
+      "name": "Colombia - Arauca - Arauca Airport",
+      "code": "AUC",
+      "country": "Colombia",
+      "code_city": "AUC"
+    },
+    {
+      "id": 5866,
+      "name": "Australia - Musgrave - Musgrave",
+      "code": "MVU",
+      "country": "Australia",
+      "code_city": "MVU"
+    },
+    {
+      "id": 5870,
+      "name": "South Africa - Durban - King Shaka International Airport",
+      "code": "DUR",
+      "country": "South Africa",
+      "code_city": "DUR"
+    },
+    {
+      "id": 5878,
+      "name": "Russia - Ust-Nera - Ust-Nera Airport",
+      "code": "USR",
+      "country": "Russia",
+      "code_city": "USR"
+    },
+    {
+      "id": 5886,
+      "name": "Papua New Guinea - Kerau - Kerau",
+      "code": "KRU",
+      "country": "Papua New Guinea",
+      "code_city": "KRU"
+    },
+    {
+      "id": 5893,
+      "name": "Slovakia - Lucenec - Lucenec",
+      "code": "LUE",
+      "country": "Slovakia",
+      "code_city": "LUE"
+    },
+    {
+      "id": 5894,
+      "name": "Russia - Ust-Kut - Ust-Kut Airport",
+      "code": "UKX",
+      "country": "Russia",
+      "code_city": "UKX"
+    },
+    {
+      "id": 5908,
+      "name": "Puerto Rico - San Juan - Isla Grande",
+      "code": "SIG",
+      "country": "Puerto Rico",
+      "code_city": "SJU"
+    },
+    {
+      "id": 5910,
+      "name": "Croatia - Pula - Pula Airport",
+      "code": "PUY",
+      "country": "Croatia",
+      "code_city": "PUY"
+    },
+    {
+      "id": 5920,
+      "name": "United States - Uganik - Uganik",
+      "code": "UGI",
+      "country": "United States",
+      "code_city": "UGI"
+    },
+    {
+      "id": 5927,
+      "name": "Saudi Arabia - Turaif - Turaif Airport",
+      "code": "TUI",
+      "country": "Saudi Arabia",
+      "code_city": "TUI"
+    },
+    {
+      "id": 5931,
+      "name": "Pakistan - Turbat - Turbat Airport",
+      "code": "TUK",
+      "country": "Pakistan",
+      "code_city": "TUK"
+    },
+    {
+      "id": 5940,
+      "name": "United States - Houston - Marriot Astrodome",
+      "code": "JMA",
+      "country": "United States",
+      "code_city": "HOU"
+    },
+    {
+      "id": 5952,
+      "name": "Vietnam - Qui Nhon - Phu Cat Airport",
+      "code": "UIH",
+      "country": "Vietnam",
+      "code_city": "UIH"
+    },
+    {
+      "id": 5965,
+      "name": "Ukraine - Lutsk - Lutsk",
+      "code": "UCK",
+      "country": "Ukraine",
+      "code_city": "UCK"
+    },
+    {
+      "id": 5966,
+      "name": "Australia - Tumut - Tumut",
+      "code": "TUM",
+      "country": "Australia",
+      "code_city": "TUM"
+    },
+    {
+      "id": 5976,
+      "name": "Canada - Summerside - Summerside",
+      "code": "YSU",
+      "country": "Canada",
+      "code_city": "YSU"
+    },
+    {
+      "id": 5992,
+      "name": "Bulgaria - Rousse - Rousse",
+      "code": "ROU",
+      "country": "Bulgaria",
+      "code_city": "ROU"
+    },
+    {
+      "id": 6005,
+      "name": "United Arab Emirates - Abu Dhabi - Abu Dhabi International Airport",
+      "code": "AUH",
+      "country": "United Arab Emirates",
+      "code_city": "AUH"
+    },
+    {
+      "id": 6011,
+      "name": "Norway - Storen - Storen Railway",
+      "code": "XUW",
+      "country": "Norway",
+      "code_city": "XUW"
+    },
+    {
+      "id": 6026,
+      "name": "Papua New Guinea - Dinangat - Dinangat",
+      "code": "DNU",
+      "country": "Papua New Guinea",
+      "code_city": "DNU"
+    },
+    {
+      "id": 6027,
+      "name": "Germany - Dusseldorf - Station",
+      "code": "QDU",
+      "country": "Germany",
+      "code_city": "DUS"
+    },
+    {
+      "id": 6028,
+      "name": "Norway - Dusseldorf - Storekvina Railway",
+      "code": "XUV",
+      "country": "Norway",
+      "code_city": "XUV"
+    },
+    {
+      "id": 6032,
+      "name": "United States - Fort Sumner - Fort Sumner",
+      "code": "FSU",
+      "country": "United States",
+      "code_city": "FSU"
+    },
+    {
+      "id": 6033,
+      "name": "Venezuela - Casigua - Casigua",
+      "code": "CUV",
+      "country": "Venezuela",
+      "code_city": "CUV"
+    },
+    {
+      "id": 6046,
+      "name": "Malaysia - Keningau - Keningau",
+      "code": "KGU",
+      "country": "Malaysia",
+      "code_city": "KGU"
+    },
+    {
+      "id": 6049,
+      "name": "Sweden - Umea - Umea Airport",
+      "code": "UME",
+      "country": "Sweden",
+      "code_city": "UME"
+    },
+    {
+      "id": 6052,
+      "name": "China - Yuanmou - Yuanmou",
+      "code": "YUA",
+      "country": "China",
+      "code_city": "YUA"
+    },
+    {
+      "id": 6074,
+      "name": "United States - Sault Ste. Marie - Chippewa County Airport",
+      "code": "CIU",
+      "country": "United States",
+      "code_city": "SSM"
+    },
+    {
+      "id": 6081,
+      "name": "United States - Wausau - Central Wisconsin Airport",
+      "code": "CWA",
+      "country": "United States",
+      "code_city": "AUW"
+    },
+    {
+      "id": 6098,
+      "name": "Solomon Islands - Viru - Viru Harbour Airstrip",
+      "code": "VIU",
+      "country": "Solomon Islands",
+      "code_city": "VIU"
+    },
+    {
+      "id": 6110,
+      "name": "New Zealand - Kawau Island - Kawau Island",
+      "code": "KUI",
+      "country": "New Zealand",
+      "code_city": "KUI"
+    },
+    {
+      "id": 6114,
+      "name": "United States - Eau Claire - Eau Claire Airport",
+      "code": "EAU",
+      "country": "United States",
+      "code_city": "EAU"
+    },
+    {
+      "id": 6118,
+      "name": "Peru - Quincemil - Quincemil",
+      "code": "UMI",
+      "country": "Peru",
+      "code_city": "UMI"
+    },
+    {
+      "id": 6135,
+      "name": "United States - Yuma - Yuma International Airport",
+      "code": "YUM",
+      "country": "United States",
+      "code_city": "YUM"
+    },
+    {
+      "id": 6136,
+      "name": "Australia - Burketown - Burketown",
+      "code": "BUC",
+      "country": "Australia",
+      "code_city": "BUC"
+    },
+    {
+      "id": 6137,
+      "name": "United States - Mountain Village - Mountain Village Airport",
+      "code": "MOU",
+      "country": "United States",
+      "code_city": "MOU"
+    },
+    {
+      "id": 6159,
+      "name": "French Polynesia - Niau - Niau",
+      "code": "NIU",
+      "country": "French Polynesia",
+      "code_city": "NIU"
+    },
+    {
+      "id": 6160,
+      "name": "Colombia - Mulatos - Mulatos",
+      "code": "ULS",
+      "country": "Colombia",
+      "code_city": "ULS"
+    },
+    {
+      "id": 6185,
+      "name": "Canada - Tasu - Tasu",
+      "code": "YTU",
+      "country": "Canada",
+      "code_city": "YTU"
+    },
+    {
+      "id": 6191,
+      "name": "Somalia - Alula - Alula",
+      "code": "ALU",
+      "country": "Somalia",
+      "code_city": "ALU"
+    },
+    {
+      "id": 6211,
+      "name": "Algeria - Mascara-Ghriss - Mascara-Ghriss",
+      "code": "MUW",
+      "country": "Algeria",
+      "code_city": "MUW"
+    },
+    {
+      "id": 6215,
+      "name": "Mexico - Huatulco - Huatulco Airport",
+      "code": "HUX",
+      "country": "Mexico",
+      "code_city": "HUX"
+    },
+    {
+      "id": 6224,
+      "name": "Mongolia - Bulgan - Bulgan",
+      "code": "UGA",
+      "country": "Mongolia",
+      "code_city": "UGA"
+    },
+    {
+      "id": 6228,
+      "name": "Lesotho - Quthing - Quthing",
+      "code": "UTG",
+      "country": "Lesotho",
+      "code_city": "UTG"
+    },
+    {
+      "id": 6232,
+      "name": "Papua New Guinea - Bulolo - Bulolo",
+      "code": "BUL",
+      "country": "Papua New Guinea",
+      "code_city": "BUL"
+    },
+    {
+      "id": 6238,
+      "name": "French Guiana - Saul - Saul",
+      "code": "XAU",
+      "country": "French Guiana",
+      "code_city": "XAU"
+    },
+    {
+      "id": 6249,
+      "name": "Cuba - Santa Clara - Santa Clara Airport",
+      "code": "SNU",
+      "country": "Cuba",
+      "code_city": "SNU"
+    },
+    {
+      "id": 6266,
+      "name": "Papua New Guinea - Sule - Sule",
+      "code": "ULE",
+      "country": "Papua New Guinea",
+      "code_city": "ULE"
+    },
+    {
+      "id": 6290,
+      "name": "Brazil - Itauba - Itauba",
+      "code": "AUB",
+      "country": "Brazil",
+      "code_city": "AUB"
+    },
+    {
+      "id": 6295,
+      "name": "Vanuatu - Norsup - Norsup Airport",
+      "code": "NUS",
+      "country": "Vanuatu",
+      "code_city": "NUS"
+    },
+    {
+      "id": 6299,
+      "name": "Norway - Moelv - Moelv Railway Station",
+      "code": "XUJ",
+      "country": "Norway",
+      "code_city": "XUJ"
+    },
+    {
+      "id": 6307,
+      "name": "United States - Saint Augustine - St. Augustine Airport",
+      "code": "UST",
+      "country": "United States",
+      "code_city": "UST"
+    },
+    {
+      "id": 6312,
+      "name": "Australia - Wudinna - Wudinna",
+      "code": "WUD",
+      "country": "Australia",
+      "code_city": "WUD"
+    },
+    {
+      "id": 6328,
+      "name": "Chile - Santiago - Los Cerrillos",
+      "code": "ULC",
+      "country": "Chile",
+      "code_city": "SCL"
+    },
+    {
+      "id": 6334,
+      "name": "Russia - Iturup - Iturup",
+      "code": "ITU",
+      "country": "Russia",
+      "code_city": "ITU"
+    },
+    {
+      "id": 6344,
+      "name": "United States - Clemson - Oconee County",
+      "code": "CEU",
+      "country": "United States",
+      "code_city": "CEU"
+    },
+    {
+      "id": 6356,
+      "name": "United States - Utica - Oneida County",
+      "code": "UCA",
+      "country": "United States",
+      "code_city": "UCA"
+    },
+    {
+      "id": 6357,
+      "name": "Colombia - Otu - Otu",
+      "code": "OTU",
+      "country": "Colombia",
+      "code_city": "OTU"
+    },
+    {
+      "id": 6376,
+      "name": "United States - Houston - William P. Hobby Airport",
+      "code": "HOU",
+      "country": "United States",
+      "code_city": "HOU"
+    },
+    {
+      "id": 6391,
+      "name": "United States - Houston - George Bush Intercontinental Airport",
+      "code": "IAH",
+      "country": "United States",
+      "code_city": "HOU"
+    },
+    {
+      "id": 6401,
+      "name": "United States - White Sulphur Springs - Greenbrier",
+      "code": "SSU",
+      "country": "United States",
+      "code_city": "SSU"
+    },
+    {
+      "id": 6405,
+      "name": "Finland - Oulu - Oulu Airport",
+      "code": "OUL",
+      "country": "Finland",
+      "code_city": "OUL"
+    },
+    {
+      "id": 6411,
+      "name": "United States - Philadelphia - Mustin Alf",
+      "code": "MUV",
+      "country": "United States",
+      "code_city": "PHL"
+    },
+    {
+      "id": 6426,
+      "name": "United Kingdom - Rokeby - Rugby Railway Station",
+      "code": "XRU",
+      "country": "United Kingdom",
+      "code_city": "XRU"
+    },
+    {
+      "id": 6443,
+      "name": "Malaysia - Kuala Lumpur - Kuala Lumpur International Airport",
+      "code": "KUL",
+      "country": "Malaysia",
+      "code_city": "KUL"
+    },
+    {
+      "id": 6452,
+      "name": "United States - Picayune - Pearl River County",
+      "code": "PCU",
+      "country": "United States",
+      "code_city": "PCU"
+    },
+    {
+      "id": 6453,
+      "name": "Venezuela - Carupano - Carupano",
+      "code": "CUP",
+      "country": "Venezuela",
+      "code_city": "CUP"
+    },
+    {
+      "id": 6476,
+      "name": "China - Urumqi - Urumqi Diwopu International Airport",
+      "code": "URC",
+      "country": "China",
+      "code_city": "URC"
+    },
+    {
+      "id": 6499,
+      "name": "Canada - Salisbury-Ocean City - Hervey Railway Station",
+      "code": "XDU",
+      "country": "Canada",
+      "code_city": "XDU"
+    },
+    {
+      "id": 6513,
+      "name": "Panama - Puerto Obaldia - Puerto Obaldia",
+      "code": "PUE",
+      "country": "Panama",
+      "code_city": "PUE"
+    },
+    {
+      "id": 6519,
+      "name": "Indonesia - Baubau - Baubau Airport",
+      "code": "BUW",
+      "country": "Indonesia",
+      "code_city": "BUW"
+    },
+    {
+      "id": 6523,
+      "name": "Australia - Mulga Park - Mulga Park",
+      "code": "MUP",
+      "country": "Australia",
+      "code_city": "MUP"
+    },
+    {
+      "id": 6525,
+      "name": "Mozambique - Quelimane - Quelimane Airport",
+      "code": "UEL",
+      "country": "Mozambique",
+      "code_city": "UEL"
+    },
+    {
+      "id": 6527,
+      "name": "United States - Juneau - Dodge County",
+      "code": "UNU",
+      "country": "United States",
+      "code_city": "UNU"
+    },
+    {
+      "id": 6575,
+      "name": "Tuvalu - Funafuti Atol - Funafuti Atol International Airport",
+      "code": "FUN",
+      "country": "Tuvalu",
+      "code_city": "FUN"
+    },
+    {
+      "id": 6586,
+      "name": "Australia - Muccan - Muccan",
+      "code": "MUQ",
+      "country": "Australia",
+      "code_city": "MUQ"
+    },
+    {
+      "id": 6596,
+      "name": "Papua New Guinea - Kamiraba - Kamiraba",
+      "code": "KJU",
+      "country": "Papua New Guinea",
+      "code_city": "KJU"
+    },
+    {
+      "id": 6613,
+      "name": "Colombia - Urrao - Urrao",
+      "code": "URR",
+      "country": "Colombia",
+      "code_city": "URR"
+    },
+    {
+      "id": 6625,
+      "name": "Papua New Guinea - Manumu - Manumu",
+      "code": "UUU",
+      "country": "Papua New Guinea",
+      "code_city": "UUU"
+    },
+    {
+      "id": 6635,
+      "name": "Sri Lanka - Iranamadu - Iranamadu SPB",
+      "code": "IRU",
+      "country": "Sri Lanka",
+      "code_city": "IRU"
+    },
+    {
+      "id": 6642,
+      "name": "United States - Tullahoma - Arnold AFS",
+      "code": "TUH",
+      "country": "United States",
+      "code_city": "THA"
+    },
+    {
+      "id": 6680,
+      "name": "United States - Laurel - Hattiesburg-Laurel Regional Airport",
+      "code": "PIB",
+      "country": "United States",
+      "code_city": "LUL"
+    },
+    {
+      "id": 6700,
+      "name": "Australia - Bedourie - Bedourie",
+      "code": "BEU",
+      "country": "Australia",
+      "code_city": "BEU"
+    },
+    {
+      "id": 6707,
+      "name": "Germany - Cottbus - Cottbus Railway",
+      "code": "ZTT",
+      "country": "Germany",
+      "code_city": "CBU"
+    },
+    {
+      "id": 6709,
+      "name": "Puerto Rico - Humacao - Palmas Del Mar",
+      "code": "PPD",
+      "country": "Puerto Rico",
+      "code_city": "HUC"
+    },
+    {
+      "id": 6710,
+      "name": "Papua New Guinea - Kupiano - Kupiano",
+      "code": "KUP",
+      "country": "Papua New Guinea",
+      "code_city": "KUP"
+    },
+    {
+      "id": 6716,
+      "name": "Nigeria - Enugu - Enugu Airport",
+      "code": "ENU",
+      "country": "Nigeria",
+      "code_city": "ENU"
+    },
+    {
+      "id": 6721,
+      "name": "United States - Ely - Ely",
+      "code": "LYU",
+      "country": "United States",
+      "code_city": "LYU"
+    },
+    {
+      "id": 6726,
+      "name": "Mauritius - Mauritius - Sir Seewoosagur Ramgoolam International Airport",
+      "code": "MRU",
+      "country": "Mauritius",
+      "code_city": "MRU"
+    },
+    {
+      "id": 6729,
+      "name": "Ukraine - Uzhgorod - Uzhgorod",
+      "code": "UDJ",
+      "country": "Ukraine",
+      "code_city": "UDJ"
+    },
+    {
+      "id": 6743,
+      "name": "Norway - Ilimanaq - Skoppum Railway Station",
+      "code": "XUR",
+      "country": "Norway",
+      "code_city": "XUR"
+    },
+    {
+      "id": 6754,
+      "name": "Netherlands - Utrecht - Soesterberg",
+      "code": "UTC",
+      "country": "Netherlands",
+      "code_city": "UTC"
+    },
+    {
+      "id": 6757,
+      "name": "Kiribati - Tabiteuea South - Tabiteuea South",
+      "code": "TSU",
+      "country": "Kiribati",
+      "code_city": "TSU"
+    },
+    {
+      "id": 6770,
+      "name": "Russia - Ust-Tsilma - Ust-Tsilma",
+      "code": "UTS",
+      "country": "Russia",
+      "code_city": "UTS"
+    },
+    {
+      "id": 6776,
+      "name": "United States - New York - Flushing",
+      "code": "FLU",
+      "country": "United States",
+      "code_city": "NYC"
+    },
+    {
+      "id": 6789,
+      "name": "United States - Leipzig/Halle - Florence Municipal",
+      "code": "FMU",
+      "country": "United States",
+      "code_city": "FMU"
+    },
+    {
+      "id": 6793,
+      "name": "Sweden - Hedemora - Hedemora",
+      "code": "XXU",
+      "country": "Sweden",
+      "code_city": "XXU"
+    },
+    {
+      "id": 6801,
+      "name": "United States - Chuathbaluk - Chuathbaluk Airport",
+      "code": "CHU",
+      "country": "United States",
+      "code_city": "CHU"
+    },
+    {
+      "id": 6805,
+      "name": "South Korea - Busan - Gimhae International Airport",
+      "code": "PUS",
+      "country": "South Korea",
+      "code_city": "PUS"
+    },
+    {
+      "id": 6820,
+      "name": "United Arab Emirates - Abu Dhabi - Al Dhafra Military Airport",
+      "code": "DHF",
+      "country": "United Arab Emirates",
+      "code_city": "AUH"
+    },
+    {
+      "id": 6821,
+      "name": "Sri Lanka - Dambula - Dambulu Oya Tank",
+      "code": "DBU",
+      "country": "Sri Lanka",
+      "code_city": "DBU"
+    },
+    {
+      "id": 6826,
+      "name": "Indonesia - Zugapa - Zugapa",
+      "code": "UGU",
+      "country": "Indonesia",
+      "code_city": "UGU"
+    },
+    {
+      "id": 6829,
+      "name": "Turkey - Adana - Adana-Incirlik Airbase",
+      "code": "UAB",
+      "country": "Turkey",
+      "code_city": "ADA"
+    },
+    {
+      "id": 6846,
+      "name": "Papua New Guinea - Wasu - Wasu",
+      "code": "WSU",
+      "country": "Papua New Guinea",
+      "code_city": "WSU"
+    },
+    {
+      "id": 6853,
+      "name": "Senegal - Tambacounda - Tambacounda",
+      "code": "TUD",
+      "country": "Senegal",
+      "code_city": "TUD"
+    },
+    {
+      "id": 6863,
+      "name": "Papua New Guinea - Wau - Wau",
+      "code": "WUG",
+      "country": "Papua New Guinea",
+      "code_city": "WUG"
+    },
+    {
+      "id": 6872,
+      "name": "United States - Lake Cook Road - Lake Cook Road Railway Station",
+      "code": "ZUK",
+      "country": "United States",
+      "code_city": "ZUK"
+    },
+    {
+      "id": 6873,
+      "name": "Guam - Guam - A.B. Won Pat International Airport",
+      "code": "GUM",
+      "country": "Guam",
+      "code_city": "GUM"
+    },
+    {
+      "id": 6901,
+      "name": "Italy - Lamezia-Terme - Lamezia Terme Central Railway Station",
+      "code": "LTZ",
+      "country": "Italy",
+      "code_city": "SUF"
+    },
+    {
+      "id": 6902,
+      "name": "Indonesia - Atauro - Atauro",
+      "code": "AUT",
+      "country": "Indonesia",
+      "code_city": "AUT"
+    },
+    {
+      "id": 6912,
+      "name": "Morocco - Laayoune - Hassan I Airport",
+      "code": "EUN",
+      "country": "Morocco",
+      "code_city": "EUN"
+    },
+    {
+      "id": 6920,
+      "name": "Iran - Bushehr - Bushehr Airport",
+      "code": "BUZ",
+      "country": "Iran",
+      "code_city": "BUZ"
+    },
+    {
+      "id": 6921,
+      "name": "Ecuador - Quito - Mariscal Sucre International Airport",
+      "code": "UIO",
+      "country": "Ecuador",
+      "code_city": "UIO"
+    },
+    {
+      "id": 6942,
+      "name": "United States - Price - Carbon County",
+      "code": "PUC",
+      "country": "United States",
+      "code_city": "PUC"
+    },
+    {
+      "id": 6949,
+      "name": "Cuba - Havana - Playa Baracoa",
+      "code": "UPB",
+      "country": "Cuba",
+      "code_city": "UPB"
+    },
+    {
+      "id": 6954,
+      "name": "Romania - Bucharest - Bucharest Henri Coanda International Airport",
+      "code": "OTP",
+      "country": "Romania",
+      "code_city": "BUH"
+    },
+    {
+      "id": 6975,
+      "name": "Morocco - Oujda - Les Angades Airport",
+      "code": "OUD",
+      "country": "Morocco",
+      "code_city": "OUD"
+    },
+    {
+      "id": 6977,
+      "name": "Tanzania - Seronera - Seronera Airstrip",
+      "code": "SEU",
+      "country": "Tanzania",
+      "code_city": "SEU"
+    },
+    {
+      "id": 6978,
+      "name": "Papua New Guinea - Wanuma - Wanuma",
+      "code": "WNU",
+      "country": "Papua New Guinea",
+      "code_city": "WNU"
+    },
+    {
+      "id": 6980,
+      "name": "Czech Republic - Uherske Hradiste - Kunovice",
+      "code": "UHE",
+      "country": "Czech Republic",
+      "code_city": "UHE"
+    },
+    {
+      "id": 6981,
+      "name": "Norway - Bardufoss - Bardufoss Airport",
+      "code": "BDU",
+      "country": "Norway",
+      "code_city": "BDU"
+    },
+    {
+      "id": 6983,
+      "name": "Australia - Bunbury - Bunbury",
+      "code": "BUY",
+      "country": "Australia",
+      "code_city": "BUY"
+    },
+    {
+      "id": 6997,
+      "name": "Indonesia - Sumenep - Trunojoyo",
+      "code": "SUP",
+      "country": "Indonesia",
+      "code_city": "SUP"
+    },
+    {
+      "id": 6998,
+      "name": "China - Wuyishan - Wuyishan Airport",
+      "code": "WUS",
+      "country": "China",
+      "code_city": "WUS"
+    },
+    {
+      "id": 6999,
+      "name": "United States - Alakanuk - Alakanuk Airport",
+      "code": "AUK",
+      "country": "United States",
+      "code_city": "AUK"
+    },
+    {
+      "id": 7001,
+      "name": "Mexico - Chihuahua - Gen Fierro Villalobos Airport",
+      "code": "CUU",
+      "country": "Mexico",
+      "code_city": "CUU"
+    },
+    {
+      "id": 7013,
+      "name": "China - Yushu - Yushu Batang Airport",
+      "code": "YUS",
+      "country": "China",
+      "code_city": "YUS"
+    },
+    {
+      "id": 7014,
+      "name": "United States - Yucca Flat - Yucca Flat",
+      "code": "UCC",
+      "country": "United States",
+      "code_city": "UCC"
+    },
+    {
+      "id": 7017,
+      "name": "Lesotho - Nkaus - Nkaus",
+      "code": "NKU",
+      "country": "Lesotho",
+      "code_city": "NKU"
+    },
+    {
+      "id": 7022,
+      "name": "United States - Panguitch - Panguitch",
+      "code": "PNU",
+      "country": "United States",
+      "code_city": "PNU"
+    },
+    {
+      "id": 7036,
+      "name": "United States - Saint George - Saint George Municipal Airport",
+      "code": "SGU",
+      "country": "United States",
+      "code_city": "SGU"
+    },
+    {
+      "id": 7040,
+      "name": "Brazil - Sao Paulo - Sao Paulo-Guarulhos International Airport",
+      "code": "GRU",
+      "country": "Brazil",
+      "code_city": "SAO"
+    },
+    {
+      "id": 7050,
+      "name": "Australia - Woomera - Woomera",
+      "code": "UMR",
+      "country": "Australia",
+      "code_city": "UMR"
+    },
+    {
+      "id": 7053,
+      "name": "Réunion - Saint Denis de la Reunion - Reunion Roland Garros Airport",
+      "code": "RUN",
+      "country": "Réunion",
+      "code_city": "RUN"
+    },
+    {
+      "id": 7077,
+      "name": "Malaysia - Marudi - Marudi Airport",
+      "code": "MUR",
+      "country": "Malaysia",
+      "code_city": "MUR"
+    },
+    {
+      "id": 7083,
+      "name": "Norway - Chichen Itza - Elverum Railway Station",
+      "code": "XUC",
+      "country": "Norway",
+      "code_city": "XUC"
+    },
+    {
+      "id": 7096,
+      "name": "United States - Hughes - Hughes Municipal Airport",
+      "code": "HUS",
+      "country": "United States",
+      "code_city": "HUS"
+    },
+    {
+      "id": 7099,
+      "name": "United States - Glenview - NAS",
+      "code": "NBU",
+      "country": "United States",
+      "code_city": "NBU"
+    },
+    {
+      "id": 7119,
+      "name": "Iceland - Djupivogur - Djupivogur",
+      "code": "DJU",
+      "country": "Iceland",
+      "code_city": "DJU"
+    },
+    {
+      "id": 7138,
+      "name": "Thailand - Utapao - Utapao Airport",
+      "code": "UTP",
+      "country": "Thailand",
+      "code_city": "UTP"
+    },
+    {
+      "id": 7149,
+      "name": "China - Wuhu - Wuhu",
+      "code": "WHU",
+      "country": "China",
+      "code_city": "WHU"
+    },
+    {
+      "id": 7150,
+      "name": "Vanuatu - Quine Hill - Quine Hill",
+      "code": "UIQ",
+      "country": "Vanuatu",
+      "code_city": "UIQ"
+    },
+    {
+      "id": 7151,
+      "name": "United States - Duncan - Halliburton Field",
+      "code": "DUC",
+      "country": "United States",
+      "code_city": "DUC"
+    },
+    {
+      "id": 7154,
+      "name": "Venezuela - Tucupita - Tucupita",
+      "code": "TUV",
+      "country": "Venezuela",
+      "code_city": "TUV"
+    },
+    {
+      "id": 7177,
+      "name": "Australia - Port Augusta - Port Augusta",
+      "code": "PUG",
+      "country": "Australia",
+      "code_city": "PUG"
+    },
+    {
+      "id": 7181,
+      "name": "Russia - Ukhta - Ukhta Airport",
+      "code": "UCT",
+      "country": "Russia",
+      "code_city": "UCT"
+    },
+    {
+      "id": 7191,
+      "name": "Mongolia - Umnugobitour - Umnugobitour",
+      "code": "UGT",
+      "country": "Mongolia",
+      "code_city": "UGT"
+    },
+    {
+      "id": 7204,
+      "name": "Guyana - Lumid Pau - Lumid Pau",
+      "code": "LUB",
+      "country": "Guyana",
+      "code_city": "LUB"
+    },
+    {
+      "id": 7240,
+      "name": "Sri Lanka - Sigiriya - Sigiriya Slaf Base",
+      "code": "GIU",
+      "country": "Sri Lanka",
+      "code_city": "GIU"
+    },
+    {
+      "id": 7244,
+      "name": "Turkey - Ordu - Ordu Giresun Airport",
+      "code": "OGU",
+      "country": "Turkey",
+      "code_city": "QOR"
+    },
+    {
+      "id": 7247,
+      "name": "Papua New Guinea - Suria - Suria",
+      "code": "SUZ",
+      "country": "Papua New Guinea",
+      "code_city": "SUZ"
+    },
+    {
+      "id": 7249,
+      "name": "Australia - Smith Point - Smith Point",
+      "code": "SHU",
+      "country": "Australia",
+      "code_city": "SHU"
+    },
+    {
+      "id": 7263,
+      "name": "Italy - Bari - Bauru",
+      "code": "BAU",
+      "country": "Italy",
+      "code_city": "BRI"
+    },
+    {
+      "id": 7267,
+      "name": "China - Rugao - Rugao",
+      "code": "RUG",
+      "country": "China",
+      "code_city": "RUG"
+    },
+    {
+      "id": 7271,
+      "name": "United States - Sun Valley - Hailey Bus Station",
+      "code": "XUN",
+      "country": "United States",
+      "code_city": "SUN"
+    },
+    {
+      "id": 7289,
+      "name": "United States - Douglas - Douglas Municipal",
+      "code": "DGL",
+      "country": "United States",
+      "code_city": "DUG"
+    },
+    {
+      "id": 7306,
+      "name": "Fiji - Ono I Lau - Ono I Lau",
+      "code": "ONU",
+      "country": "Fiji",
+      "code_city": "ONU"
+    },
+    {
+      "id": 7307,
+      "name": "Libya - Houn - Houn",
+      "code": "HUQ",
+      "country": "Libya",
+      "code_city": "HUQ"
+    },
+    {
+      "id": 7315,
+      "name": "United States - Tucson - Tucson International Airport",
+      "code": "TUS",
+      "country": "United States",
+      "code_city": "TUS"
+    },
+    {
+      "id": 7321,
+      "name": "Colombia - Mariquita - Mariquita",
+      "code": "MQU",
+      "country": "Colombia",
+      "code_city": "MQU"
+    },
+    {
+      "id": 7328,
+      "name": "Switzerland - Kreuzlingen - Kreuzlingen Railway Station",
+      "code": "ZHU",
+      "country": "Switzerland",
+      "code_city": "ZHU"
+    },
+    {
+      "id": 7333,
+      "name": "United Arab Emirates - Abu Dhabi - EK Bus Station",
+      "code": "ZVJ",
+      "country": "United Arab Emirates",
+      "code_city": "AUH"
+    },
+    {
+      "id": 7334,
+      "name": "Canada - Mansons Landing - Mansons Landing SPB",
+      "code": "YMU",
+      "country": "Canada",
+      "code_city": "YMU"
+    },
+    {
+      "id": 7336,
+      "name": "Russia - Ulyanovsk - Ulyanovsk Vostochny Airport",
+      "code": "ULY",
+      "country": "Russia",
+      "code_city": "ULY"
+    },
+    {
+      "id": 7348,
+      "name": "Poland - Lublin - Lublin",
+      "code": "QLU",
+      "country": "Poland",
+      "code_city": "QLU"
+    },
+    {
+      "id": 7372,
+      "name": "South Korea - Gunsan AB - Gunsan Airbase",
+      "code": "KUZ",
+      "country": "South Korea",
+      "code_city": "KUZ"
+    },
+    {
+      "id": 7387,
+      "name": "India - Dimapur - Dimapur Airport",
+      "code": "DMU",
+      "country": "India",
+      "code_city": "DMU"
+    },
+    {
+      "id": 7402,
+      "name": "China - Chengdu - Chengdu Tianfu",
+      "code": "TFU",
+      "country": "China",
+      "code_city": "CTU"
+    },
+    {
+      "id": 7417,
+      "name": "Burkina Faso - Ouahigouya - Ouahigouya",
+      "code": "OUG",
+      "country": "Burkina Faso",
+      "code_city": "OUG"
+    },
+    {
+      "id": 7424,
+      "name": "France - Paris - La Defense Heliport",
+      "code": "JPU",
+      "country": "France",
+      "code_city": "PAR"
+    },
+    {
+      "id": 7430,
+      "name": "Finland - Kuopio - Kuopio Airport",
+      "code": "KUO",
+      "country": "Finland",
+      "code_city": "KUO"
+    },
+    {
+      "id": 7443,
+      "name": "Afghanistan - Urgoon - Urgoon",
+      "code": "URN",
+      "country": "Afghanistan",
+      "code_city": "URN"
+    },
+    {
+      "id": 7460,
+      "name": "Colombia - Uribe - Uribe",
+      "code": "URI",
+      "country": "Colombia",
+      "code_city": "URI"
+    },
+    {
+      "id": 7462,
+      "name": "United States - Sun River - Sun River",
+      "code": "SUO",
+      "country": "United States",
+      "code_city": "SUO"
+    },
+    {
+      "id": 7471,
+      "name": "Niue - Niue Island - Hanan Airport",
+      "code": "IUE",
+      "country": "Niue",
+      "code_city": "IUE"
+    },
+    {
+      "id": 7488,
+      "name": "Nigeria - Uyo - Akwa Ibom Airport",
+      "code": "QUO",
+      "country": "Nigeria",
+      "code_city": "QUO"
+    },
+    {
+      "id": 7501,
+      "name": "Norway - Kristiansund - Kristiansund Airport, Kvernberget",
+      "code": "KSU",
+      "country": "Norway",
+      "code_city": "KSU"
+    },
+    {
+      "id": 7506,
+      "name": "China - Guyuan - Guyuan Liupanshan Airport",
+      "code": "GYU",
+      "country": "China",
+      "code_city": "GYU"
+    },
+    {
+      "id": 7532,
+      "name": "Indonesia - Surabaya - Juanda International Airport",
+      "code": "SUB",
+      "country": "Indonesia",
+      "code_city": "SUB"
+    },
+    {
+      "id": 7535,
+      "name": "French Polynesia - Katiu - Katiu",
+      "code": "KXU",
+      "country": "French Polynesia",
+      "code_city": "KXU"
+    },
+    {
+      "id": 7536,
+      "name": "Finland - Kauhava - Kauhava",
+      "code": "KAU",
+      "country": "Finland",
+      "code_city": "KAU"
+    },
+    {
+      "id": 7556,
+      "name": "Papua New Guinea - Nuku - Nuku",
+      "code": "UKU",
+      "country": "Papua New Guinea",
+      "code_city": "UKU"
+    },
+    {
+      "id": 7570,
+      "name": "United States - Huntsville - Redstone AAF",
+      "code": "HUA",
+      "country": "United States",
+      "code_city": "HSV"
+    },
+    {
+      "id": 7586,
+      "name": "United States - Auburn - Auburn-Opelika",
+      "code": "AUO",
+      "country": "United States",
+      "code_city": "AUO"
+    },
+    {
+      "id": 7595,
+      "name": "Panama - Ustupo - Ustupo",
+      "code": "UTU",
+      "country": "Panama",
+      "code_city": "UTU"
+    },
+    {
+      "id": 7603,
+      "name": "United States - Ekuk - Ekuk",
+      "code": "KKU",
+      "country": "United States",
+      "code_city": "KKU"
+    },
+    {
+      "id": 7632,
+      "name": "China - Fuyang - Fuyang Airport",
+      "code": "FUG",
+      "country": "China",
+      "code_city": "FUG"
+    },
+    {
+      "id": 7633,
+      "name": "French Polynesia - Ua Huka - Ua Huka",
+      "code": "UAH",
+      "country": "French Polynesia",
+      "code_city": "UAH"
+    },
+    {
+      "id": 7645,
+      "name": "Spain - Reus - Reus Airport",
+      "code": "REU",
+      "country": "Spain",
+      "code_city": "REU"
+    },
+    {
+      "id": 7648,
+      "name": "Ecuador - Sucua - Sucua",
+      "code": "SUQ",
+      "country": "Ecuador",
+      "code_city": "SUQ"
+    },
+    {
+      "id": 7653,
+      "name": "Canada - Grande Prairie - Grande Prairie Airport",
+      "code": "YQU",
+      "country": "Canada",
+      "code_city": "YQU"
+    },
+    {
+      "id": 7704,
+      "name": "Chile - Ancud - Ancud",
+      "code": "ZUD",
+      "country": "Chile",
+      "code_city": "ZUD"
+    },
+    {
+      "id": 7737,
+      "name": "Namibia - Caprivi - Lianshulu",
+      "code": "LHU",
+      "country": "Namibia",
+      "code_city": "LHU"
+    },
+    {
+      "id": 7742,
+      "name": "Fiji - Suva - Nausori Airport",
+      "code": "SUV",
+      "country": "Fiji",
+      "code_city": "SUV"
+    },
+    {
+      "id": 7743,
+      "name": "China - Mangshi - Dehong Mangshi Airport",
+      "code": "LUM",
+      "country": "China",
+      "code_city": "LUM"
+    },
+    {
+      "id": 7744,
+      "name": "Malaysia - Kuala Lumpur - Sultan Abdul Aziz Shah Airport",
+      "code": "SZB",
+      "country": "Malaysia",
+      "code_city": "KUL"
+    },
+    {
+      "id": 7750,
+      "name": "United States - Uvalde - Garner Field",
+      "code": "UVA",
+      "country": "United States",
+      "code_city": "UVA"
+    },
+    {
+      "id": 7763,
+      "name": "United States - Louisville - Bowman Field Airport",
+      "code": "LOU",
+      "country": "United States",
+      "code_city": "SDF"
+    },
+    {
+      "id": 7765,
+      "name": "Nepal - Rumjatar - Rumjatar",
+      "code": "RUM",
+      "country": "Nepal",
+      "code_city": "RUM"
+    },
+    {
+      "id": 7766,
+      "name": "Micronesia - Ulithi - Ulithi",
+      "code": "ULI",
+      "country": "Micronesia",
+      "code_city": "ULI"
+    },
+    {
+      "id": 7773,
+      "name": "Namibia - Rundu - Rundu",
+      "code": "NDU",
+      "country": "Namibia",
+      "code_city": "NDU"
+    },
+    {
+      "id": 7774,
+      "name": "Zambia - Mfuwe - Mfuwe",
+      "code": "MFU",
+      "country": "Zambia",
+      "code_city": "MFU"
+    },
+    {
+      "id": 7790,
+      "name": "Canada - Churchill Falls - Churchill Falls",
+      "code": "ZUM",
+      "country": "Canada",
+      "code_city": "ZUM"
+    },
+    {
+      "id": 7795,
+      "name": "United States - Houston - Park Ten Heliport",
+      "code": "JPT",
+      "country": "United States",
+      "code_city": "HOU"
+    },
+    {
+      "id": 7797,
+      "name": "Hungary - Budapest - Keleti Railway Station",
+      "code": "XXQ",
+      "country": "Hungary",
+      "code_city": "BUD"
+    },
+    {
+      "id": 7806,
+      "name": "Dominican Republic - Punta Cana - Punta Cana International Airport",
+      "code": "PUJ",
+      "country": "Dominican Republic",
+      "code_city": "PUJ"
+    },
+    {
+      "id": 7807,
+      "name": "Afghanistan - Uruzgan - Uruzgan",
+      "code": "URZ",
+      "country": "Afghanistan",
+      "code_city": "URZ"
+    },
+    {
+      "id": 7811,
+      "name": "Australia - Quirindi - Quirindi",
+      "code": "UIR",
+      "country": "Australia",
+      "code_city": "UIR"
+    },
+    {
+      "id": 7816,
+      "name": "Papua New Guinea - Puas - Puas",
+      "code": "PUA",
+      "country": "Papua New Guinea",
+      "code_city": "PUA"
+    },
+    {
+      "id": 7822,
+      "name": "France - Quimper - Pluguffan Airport",
+      "code": "UIP",
+      "country": "France",
+      "code_city": "UIP"
+    },
+    {
+      "id": 7841,
+      "name": "United States - Sierra Vista - Municipal",
+      "code": "FHU",
+      "country": "United States",
+      "code_city": "FHU"
+    },
+    {
+      "id": 7857,
+      "name": "Sudan - Port Sudan - Port Sudan Airport",
+      "code": "PZU",
+      "country": "Sudan",
+      "code_city": "PZU"
+    },
+    {
+      "id": 7862,
+      "name": "Brazil - Belo Horizonte - Belo Horizonte Airport",
+      "code": "PLU",
+      "country": "Brazil",
+      "code_city": "BHZ"
+    },
+    {
+      "id": 7867,
+      "name": "Canada - Repulse Bay - Repulse Bay",
+      "code": "YUT",
+      "country": "Canada",
+      "code_city": "YUT"
+    },
+    {
+      "id": 7869,
+      "name": "New Zealand - Timaru - Timaru Airport",
+      "code": "TIU",
+      "country": "New Zealand",
+      "code_city": "TIU"
+    },
+    {
+      "id": 7877,
+      "name": "India - Ludhiana - Ludhiana Sahnewal Airport",
+      "code": "LUH",
+      "country": "India",
+      "code_city": "LUH"
+    },
+    {
+      "id": 7900,
+      "name": "United States - Norman - Max Westheimer",
+      "code": "OUN",
+      "country": "United States",
+      "code_city": "OUN"
+    },
+    {
+      "id": 7903,
+      "name": "Mongolia - Ulaangom - Ulaangom",
+      "code": "ULO",
+      "country": "Mongolia",
+      "code_city": "ULO"
+    },
+    {
+      "id": 7934,
+      "name": "Malaysia - Kuantan - Sultan Haji Ahmad Shah Airport",
+      "code": "KUA",
+      "country": "Malaysia",
+      "code_city": "KUA"
+    },
+    {
+      "id": 7960,
+      "name": "French Polynesia - Atuona - Hiva Oa Airport",
+      "code": "AUQ",
+      "country": "French Polynesia",
+      "code_city": "AUQ"
+    },
+    {
+      "id": 7962,
+      "name": "Norway - Stjordal - Stjordal Railway Station",
+      "code": "XUU",
+      "country": "Norway",
+      "code_city": "XUU"
+    },
+    {
+      "id": 7972,
+      "name": "Germany - Munich - Augsburg Airport",
+      "code": "AGB",
+      "country": "Germany",
+      "code_city": "MUC"
+    },
+    {
+      "id": 7976,
+      "name": "Norway - Malaimbandy - Ustaoset Railway Station",
+      "code": "XUX",
+      "country": "Norway",
+      "code_city": "XUX"
+    },
+    {
+      "id": 7977,
+      "name": "Guam - Guam - Andersen AFB",
+      "code": "UAM",
+      "country": "Guam",
+      "code_city": "GUM"
+    },
+    {
+      "id": 7978,
+      "name": "Cameroon - Garoua - Garoua Airport",
+      "code": "GOU",
+      "country": "Cameroon",
+      "code_city": "GOU"
+    },
+    {
+      "id": 7984,
+      "name": "Guatemala - Rubelsanto - Rubelsanto",
+      "code": "RUV",
+      "country": "Guatemala",
+      "code_city": "RUV"
+    },
+    {
+      "id": 7994,
+      "name": "Mali - Segou - Segou",
+      "code": "SZU",
+      "country": "Mali",
+      "code_city": "SZU"
+    },
+    {
+      "id": 7996,
+      "name": "United States - Rutland - Rutland Airport",
+      "code": "RUT",
+      "country": "United States",
+      "code_city": "RUT"
+    },
+    {
+      "id": 8015,
+      "name": "United States - Mountain View - Moffett Field",
+      "code": "NUQ",
+      "country": "United States",
+      "code_city": "NUQ"
+    },
+    {
+      "id": 8022,
+      "name": "Germany - Dusseldorf - Weeze Airport",
+      "code": "NRN",
+      "country": "Germany",
+      "code_city": "DUS"
+    },
+    {
+      "id": 8037,
+      "name": "Papua New Guinea - Uvol - Uvol",
+      "code": "UVO",
+      "country": "Papua New Guinea",
+      "code_city": "UVO"
+    },
+    {
+      "id": 8049,
+      "name": "United States - Eugene - Eugene Airport",
+      "code": "EUG",
+      "country": "United States",
+      "code_city": "EUG"
+    },
+    {
+      "id": 8051,
+      "name": "Kyrgyzstan - Tamchy - Issyk-Kul International Airport",
+      "code": "IKU",
+      "country": "Kyrgyzstan",
+      "code_city": "IKU"
+    },
+    {
+      "id": 8057,
+      "name": "Gabon - Makokou - Makokou",
+      "code": "MKU",
+      "country": "Gabon",
+      "code_city": "MKU"
+    },
+    {
+      "id": 8073,
+      "name": "Australia - Undarra - Undarra",
+      "code": "UDA",
+      "country": "Australia",
+      "code_city": "UDA"
+    },
+    {
+      "id": 8076,
+      "name": "Brazil - Aracatuba - Aracatuba Airport",
+      "code": "ARU",
+      "country": "Brazil",
+      "code_city": "ARU"
+    },
+    {
+      "id": 8104,
+      "name": "Papua New Guinea - Safia - Safia",
+      "code": "SFU",
+      "country": "Papua New Guinea",
+      "code_city": "SFU"
+    },
+    {
+      "id": 8132,
+      "name": "Norway - Casuarito - Levanger Railway Station",
+      "code": "XUH",
+      "country": "Norway",
+      "code_city": "XUH"
+    },
+    {
+      "id": 8138,
+      "name": "Malaysia - Kudat - Kudat Airport",
+      "code": "KUD",
+      "country": "Malaysia",
+      "code_city": "KUD"
+    },
+    {
+      "id": 8143,
+      "name": "Argentina - Curuzu Cuatia - Curuzu Cuatia",
+      "code": "UZU",
+      "country": "Argentina",
+      "code_city": "UZU"
+    },
+    {
+      "id": 8147,
+      "name": "Fiji - Taveuni - Matei Airport",
+      "code": "TVU",
+      "country": "Fiji",
+      "code_city": "TVU"
+    },
+    {
+      "id": 8150,
+      "name": "United States - Refugio - Tom O'Connor Oilfield",
+      "code": "VDU",
+      "country": "United States",
+      "code_city": "RFG"
+    },
+    {
+      "id": 8160,
+      "name": "Papua New Guinea - Ambunti - Ambunti",
+      "code": "AUJ",
+      "country": "Papua New Guinea",
+      "code_city": "AUJ"
+    },
+    {
+      "id": 8173,
+      "name": "Saint Vincent and the Grenadines - Union Island - Union Island",
+      "code": "UNI",
+      "country": "Saint Vincent and the Grenadines",
+      "code_city": "UNI"
+    },
+    {
+      "id": 8175,
+      "name": "Mauritania - Zouerate - Zouerate",
+      "code": "OUZ",
+      "country": "Mauritania",
+      "code_city": "OUZ"
+    },
+    {
+      "id": 8180,
+      "name": "Ethiopia - Tum - Tum",
+      "code": "TUJ",
+      "country": "Ethiopia",
+      "code_city": "TUJ"
+    },
+    {
+      "id": 8210,
+      "name": "Canada - Tumbler Ridge - Tumbler Ridge",
+      "code": "TUX",
+      "country": "Canada",
+      "code_city": "TUX"
+    },
+    {
+      "id": 8211,
+      "name": "Mali - Goundam - Goundam",
+      "code": "GUD",
+      "country": "Mali",
+      "code_city": "GUD"
+    },
+    {
+      "id": 8219,
+      "name": "United States - Hutchinson - Hutchinson",
+      "code": "HUT",
+      "country": "United States",
+      "code_city": "HUT"
+    },
+    {
+      "id": 8242,
+      "name": "India - Bhavnagar - Bhavnagar Airport",
+      "code": "BHU",
+      "country": "India",
+      "code_city": "BHU"
+    },
+    {
+      "id": 8253,
+      "name": "Somalia - Kismayu - Kismayu",
+      "code": "KMU",
+      "country": "Somalia",
+      "code_city": "KMU"
+    },
+    {
+      "id": 8259,
+      "name": "Bolivia - Puerto Rico - Puerto Rico",
+      "code": "PUR",
+      "country": "Bolivia",
+      "code_city": "PUR"
+    },
+    {
+      "id": 8264,
+      "name": "Iran - Ardabil - Ardabil Airport",
+      "code": "ADU",
+      "country": "Iran",
+      "code_city": "ADU"
+    },
+    {
+      "id": 8274,
+      "name": "Papua New Guinea - Yule Island - Kairuku",
+      "code": "RKU",
+      "country": "Papua New Guinea",
+      "code_city": "RKU"
+    },
+    {
+      "id": 8294,
+      "name": "Greenland - Saqqaq - Heliport",
+      "code": "QUP",
+      "country": "Greenland",
+      "code_city": "QUP"
+    },
+    {
+      "id": 8301,
+      "name": "Fiji - Korolevu - Korolevu",
+      "code": "KVU",
+      "country": "Fiji",
+      "code_city": "KVU"
+    },
+    {
+      "id": 8311,
+      "name": "Australia - Quilpie - Quilpie",
+      "code": "ULP",
+      "country": "Australia",
+      "code_city": "ULP"
+    },
+    {
+      "id": 8319,
+      "name": "Mongolia - Ulaanbaatar - Buyant-Ukhaa International Airport",
+      "code": "ULN",
+      "country": "Mongolia",
+      "code_city": "ULN"
+    },
+    {
+      "id": 8326,
+      "name": "United States - Cushing - Municipal",
+      "code": "CUH",
+      "country": "United States",
+      "code_city": "CUH"
+    },
+    {
+      "id": 8332,
+      "name": "Germany - Dusseldorf - Moenchen-gl. - Dus Exp",
+      "code": "MGL",
+      "country": "Germany",
+      "code_city": "DUS"
+    },
+    {
+      "id": 8347,
+      "name": "Canada - Umiujaq - Umiujaq",
+      "code": "YUD",
+      "country": "Canada",
+      "code_city": "YUD"
+    },
+    {
+      "id": 8359,
+      "name": "China - Dazu - Dazu",
+      "code": "DZU",
+      "country": "China",
+      "code_city": "DZU"
+    },
+    {
+      "id": 8368,
+      "name": "United States - Stuart - Witham Field",
+      "code": "SUA",
+      "country": "United States",
+      "code_city": "SUA"
+    },
+    {
+      "id": 8371,
+      "name": "Papua New Guinea - Aiyura - Aiyura",
+      "code": "AYU",
+      "country": "Papua New Guinea",
+      "code_city": "AYU"
+    },
+    {
+      "id": 8372,
+      "name": "France - Montlucon - Gueret (Lepaud)",
+      "code": "MCU",
+      "country": "France",
+      "code_city": "MCU"
+    },
+    {
+      "id": 8373,
+      "name": "United States - Columbus - Columbus Municipal",
+      "code": "OLU",
+      "country": "United States",
+      "code_city": "OLU"
+    },
+    {
+      "id": 8401,
+      "name": "Australia - Wiluna - Wiluna",
+      "code": "WUN",
+      "country": "Australia",
+      "code_city": "WUN"
+    },
+    {
+      "id": 8410,
+      "name": "Nepal - Bajura - Bajura Airport",
+      "code": "BJU",
+      "country": "Nepal",
+      "code_city": "BJU"
+    },
+    {
+      "id": 8420,
+      "name": "Philippines - Antique - Evelio Javier",
+      "code": "EUQ",
+      "country": "Philippines",
+      "code_city": "EUQ"
+    },
+    {
+      "id": 8427,
+      "name": "United States - Platinum - Platinum Airport",
+      "code": "PTU",
+      "country": "United States",
+      "code_city": "PTU"
+    },
+    {
+      "id": 8438,
+      "name": "Marshall Islands - Utirik Island - Utirik Island",
+      "code": "UTK",
+      "country": "Marshall Islands",
+      "code_city": "UTK"
+    },
+    {
+      "id": 8444,
+      "name": "United States - Superior - Richard I Bong Airport",
+      "code": "SUW",
+      "country": "United States",
+      "code_city": "SUW"
+    },
+    {
+      "id": 8448,
+      "name": "China - Xuzhou - Xuzhou Guanyin Airport",
+      "code": "XUZ",
+      "country": "China",
+      "code_city": "XUZ"
+    },
+    {
+      "id": 8449,
+      "name": "Canada - Qualicum - Qualicum",
+      "code": "XQU",
+      "country": "Canada",
+      "code_city": "XQU"
+    },
+    {
+      "id": 8451,
+      "name": "Russia - Suntar - Suntar",
+      "code": "SUY",
+      "country": "Russia",
+      "code_city": "SUY"
+    },
+    {
+      "id": 8454,
+      "name": "Papua New Guinea - Fuma - Fuma",
+      "code": "FUM",
+      "country": "Papua New Guinea",
+      "code_city": "FUM"
+    },
+    {
+      "id": 8465,
+      "name": "United States - Sundance - Schloredt",
+      "code": "SUC",
+      "country": "United States",
+      "code_city": "SUC"
+    },
+    {
+      "id": 8467,
+      "name": "Egypt - Kharga - Kharga",
+      "code": "UVL",
+      "country": "Egypt",
+      "code_city": "UVL"
+    },
+    {
+      "id": 8475,
+      "name": "United States - Houston - Greenway Plaza Heliport",
+      "code": "JGP",
+      "country": "United States",
+      "code_city": "HOU"
+    },
+    {
+      "id": 8476,
+      "name": "Papua New Guinea - Alotau - Gurney Airport",
+      "code": "GUR",
+      "country": "Papua New Guinea",
+      "code_city": "GUR"
+    },
+    {
+      "id": 8504,
+      "name": "China - Wuhan - Wuhan Tianhe International Airport",
+      "code": "WUH",
+      "country": "China",
+      "code_city": "WUH"
+    },
+    {
+      "id": 8521,
+      "name": "Sweden - Hudiksvall - Hudiksvall",
+      "code": "HUV",
+      "country": "Sweden",
+      "code_city": "HUV"
+    },
+    {
+      "id": 8524,
+      "name": "Brazil - Ipiau - Ipiau",
+      "code": "IPU",
+      "country": "Brazil",
+      "code_city": "IPU"
+    },
+    {
+      "id": 8526,
+      "name": "Angola - Uige - Uige",
+      "code": "UGO",
+      "country": "Angola",
+      "code_city": "UGO"
+    },
+    {
+      "id": 8539,
+      "name": "United States - Eureka - Eureka",
+      "code": "EUE",
+      "country": "United States",
+      "code_city": "EUE"
+    },
+    {
+      "id": 8543,
+      "name": "United States - Middletown - Harrisburg Railway",
+      "code": "ZUG",
+      "country": "United States",
+      "code_city": "HAR"
+    },
+    {
+      "id": 8546,
+      "name": "New Zealand - Dunedin - Dunedin International Airport",
+      "code": "DUD",
+      "country": "New Zealand",
+      "code_city": "DUD"
+    },
+    {
+      "id": 8555,
+      "name": "Ivory Coast - Tabou - Tabou",
+      "code": "TXU",
+      "country": "Ivory Coast",
+      "code_city": "TXU"
+    },
+    {
+      "id": 8557,
+      "name": "South Sudan - Wau - Wau",
+      "code": "WUU",
+      "country": "South Sudan",
+      "code_city": "WUU"
+    },
+    {
+      "id": 8604,
+      "name": "United States - Fullerton - Municipal",
+      "code": "FUL",
+      "country": "United States",
+      "code_city": "FUL"
+    },
+    {
+      "id": 8615,
+      "name": "Spain - Ceuta - Ceuta Heliport",
+      "code": "JCU",
+      "country": "Spain",
+      "code_city": "JCU"
+    },
+    {
+      "id": 8622,
+      "name": "United States - Norfolk - NAS Chambers",
+      "code": "NGU",
+      "country": "United States",
+      "code_city": "ORF"
+    },
+    {
+      "id": 8638,
+      "name": "Philippines - Culion - Culion",
+      "code": "CUJ",
+      "country": "Philippines",
+      "code_city": "CUJ"
+    },
+    {
+      "id": 8646,
+      "name": "China - Quzhou, Zhejiang Province - Quzhou Airport",
+      "code": "JUZ",
+      "country": "China",
+      "code_city": "JUZ"
+    },
+    {
+      "id": 8650,
+      "name": "Tajikistan - Dushanbe - Dushanbe Airport",
+      "code": "DYU",
+      "country": "Tajikistan",
+      "code_city": "DYU"
+    },
+    {
+      "id": 8665,
+      "name": "Tonga - Eua - Kaufana",
+      "code": "EUA",
+      "country": "Tonga",
+      "code_city": "EUA"
+    },
+    {
+      "id": 8684,
+      "name": "United States - Quincy - Quincy Municipal Airport",
+      "code": "UIN",
+      "country": "United States",
+      "code_city": "UIN"
+    },
+    {
+      "id": 8688,
+      "name": "Norway - Selbang - Neslandsvatn Railway Station",
+      "code": "XUM",
+      "country": "Norway",
+      "code_city": "XUM"
+    },
+    {
+      "id": 8694,
+      "name": "Colombia - Nuqui - Nuqui",
+      "code": "NQU",
+      "country": "Colombia",
+      "code_city": "NQU"
+    },
+    {
+      "id": 8703,
+      "name": "Papua New Guinea - Usino - Usino",
+      "code": "USO",
+      "country": "Papua New Guinea",
+      "code_city": "USO"
+    },
+    {
+      "id": 8712,
+      "name": "United States - Tupelo - Tupelo Regional Airport",
+      "code": "TUP",
+      "country": "United States",
+      "code_city": "TUP"
+    },
+    {
+      "id": 8724,
+      "name": "Burkina Faso - Ouagadougou - Ouagadougou International Airport",
+      "code": "OUA",
+      "country": "Burkina Faso",
+      "code_city": "OUA"
+    },
+    {
+      "id": 8725,
+      "name": "Kenya - Lake Rudolf - Lake Rudolf",
+      "code": "LKU",
+      "country": "Kenya",
+      "code_city": "LKU"
+    },
+    {
+      "id": 8751,
+      "name": "Sweden - Gavle - Gavle C Railway Station",
+      "code": "QYU",
+      "country": "Sweden",
+      "code_city": "GVX"
+    },
+    {
+      "id": 8753,
+      "name": "Georgia - Kutaisi - Kutaisi International Airport",
+      "code": "KUT",
+      "country": "Georgia",
+      "code_city": "KUT"
+    },
+    {
+      "id": 8762,
+      "name": "Honduras - Gualaco - Gualaco",
+      "code": "GUO",
+      "country": "Honduras",
+      "code_city": "GUO"
+    },
+    {
+      "id": 8769,
+      "name": "France - Rouen - Boos",
+      "code": "URO",
+      "country": "France",
+      "code_city": "URO"
+    },
+    {
+      "id": 8775,
+      "name": "French Polynesia - Tubuai - Tubuai",
+      "code": "TUB",
+      "country": "French Polynesia",
+      "code_city": "TUB"
+    },
+    {
+      "id": 8793,
+      "name": "Papua New Guinea - Kiunga - Kiunga",
+      "code": "UNG",
+      "country": "Papua New Guinea",
+      "code_city": "UNG"
+    },
+    {
+      "id": 8796,
+      "name": "China - Aksu - Aksu Airport",
+      "code": "AKU",
+      "country": "China",
+      "code_city": "AKU"
+    },
+    {
+      "id": 8797,
+      "name": "Norway - Haugesund - Haugesund Airport",
+      "code": "HAU",
+      "country": "Norway",
+      "code_city": "HAU"
+    },
+    {
+      "id": 8810,
+      "name": "Morocco - Al Hoceima - Charif Al Idrissi Airport",
+      "code": "AHU",
+      "country": "Morocco",
+      "code_city": "AHU"
+    },
+    {
+      "id": 8814,
+      "name": "Ukraine - Sumy - Sumy",
+      "code": "UMY",
+      "country": "Ukraine",
+      "code_city": "UMY"
+    },
+    {
+      "id": 8823,
+      "name": "Uzbekistan - Urgench - Urgench Airport",
+      "code": "UGC",
+      "country": "Uzbekistan",
+      "code_city": "UGC"
+    },
+    {
+      "id": 8829,
+      "name": "Peru - Piura - Cap. FAP Guillermo Concha Iberico International Airport",
+      "code": "PIU",
+      "country": "Peru",
+      "code_city": "PIU"
+    },
+    {
+      "id": 8834,
+      "name": "Spain - Cartagena - Cartagena Railway Station",
+      "code": "XUF",
+      "country": "Spain",
+      "code_city": "XUF"
+    },
+    {
+      "id": 8850,
+      "name": "Mongolia - Baruun-Urt - Baruun-Urt",
+      "code": "UUN",
+      "country": "Mongolia",
+      "code_city": "UUN"
+    },
+    {
+      "id": 8880,
+      "name": "Papua New Guinea - Aua Island - Aua Island",
+      "code": "AUI",
+      "country": "Papua New Guinea",
+      "code_city": "AUI"
+    },
+    {
+      "id": 8889,
+      "name": "Papua New Guinea - Kuyol - Kuyol",
+      "code": "KUX",
+      "country": "Papua New Guinea",
+      "code_city": "KUX"
+    },
+    {
+      "id": 8890,
+      "name": "United States - Waukegan - Memorial",
+      "code": "UGN",
+      "country": "United States",
+      "code_city": "UGN"
+    },
+    {
+      "id": 8895,
+      "name": "Argentina - San Julian - San Julian",
+      "code": "ULA",
+      "country": "Argentina",
+      "code_city": "ULA"
+    },
+    {
+      "id": 8901,
+      "name": "India - Rupsi - Rupsi",
+      "code": "RUP",
+      "country": "India",
+      "code_city": "RUP"
+    },
+    {
+      "id": 8902,
+      "name": "United Kingdom - Dundee - ScotRailway",
+      "code": "ZDU",
+      "country": "United Kingdom",
+      "code_city": "DND"
+    },
+    {
+      "id": 8908,
+      "name": "Saint Vincent and the Grenadines - Bequia - J. F. Mitchell",
+      "code": "BQU",
+      "country": "Saint Vincent and the Grenadines",
+      "code_city": "BQU"
+    },
+    {
+      "id": 8920,
+      "name": "Japan - Kushiro - Kushiro Airport",
+      "code": "KUH",
+      "country": "Japan",
+      "code_city": "KUH"
+    },
+    {
+      "id": 8922,
+      "name": "United States - Corpus Christi - Cuddihy Field",
+      "code": "CUX",
+      "country": "United States",
+      "code_city": "CRP"
+    },
+    {
+      "id": 8928,
+      "name": "India - Latur - Latur",
+      "code": "LTU",
+      "country": "India",
+      "code_city": "LTU"
+    },
+    {
+      "id": 8929,
+      "name": "Thailand - Surat Thani - Surat Thani Airport",
+      "code": "URT",
+      "country": "Thailand",
+      "code_city": "URT"
+    },
+    {
+      "id": 8940,
+      "name": "Myanmar - Papun - Papun",
+      "code": "PPU",
+      "country": "Myanmar",
+      "code_city": "PPU"
+    },
+    {
+      "id": 8963,
+      "name": "Panama - Tupile - Tupile",
+      "code": "TUE",
+      "country": "Panama",
+      "code_city": "TUE"
+    },
+    {
+      "id": 8964,
+      "name": "Brazil - Guarapari - Guarapari",
+      "code": "GUZ",
+      "country": "Brazil",
+      "code_city": "QDL"
+    },
+    {
+      "id": 8968,
+      "name": "United States - Nuiqsut - Nuiqsut Airport",
+      "code": "NUI",
+      "country": "United States",
+      "code_city": "NUI"
+    },
+    {
+      "id": 8971,
+      "name": "Papua New Guinea - Kamusi - Kamusi Airport",
+      "code": "KUY",
+      "country": "Papua New Guinea",
+      "code_city": "KUY"
+    },
+    {
+      "id": 8972,
+      "name": "United States - Morristown - Morristown Municipal Airport",
+      "code": "MMU",
+      "country": "United States",
+      "code_city": "MMU"
+    },
+    {
+      "id": 8974,
+      "name": "United States - Chicago - Chicago Union Railway Station",
+      "code": "ZUN",
+      "country": "United States",
+      "code_city": "CHI"
+    },
+    {
+      "id": 9023,
+      "name": "New Caledonia - Noumea - Tontouta Airport",
+      "code": "NOU",
+      "country": "New Caledonia",
+      "code_city": "NOU"
+    },
+    {
+      "id": 9031,
+      "name": "South Korea - Wonju - Wonju Airport",
+      "code": "WJU",
+      "country": "South Korea",
+      "code_city": "WJU"
+    },
+    {
+      "id": 9039,
+      "name": "Indonesia - Ubrub - Ubrub",
+      "code": "UBR",
+      "country": "Indonesia",
+      "code_city": "UBR"
+    },
+    {
+      "id": 9043,
+      "name": "Peru - Trujillo - Trujillo Airport",
+      "code": "TRU",
+      "country": "Peru",
+      "code_city": "TRU"
+    },
+    {
+      "id": 9044,
+      "name": "Hungary - Budapest - Deli Railway Station",
+      "code": "XXJ",
+      "country": "Hungary",
+      "code_city": "BUD"
+    },
+    {
+      "id": 9045,
+      "name": "India - Kota - Kota",
+      "code": "KTU",
+      "country": "India",
+      "code_city": "KTU"
+    },
+    {
+      "id": 9052,
+      "name": "United States - Prudhoe Bay - Prudhoe Bay",
+      "code": "PUO",
+      "country": "United States",
+      "code_city": "PUO"
+    },
+    {
+      "id": 9064,
+      "name": "Marshall Islands - Ujae Island - Ujae Island",
+      "code": "UJE",
+      "country": "Marshall Islands",
+      "code_city": "UJE"
+    },
+    {
+      "id": 9069,
+      "name": "South Korea - Yeosu - Yeosu Airport",
+      "code": "RSU",
+      "country": "South Korea",
+      "code_city": "RSU"
+    },
+    {
+      "id": 9070,
+      "name": "Russia - Urengoy - Urengoy",
+      "code": "UEN",
+      "country": "Russia",
+      "code_city": "UEN"
+    },
+    {
+      "id": 9072,
+      "name": "Australia - Laura Station - Laura Station",
+      "code": "LUT",
+      "country": "Australia",
+      "code_city": "LUT"
+    },
+    {
+      "id": 9074,
+      "name": "Nepal - Tikapur - Tikapur",
+      "code": "TPU",
+      "country": "Nepal",
+      "code_city": "TPU"
+    },
+    {
+      "id": 9077,
+      "name": "China - Yuncheng - Yuncheng Airport",
+      "code": "YCU",
+      "country": "China",
+      "code_city": "YCU"
+    },
+    {
+      "id": 9097,
+      "name": "Belize - Santa Cruz - Santa Cruz",
+      "code": "STU",
+      "country": "Belize",
+      "code_city": "STU"
+    },
+    {
+      "id": 9133,
+      "name": "Malaysia - Tawau - Tawau Airport",
+      "code": "TWU",
+      "country": "Malaysia",
+      "code_city": "TWU"
+    },
+    {
+      "id": 9148,
+      "name": "United States - Newton - Newton Municipal Airport",
+      "code": "TNU",
+      "country": "United States",
+      "code_city": "TNU"
+    },
+    {
+      "id": 9149,
+      "name": "Laos - Sam Neua - Sam Neua",
+      "code": "NEU",
+      "country": "Laos",
+      "code_city": "NEU"
+    },
+    {
+      "id": 9150,
+      "name": "Pakistan - Sui - Sui",
+      "code": "SUL",
+      "country": "Pakistan",
+      "code_city": "SUL"
+    },
+    {
+      "id": 9151,
+      "name": "Canada - Kattiniq - Kattiniq/donaldson",
+      "code": "YAU",
+      "country": "Canada",
+      "code_city": "YAU"
+    },
+    {
+      "id": 9159,
+      "name": "Russia - Ufa - Ufa International Airport",
+      "code": "UFA",
+      "country": "Russia",
+      "code_city": "UFA"
+    },
+    {
+      "id": 9161,
+      "name": "Papua New Guinea - Daru - Daru Airport",
+      "code": "DAU",
+      "country": "Papua New Guinea",
+      "code_city": "DAU"
+    },
+    {
+      "id": 9168,
+      "name": "Ukraine - Kremenchug - Kremenchug",
+      "code": "KHU",
+      "country": "Ukraine",
+      "code_city": "KHU"
+    },
+    {
+      "id": 9183,
+      "name": "Denmark - Aarhus - Aarhus Limo",
+      "code": "ZBU",
+      "country": "Denmark",
+      "code_city": "AAR"
+    },
+    {
+      "id": 9192,
+      "name": "Australia - Kubin Island - Kubin Island",
+      "code": "KUG",
+      "country": "Australia",
+      "code_city": "KUG"
+    },
+    {
+      "id": 9212,
+      "name": "Argentina - Buenos Aires - Ministro Pistarini Airport",
+      "code": "EZE",
+      "country": "Argentina",
+      "code_city": "BUE"
+    },
+    {
+      "id": 9229,
+      "name": "Brazil - Aracaju - Aracaju Airport",
+      "code": "AJU",
+      "country": "Brazil",
+      "code_city": "AJU"
+    },
+    {
+      "id": 9231,
+      "name": "United States - Cape Lisburne - Cape Lisburne",
+      "code": "LUR",
+      "country": "United States",
+      "code_city": "LUR"
+    },
+    {
+      "id": 9232,
+      "name": "Papua New Guinea - Mussau - Mussau",
+      "code": "MWU",
+      "country": "Papua New Guinea",
+      "code_city": "MWU"
+    },
+    {
+      "id": 9236,
+      "name": "United States - Union City - Everett-Stewart",
+      "code": "UCY",
+      "country": "United States",
+      "code_city": "UCY"
+    },
+    {
+      "id": 9267,
+      "name": "Indonesia - Sawu - Sawu",
+      "code": "SAU",
+      "country": "Indonesia",
+      "code_city": "SAU"
+    },
+    {
+      "id": 9277,
+      "name": "Paraguay - Asuncion - Silvio Pettirossi International Airport",
+      "code": "ASU",
+      "country": "Paraguay",
+      "code_city": "ASU"
+    },
+    {
+      "id": 9279,
+      "name": "Uzbekistan - Nukus - Nukus Airport",
+      "code": "NCU",
+      "country": "Uzbekistan",
+      "code_city": "NCU"
+    },
+    {
+      "id": 9290,
+      "name": "France - Aurillac - Aurillac Airport",
+      "code": "AUR",
+      "country": "France",
+      "code_city": "AUR"
+    },
+    {
+      "id": 9295,
+      "name": "Democratic Republic of the Congo - Basankusu - Basankusu",
+      "code": "BSU",
+      "country": "Democratic Republic of the Congo",
+      "code_city": "BSU"
+    },
+    {
+      "id": 9313,
+      "name": "Spain - Murcia - Murcia Railway Station",
+      "code": "XUT",
+      "country": "Spain",
+      "code_city": "MJV"
+    },
+    {
+      "id": 9341,
+      "name": "Brazil - Iguassu Falls - Cataratas International Airport",
+      "code": "IGU",
+      "country": "Brazil",
+      "code_city": "IGU"
+    },
+    {
+      "id": 9343,
+      "name": "Malaysia - Bintulu - Bintulu Airport",
+      "code": "BTU",
+      "country": "Malaysia",
+      "code_city": "BTU"
+    },
+    {
+      "id": 9353,
+      "name": "Papua New Guinea - Inus - Inus",
+      "code": "IUS",
+      "country": "Papua New Guinea",
+      "code_city": "IUS"
+    },
+    {
+      "id": 9368,
+      "name": "Canada - Eureka - Eureka",
+      "code": "YEU",
+      "country": "Canada",
+      "code_city": "YEU"
+    },
+    {
+      "id": 9372,
+      "name": "Austria - Klagenfurt - Klagenfurt Airport",
+      "code": "KLU",
+      "country": "Austria",
+      "code_city": "KLU"
+    },
+    {
+      "id": 9385,
+      "name": "Marshall Islands - Jaluit Island - Jaluit Island",
+      "code": "UIT",
+      "country": "Marshall Islands",
+      "code_city": "UIT"
+    },
+    {
+      "id": 9413,
+      "name": "Indonesia - Ujung Pandang - Sultan Hasanuddin International Airport",
+      "code": "UPG",
+      "country": "Indonesia",
+      "code_city": "UPG"
+    },
+    {
+      "id": 9419,
+      "name": "Australia - Laura - Laura",
+      "code": "LUU",
+      "country": "Australia",
+      "code_city": "LUU"
+    },
+    {
+      "id": 9426,
+      "name": "Laos - Udomxay - Udomxay",
+      "code": "UDO",
+      "country": "Laos",
+      "code_city": "UDO"
+    },
+    {
+      "id": 9432,
+      "name": "Canada - Duncan/Quam - Duncan/Quam",
+      "code": "DUQ",
+      "country": "Canada",
+      "code_city": "DUQ"
+    },
+    {
+      "id": 9448,
+      "name": "Norway - Berkak - Berkak Railway Station",
+      "code": "XUB",
+      "country": "Norway",
+      "code_city": "XUB"
+    },
+    {
+      "id": 9469,
+      "name": "Nigeria - Maiduguri - Maiduguri",
+      "code": "MIU",
+      "country": "Nigeria",
+      "code_city": "MIU"
+    },
+    {
+      "id": 9472,
+      "name": "Iran - Abu Musa - Abu Musa",
+      "code": "AEU",
+      "country": "Iran",
+      "code_city": "AEU"
+    },
+    {
+      "id": 9475,
+      "name": "Japan - Beppu - Beppu",
+      "code": "BPU",
+      "country": "Japan",
+      "code_city": "BPU"
+    },
+    {
+      "id": 9480,
+      "name": "French Polynesia - Napuka Island - Napuka Island",
+      "code": "NAU",
+      "country": "French Polynesia",
+      "code_city": "NAU"
+    },
+    {
+      "id": 9495,
+      "name": "Zimbabwe - Mutare - Mutare",
+      "code": "UTA",
+      "country": "Zimbabwe",
+      "code_city": "UTA"
+    },
+    {
+      "id": 9502,
+      "name": "Papua New Guinea - Dumpu - Dumpu",
+      "code": "DPU",
+      "country": "Papua New Guinea",
+      "code_city": "DPU"
+    },
+    {
+      "id": 9505,
+      "name": "United States - Kuparuk - Kuparuk",
+      "code": "UUK",
+      "country": "United States",
+      "code_city": "UUK"
+    },
+    {
+      "id": 9519,
+      "name": "Japan - Osaka - Kobe Airport",
+      "code": "UKB",
+      "country": "Japan",
+      "code_city": "OSA"
+    },
+    {
+      "id": 9537,
+      "name": "United Kingdom - Out Skerries - Outer Skerries",
+      "code": "OUK",
+      "country": "United Kingdom",
+      "code_city": "OUK"
+    },
+    {
+      "id": 9538,
+      "name": "Colombia - Buenaventura - Buenaventura",
+      "code": "BUN",
+      "country": "Colombia",
+      "code_city": "BUN"
+    },
+    {
+      "id": 9554,
+      "name": "India - Kanpur - Kanpur Airport",
+      "code": "KNU",
+      "country": "India",
+      "code_city": "KNU"
+    },
+    {
+      "id": 9573,
+      "name": "French Polynesia - Nukutavake - Nukutavake",
+      "code": "NUK",
+      "country": "French Polynesia",
+      "code_city": "NUK"
+    },
+    {
+      "id": 9582,
+      "name": "Oman - Fahud - Fahud",
+      "code": "FAU",
+      "country": "Oman",
+      "code_city": "FAU"
+    },
+    {
+      "id": 9586,
+      "name": "Mexico - Aguascalientes - Aguascalients International Airport",
+      "code": "AGU",
+      "country": "Mexico",
+      "code_city": "AGU"
+    },
+    {
+      "id": 9607,
+      "name": "France - Tours - Val de Loire Airport",
+      "code": "TUF",
+      "country": "France",
+      "code_city": "TUF"
+    },
+    {
+      "id": 9625,
+      "name": "Norway - Ringebu - Ringebu Railway Station",
+      "code": "XUQ",
+      "country": "Norway",
+      "code_city": "XUQ"
+    },
+    {
+      "id": 9628,
+      "name": "New Caledonia - Ouvea - Ouvea Airport",
+      "code": "UVE",
+      "country": "New Caledonia",
+      "code_city": "UVE"
+    },
+    {
+      "id": 9632,
+      "name": "Canada - Summer Beaver - Summer Beaver",
+      "code": "SUR",
+      "country": "Canada",
+      "code_city": "SUR"
+    },
+    {
+      "id": 9636,
+      "name": "Democratic Republic of the Congo - Lusanga - Lusanga",
+      "code": "LUS",
+      "country": "Democratic Republic of the Congo",
+      "code_city": "LUS"
+    },
+    {
+      "id": 9660,
+      "name": "Burkina Faso - Leo - Leo",
+      "code": "XLU",
+      "country": "Burkina Faso",
+      "code_city": "XLU"
+    },
+    {
+      "id": 9663,
+      "name": "China - Huizhou - Huizhou Airport",
+      "code": "HUZ",
+      "country": "China",
+      "code_city": "HUZ"
+    },
+    {
+      "id": 9671,
+      "name": "Nepal - Lukla - Lukla",
+      "code": "LUA",
+      "country": "Nepal",
+      "code_city": "LUA"
+    },
+    {
+      "id": 9678,
+      "name": "United States - Gulf Shores - Edwards",
+      "code": "GUF",
+      "country": "United States",
+      "code_city": "GUF"
+    },
+    {
+      "id": 9723,
+      "name": "Honduras - Utila - Utila",
+      "code": "UII",
+      "country": "Honduras",
+      "code_city": "UII"
+    },
+    {
+      "id": 9729,
+      "name": "Philippines - Cuyo - Cuyo",
+      "code": "CYU",
+      "country": "Philippines",
+      "code_city": "CYU"
+    },
+    {
+      "id": 9731,
+      "name": "South Korea - Jeju - Chuja Heliport",
+      "code": "JCJ",
+      "country": "South Korea",
+      "code_city": "CJU"
+    },
+    {
+      "id": 9733,
+      "name": "Venezuela - Guiria - Guiria",
+      "code": "GUI",
+      "country": "Venezuela",
+      "code_city": "GUI"
+    },
+    {
+      "id": 9743,
+      "name": "United States - Concord - Concord",
+      "code": "USA",
+      "country": "United States",
+      "code_city": "USA"
+    },
+    {
+      "id": 9756,
+      "name": "Germany - Neumuenster - Neumuenster",
+      "code": "EUM",
+      "country": "Germany",
+      "code_city": "EUM"
+    },
+    {
+      "id": 9767,
+      "name": "Netherlands - Uden - Volkel",
+      "code": "UDE",
+      "country": "Netherlands",
+      "code_city": "UDE"
+    },
+    {
+      "id": 9774,
+      "name": "South Africa - Thaba Nchu - Thaba Nchu",
+      "code": "TCU",
+      "country": "South Africa",
+      "code_city": "TCU"
+    },
+    {
+      "id": 9783,
+      "name": "South Korea - Jeju - Jeju International Airport",
+      "code": "CJU",
+      "country": "South Korea",
+      "code_city": "CJU"
+    },
+    {
+      "id": 9786,
+      "name": "Japan - Ube - Yamaguchi Ube Airport",
+      "code": "UBJ",
+      "country": "Japan",
+      "code_city": "UBJ"
+    },
+    {
+      "id": 9794,
+      "name": "Brazil - Monte Dourado - Monte Dourado",
+      "code": "MEU",
+      "country": "Brazil",
+      "code_city": "MEU"
+    },
+    {
+      "id": 9806,
+      "name": "Brazil - Ourinhos - Ourinhos",
+      "code": "OUS",
+      "country": "Brazil",
+      "code_city": "OUS"
+    },
+    {
+      "id": 9829,
+      "name": "Saudi Arabia - Zilfi - Zilfi",
+      "code": "ZUL",
+      "country": "Saudi Arabia",
+      "code_city": "ZUL"
+    },
+    {
+      "id": 9830,
+      "name": "United States - Eunice - Eunice",
+      "code": "UCE",
+      "country": "United States",
+      "code_city": "UCE"
+    },
+    {
+      "id": 9836,
+      "name": "Wallis and Futuna - Futuna Island - Futuna Island",
+      "code": "FUT",
+      "country": "Wallis and Futuna",
+      "code_city": "FUT"
+    },
+    {
+      "id": 9851,
+      "name": "Indonesia - Pomala - Pomala",
+      "code": "PUM",
+      "country": "Indonesia",
+      "code_city": "PUM"
+    },
+    {
+      "id": 9864,
+      "name": "Pakistan - Quetta - Quetta Airport",
+      "code": "UET",
+      "country": "Pakistan",
+      "code_city": "UET"
+    },
+    {
+      "id": 9869,
+      "name": "United States - Juneau - Juneau International Airport",
+      "code": "JNU",
+      "country": "United States",
+      "code_city": "JNU"
+    },
+    {
+      "id": 9870,
+      "name": "United States - Houston - Andrau Airpark",
+      "code": "AAP",
+      "country": "United States",
+      "code_city": "HOU"
+    },
+    {
+      "id": 9877,
+      "name": "Democratic Republic of the Congo - Butembo - Butembo",
+      "code": "RUE",
+      "country": "Democratic Republic of the Congo",
+      "code_city": "RUE"
+    },
+    {
+      "id": 9879,
+      "name": "United States - Eufaula - Weedon Field",
+      "code": "EUF",
+      "country": "United States",
+      "code_city": "EUF"
+    },
+    {
+      "id": 9881,
+      "name": "New Caledonia - Houailou - Houailou",
+      "code": "HLU",
+      "country": "New Caledonia",
+      "code_city": "HLU"
+    },
+    {
+      "id": 9883,
+      "name": "Papua New Guinea - Ruti - Ruti",
+      "code": "RUU",
+      "country": "Papua New Guinea",
+      "code_city": "RUU"
+    },
+    {
+      "id": 9884,
+      "name": "United States - Upland - Cable Heliport",
+      "code": "JUP",
+      "country": "United States",
+      "code_city": "CCB"
+    },
+    {
+      "id": 9893,
+      "name": "United States - Phoenix - Luke AFB",
+      "code": "LUF",
+      "country": "United States",
+      "code_city": "PHX"
+    },
+    {
+      "id": 9905,
+      "name": "United States - Houma - Terrebonne",
+      "code": "HUM",
+      "country": "United States",
+      "code_city": "HUM"
+    },
+    {
+      "id": 9912,
+      "name": "Brazil - Apucarana - Apucarana",
+      "code": "APU",
+      "country": "Brazil",
+      "code_city": "APU"
+    },
+    {
+      "id": 9916,
+      "name": "United States - Sun Valley - Friedman Memorial Airport",
+      "code": "SUN",
+      "country": "United States",
+      "code_city": "SUN"
+    },
+    {
+      "id": 9937,
+      "name": "Papua New Guinea - Upiara - Upiara",
+      "code": "UPR",
+      "country": "Papua New Guinea",
+      "code_city": "UPR"
+    },
+    {
+      "id": 9942,
+      "name": "Guatemala - Guatemala City - La Aurora International Airport",
+      "code": "GUA",
+      "country": "Guatemala",
+      "code_city": "GUA"
+    },
+    {
+      "id": 9959,
+      "name": "Australia - Queenstown - Queenstown",
+      "code": "UEE",
+      "country": "Australia",
+      "code_city": "UEE"
+    },
+    {
+      "id": 9966,
+      "name": "South Korea - Suwon - Suwon",
+      "code": "SWU",
+      "country": "South Korea",
+      "code_city": "SWU"
+    },
+    {
+      "id": 9979,
+      "name": "Brazil - Urubupunga - Ernesto Pochler",
+      "code": "URB",
+      "country": "Brazil",
+      "code_city": "URB"
+    },
+    {
+      "id": 9981,
+      "name": "Australia - Mabuiag Island - Mabuiag Island",
+      "code": "UBB",
+      "country": "Australia",
+      "code_city": "UBB"
+    },
+    {
+      "id": 9999,
+      "name": "Crimea - Sevastopol - Belbek",
+      "code": "UKS",
+      "country": "Crimea",
+      "code_city": "UKS"
+    },
+    {
+      "id": 10004,
+      "name": "Brazil - Juara - Juara",
+      "code": "JUA",
+      "country": "Brazil",
+      "code_city": "JUA"
+    },
+    {
+      "id": 10039,
+      "name": "Peru - Saposoa - Saposoa",
+      "code": "SQU",
+      "country": "Peru",
+      "code_city": "SQU"
+    },
+    {
+      "id": 10058,
+      "name": "Vanuatu - Gaua - Gaua",
+      "code": "ZGU",
+      "country": "Vanuatu",
+      "code_city": "ZGU"
+    },
+    {
+      "id": 10068,
+      "name": "South Korea - Gunsan - Gunsan Airport",
+      "code": "KUV",
+      "country": "South Korea",
+      "code_city": "KUV"
+    },
+    {
+      "id": 10071,
+      "name": "South Africa - Ulusaba - Ulusaba",
+      "code": "ULX",
+      "country": "South Africa",
+      "code_city": "ULX"
+    },
+    {
+      "id": 10074,
+      "name": "Russia - Novyj Urengoj - Novy Urengoy Airport",
+      "code": "NUX",
+      "country": "Russia",
+      "code_city": "NUX"
+    },
+    {
+      "id": 10080,
+      "name": "United States - Columbia - Owens Field",
+      "code": "CUB",
+      "country": "United States",
+      "code_city": "CAE"
+    },
+    {
+      "id": 10090,
+      "name": "Tunisia - Tunis - Tunis-Carthage International Airport",
+      "code": "TUN",
+      "country": "Tunisia",
+      "code_city": "TUN"
+    },
+    {
+      "id": 10140,
+      "name": "Myanmar - Manaung - Manaung",
+      "code": "MGU",
+      "country": "Myanmar",
+      "code_city": "MGU"
+    },
+    {
+      "id": 10146,
+      "name": "Mexico - San Luis Rio Colorado - San Luis Rio Colorado",
+      "code": "UAC",
+      "country": "Mexico",
+      "code_city": "UAC"
+    },
+    {
+      "id": 10152,
+      "name": "Solomon Islands - Marau Sound - Marau Sound",
+      "code": "RUS",
+      "country": "Solomon Islands",
+      "code_city": "RUS"
+    },
+    {
+      "id": 10153,
+      "name": "Norway - Marau Sound - Lysaker Railway Station",
+      "code": "XUI",
+      "country": "Norway",
+      "code_city": "XUI"
+    },
+    {
+      "id": 10157,
+      "name": "Guatemala - Huehuetenango - Huehuetenango",
+      "code": "HUG",
+      "country": "Guatemala",
+      "code_city": "HUG"
+    },
+    {
+      "id": 10191,
+      "name": "United States - Hugo - Hugo",
+      "code": "HUJ",
+      "country": "United States",
+      "code_city": "HUJ"
+    },
+    {
+      "id": 10200,
+      "name": "Burkina Faso - Po - Po",
+      "code": "PUP",
+      "country": "Burkina Faso",
+      "code_city": "PUP"
+    },
+    {
+      "id": 10205,
+      "name": "Cameroon - Batouri - Batouri",
+      "code": "OUR",
+      "country": "Cameroon",
+      "code_city": "OUR"
+    },
+    {
+      "id": 10211,
+      "name": "Honduras - Juticalpa - Juticalpa",
+      "code": "JUT",
+      "country": "Honduras",
+      "code_city": "JUT"
+    },
+    {
+      "id": 10213,
+      "name": "Botswana - Maun - Maun Airport",
+      "code": "MUB",
+      "country": "Botswana",
+      "code_city": "MUB"
+    },
+    {
+      "id": 10219,
+      "name": "Brazil - Tucuma - Tucuma",
+      "code": "TUZ",
+      "country": "Brazil",
+      "code_city": "TUZ"
+    },
+    {
+      "id": 10222,
+      "name": "Australia - Wauchope - Wauchope",
+      "code": "WAU",
+      "country": "Australia",
+      "code_city": "WAU"
+    },
+    {
+      "id": 10247,
+      "name": "Tajikistan - Kulyab - Kulyab Airport",
+      "code": "TJU",
+      "country": "Tajikistan",
+      "code_city": "TJU"
+    },
+    {
+      "id": 10260,
+      "name": "Oman - Sur - Sur",
+      "code": "SUH",
+      "country": "Oman",
+      "code_city": "SUH"
+    },
+    {
+      "id": 10289,
+      "name": "United Kingdom - London - Euston Railway Station",
+      "code": "QQU",
+      "country": "United Kingdom",
+      "code_city": "LON"
+    },
+    {
+      "id": 10298,
+      "name": "Spain - Corvera - Corvera International",
+      "code": "RMU",
+      "country": "Spain",
+      "code_city": "RMU"
+    },
+    {
+      "id": 10303,
+      "name": "Kyrgyzstan - Bishkek - Manas International Airport",
+      "code": "FRU",
+      "country": "Kyrgyzstan",
+      "code_city": "FRU"
+    },
+    {
+      "id": 10307,
+      "name": "Papua New Guinea - Buka - Buka",
+      "code": "BUA",
+      "country": "Papua New Guinea",
+      "code_city": "BUA"
+    },
+    {
+      "id": 10334,
+      "name": "Germany - Wuppertal - Wuppertal Hbf Railway Station",
+      "code": "UWP",
+      "country": "Germany",
+      "code_city": "UWP"
+    },
+    {
+      "id": 10351,
+      "name": "Honduras - Puerto Lempira - Puerto Lempira",
+      "code": "PEU",
+      "country": "Honduras",
+      "code_city": "PEU"
+    },
+    {
+      "id": 10359,
+      "name": "Philippines - Busuanga - Busuanga Airport",
+      "code": "USU",
+      "country": "Philippines",
+      "code_city": "USU"
+    },
+    {
+      "id": 10369,
+      "name": "Vietnam - Pleiku - Pleiku Airport",
+      "code": "PXU",
+      "country": "Vietnam",
+      "code_city": "PXU"
+    },
+    {
+      "id": 10384,
+      "name": "Antigua and Barbuda - Antigua - V.C. Bird International Airport",
+      "code": "ANU",
+      "country": "Antigua and Barbuda",
+      "code_city": "ANU"
+    },
+    {
+      "id": 10408,
+      "name": "Romania - Satu Mare - Satu Mare International Airport",
+      "code": "SUJ",
+      "country": "Romania",
+      "code_city": "SUJ"
+    },
+    {
+      "id": 10417,
+      "name": "Brazil - Cururupu - Cururupu",
+      "code": "CPU",
+      "country": "Brazil",
+      "code_city": "CPU"
+    },
+    {
+      "id": 10431,
+      "name": "China - Chengdu - Chengdu Shuangliu International Airport",
+      "code": "CTU",
+      "country": "China",
+      "code_city": "CTU"
+    },
+    {
+      "id": 10441,
+      "name": "Colombia - Nunchia - Nunchia",
+      "code": "NUH",
+      "country": "Colombia",
+      "code_city": "NUH"
+    },
+    {
+      "id": 10446,
+      "name": "Panama - Tubala - Tubala",
+      "code": "TUW",
+      "country": "Panama",
+      "code_city": "TUW"
+    }
+  ]
+}

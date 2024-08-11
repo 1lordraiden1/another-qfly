@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49" height="48" viewBox="0 0 49 48">
+    <defs>
+        <filter id="m0k6wtxvia" x="0" y="0" width="49" height="48" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 3318">
+        <g style="filter:url(#m0k6wtxvia)">
+            <path data-name="Path 6672" d="M15.5 0A15.256 15.256 0 0 1 31 15a15.256 15.256 0 0 1-15.5 15A15.256 15.256 0 0 1 0 15 15.256 15.256 0 0 1 15.5 0z" transform="translate(9 6)" style="fill:#f3f7fb"/>
+        </g>
+        <g data-name="svgexport-17 (14)">
+            <path data-name="Path 6413" d="m78.766 16.221-5.726-3.73a.6.6 0 0 0-.656 0l-5.608 3.719V1.2A1.277 1.277 0 0 1 68.114 0h9.314a1.277 1.277 0 0 1 1.338 1.2z" transform="translate(-48.271 12.89)" style="fill:#007f81;fill-rule:evenodd"/>
+        </g>
+    </g>
+</svg>
